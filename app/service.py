@@ -211,8 +211,12 @@ class KoreaCalendarService:
 
         t0 = time.time()
         try:
+            # 해가 바뀌어도 항상 현재 연도 기준 최소 +6년 미래까지 자동 확장(Rolling Horizon)
+            cur_y = date.today().year
+            effective_end_year = max(end_year, cur_y + 6)
+
             # 1. 내장 KASI 표준 천문·역법 엔진으로 전 연도 기본 데이터 생성
-            base_events = generate_multi_year_events(start_year, end_year)
+            base_events = generate_multi_year_events(start_year, effective_end_year)
 
             # 2. 공공데이터포털 한국천문연구원_특일 정보 OpenAPI 키가 있으면 실시간 병합
             api_cfg = load_api_config()
@@ -220,8 +224,7 @@ class KoreaCalendarService:
             api_stats: Dict[str, Any] = {"ok": False, "fetched_count": 0, "mode": "KASI_ENGINE"}
 
             if service_key:
-                cur_y = date.today().year
-                target_api_years = openapi_years or [cur_y - 1, cur_y, cur_y + 1]
+                target_api_years = openapi_years or [cur_y - 1, cur_y, cur_y + 1, cur_y + 2]
                 api_events, api_stats = fetch_kasi_openapi_events(
                     service_key=service_key,
                     years=target_api_years,
@@ -236,7 +239,7 @@ class KoreaCalendarService:
                     )
 
             # 3. 사용자 정의 커스텀 기념일 병합
-            custom_evs = self._expand_custom_events(start_year, end_year)
+            custom_evs = self._expand_custom_events(start_year, effective_end_year)
             if custom_evs:
                 base_events.extend(custom_evs)
 

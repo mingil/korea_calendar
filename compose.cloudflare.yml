@@ -1,0 +1,36 @@
+services:
+  korea-calendar:
+    image: kimmingil/korea_calendar:latest
+    container_name: korea_calendar
+    restart: unless-stopped
+    init: true
+    user: "${PUID:-1026}:${PGID:-100}"
+    ports:
+      - "${KOREA_CAL_EXTERNAL_PORT:-38503}:8500"
+    environment:
+      - TZ=Asia/Seoul
+      - KOREA_CAL_HOST=0.0.0.0
+      - KOREA_CAL_PORT=8500
+      - KOREA_CAL_AUTO_SYNC_MINUTES=${KOREA_CAL_AUTO_SYNC_MINUTES:-720}
+      - DATA_GO_KR_SERVICE_KEY=${DATA_GO_KR_SERVICE_KEY:-}
+      - KASI_APPLIED_DATE=${KASI_APPLIED_DATE:-2026-05-14}
+      - KASI_EXPIRE_DATE=${KASI_EXPIRE_DATE:-2028-05-14}
+    volumes:
+      - ./output:/app/output
+      - ./data:/app/data
+      - ./logs:/app/logs
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1:8500/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+
+  # (선택) 공유기 포트포워딩 없이 외부 도메인으로 즉시 접속하기 위한 Cloudflare Tunnel 사이드카
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: korea_calendar_tunnel
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run --token ${CLOUDFLARE_TUNNEL_TOKEN:-}
+    depends_on:
+      - korea-calendar

@@ -60,8 +60,16 @@ def load_api_config() -> Dict[str, Any]:
             saved = {}
 
     service_key = saved.get("service_key", "").strip() or env_key
-    applied_date = saved.get("applied_date") or DEFAULT_KASI_META["applied_date"]
-    expire_date = saved.get("expire_date") or DEFAULT_KASI_META["expire_date"]
+    applied_date = (
+        saved.get("applied_date")
+        or os.environ.get("KASI_APPLIED_DATE", "").strip()
+        or DEFAULT_KASI_META["applied_date"]
+    )
+    expire_date = (
+        saved.get("expire_date")
+        or os.environ.get("KASI_EXPIRE_DATE", "").strip()
+        or DEFAULT_KASI_META["expire_date"]
+    )
 
     # 만료예정일까지 남은 일수 계산
     days_remaining = None

@@ -1386,8 +1386,9 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
       const ySel = document.getElementById('calYearSelect');
       const mSel = document.getElementById('calMonthSelect');
       const lySel = document.getElementById('listYearSelect');
+      const maxYear = Math.max(2032, curYear + 6);
       ySel.innerHTML = '';
-      for (let y = 2020; y <= 2032; y++) {
+      for (let y = 2020; y <= maxYear; y++) {
         const opt = document.createElement('option');
         opt.value = y;
         opt.textContent = y + '년';
