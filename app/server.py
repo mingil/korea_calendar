@@ -17,6 +17,7 @@ from app.config import (
     DEFAULT_START_YEAR,
     OUTPUT_DIR,
     SHARED_DIR,
+    get_internal_service_key,
     load_api_config,
     save_api_config,
 )
@@ -157,31 +158,96 @@ def api_sync(
 
 
 # ------------------------------------------------------------------
-# 공공데이터포털 한국천문연구원_특일 정보 API 키 설정 & 테스트
+# 공공데이터포털 한국천문연구원_특일 정보 API 상태 확인 & 보안 설정 (개인키 비노출)
 # ------------------------------------------------------------------
 @app.get("/api/kasi-config")
 def api_get_kasi_config() -> Dict[str, Any]:
-    return load_api_config()
+    """개인 인증키 원문을 절대 포함하지 않는 안전한 연동 상태 정보만 반환합니다."""
+    stats = service.get_stats()
+    cfg = load_api_config()
+    cfg["last_synced_at"] = stats.get("last_synced_at")
+    cfg["next_auto_sync_at"] = stats.get("next_auto_sync_at")
+    cfg["total_events"] = stats.get("total_events")
+    return cfg
+
+
+@app.post("/api/kasi-verify")
+def api_verify_kasi_connection() -> Dict[str, Any]:
+    """서버 내부에 보관된 인증키(노출 없음)로 즉시 한국천문연구원 API 연결 및 자동 업데이트 상태를 점검합니다."""
+    internal_key = get_internal_service_key()
+    cfg_now = load_api_config()
+    if internal_key:
+        test_res = test_kasi_api_key(internal_key)
+        status_msg = (
+            f"{test_res['message']} · 12시간 주기 자동 업데이트 정상 작동 중"
+            if test_res.get("ok")
+            else f"⚠️ OpenAPI 점검 알림: {test_res['message']} (내장 KASI 천문·역법 엔진으로 무중단 자동 업데이트 유지 중)"
+        )
+        saved = save_api_config(
+            service_key="",
+            applied_date=cfg_now.get("applied_date", "2026-05-14"),
+            expire_date=cfg_now.get("expire_date", "2028-05-14"),
+            last_api_status=status_msg,
+            last_api_ok=bool(test_res.get("ok")),
+            keep_existing_key_if_blank=True,
+        )
+        service.sync()
+    else:
+        sync_res = service.sync()
+        status_msg = f"✅ 내장 KASI 천문·역법 표준 엔진 정상 작동 확인 (총 {sync_res['total_events']}건 · 12시간 주기 자동 업데이트 작동 중)"
+        test_res = {"ok": True, "message": status_msg}
+        saved = save_api_config(
+            service_key="",
+            applied_date=cfg_now.get("applied_date", "2026-05-14"),
+            expire_date=cfg_now.get("expire_date", "2028-05-14"),
+            last_api_status=status_msg,
+            last_api_ok=True,
+            keep_existing_key_if_blank=True,
+        )
+
+    stats = service.get_stats()
+    saved["last_synced_at"] = stats.get("last_synced_at")
+    saved["next_auto_sync_at"] = stats.get("next_auto_sync_at")
+    return {
+        "config": saved,
+        "test_result": test_res,
+    }
 
 
 @app.post("/api/kasi-config")
 def api_save_kasi_config(req: ApiKeyConfigRequest) -> Dict[str, Any]:
-    key = req.service_key.strip()
-    if key:
-        test_res = test_kasi_api_key(key)
-        status_msg = test_res["message"]
+    """
+    새 인증키가 입력된 경우에만 교체 저장하며, 빈 값이면 기존에 보호된 인증키를 그대로 유지합니다.
+    응답에는 인증키 원문을 절대 포함하지 않습니다.
+    """
+    new_key = req.service_key.strip()
+    effective_key = new_key or get_internal_service_key()
+
+    if effective_key:
+        test_res = test_kasi_api_key(effective_key)
+        status_msg = (
+            f"{test_res['message']} · 12시간 주기 자동 업데이트 정상 작동 중"
+            if test_res.get("ok")
+            else f"⚠️ 인증키 확인 필요: {test_res['message']} (내장 KASI 천문·역법 엔진으로 자동 업데이트 유지 중)"
+        )
+        ok_flag = bool(test_res.get("ok"))
     else:
-        test_res = {"ok": False, "message": "인증키가 비어 있어 내장 KASI 천문·역법 엔진 단독 모드로 동작합니다."}
-        status_msg = test_res["message"]
+        status_msg = "✅ 내장 KASI 천문·역법 표준 엔진 단독 가동 중 (12시간 주기 자동 업데이트 작동 중)"
+        test_res = {"ok": True, "message": status_msg}
+        ok_flag = True
 
     saved = save_api_config(
-        service_key=key,
+        service_key=new_key,
         applied_date=req.applied_date,
         expire_date=req.expire_date,
         last_api_status=status_msg,
+        last_api_ok=ok_flag,
+        keep_existing_key_if_blank=True,
     )
-    if test_res.get("ok"):
-        service.sync()
+    service.sync()
+    stats = service.get_stats()
+    saved["last_synced_at"] = stats.get("last_synced_at")
+    saved["next_auto_sync_at"] = stats.get("next_auto_sync_at")
     return {
         "config": saved,
         "test_result": test_res,
@@ -995,7 +1061,7 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
       <div class="hero-actions">
         <button class="btn btn-green" onclick="switchTab('share')">📤 캘린더 파일 공유 & 다운로드</button>
         <button class="btn" onclick="openCustomModal()">⭐ 나만의 기념일 추가</button>
-        <button class="btn" onclick="openApiModal()">🔑 공공데이터포털 API 설정</button>
+        <button class="btn" onclick="openApiModal()">🛡️ 공공데이터포털 연동 & 자동업데이트 상태</button>
         <button class="btn btn-primary" onclick="triggerSync()">🔄 즉시 동기화</button>
       </div>
     </header>
@@ -1204,10 +1270,15 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
               <span style="color:var(--text-muted);">활용유형 / 상태</span><strong>계정개발 (연장신청 완료)</strong>
               <span style="color:var(--text-muted);">신청일 / 만료예정일</span><strong>2026-05-14 ~ 2028-05-14</strong>
               <span style="color:var(--text-muted);">연동 오퍼레이션</span><span>국경일(getHoliDeInfo) · 공휴일(getRestDeInfo) · 기념일(getAnniversaryInfo) · 24절기(get24DivisionsInfo) · 잡절(getSundryDayInfo)</span>
+              <span style="color:var(--text-muted);">개인정보 보호</span><strong style="color:#34d399;">🔒 인증키 서버 내부 보안 보관 중 (화면·외부 절대 비노출)</strong>
+              <span style="color:var(--text-muted);">자동 업데이트</span><strong id="manageAutoSyncText" style="color:#34d399;">🟢 12시간 주기 자동 갱신 및 미래 연도 자동 확장 작동 중</strong>
               <span style="color:var(--text-muted);">현재 엔진 상태</span><strong id="manageApiStatusText" style="color:#60a5fa;">-</strong>
             </div>
           </div>
-          <button class="btn btn-primary" onclick="openApiModal()">🔑 공공데이터포털 일반 인증키(ServiceKey) 입력 / 변경</button>
+          <div style="display:flex;flex-wrap:wrap;gap:10px;">
+            <button class="btn btn-primary" onclick="openApiModal()">🛡️ 연동 상태 확인 및 보안 설정 열기</button>
+            <button class="btn" onclick="verifyApiStatusNow()">🔍 지금 연결 상태 점검하기</button>
+          </div>
         </div>
 
         <div class="panel-box">
@@ -1256,34 +1327,69 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
     </div>
   </div>
 
-  <!-- 공공데이터포털 API 키 설정 모달 -->
+  <!-- 공공데이터포털 연동 & 자동업데이트 안심 상태 모달 (개인 인증키 절대 비노출) -->
   <div class="modal-backdrop" id="apiModal" onclick="if(event.target===this)closeModal('apiModal')">
-    <div class="modal-box">
+    <div class="modal-box" style="max-width:600px;">
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;">
-        <h3 style="font-size:1.2rem;font-weight:800;">🔑 한국천문연구원_특일 정보 OpenAPI 설정</h3>
+        <h3 style="font-size:1.2rem;font-weight:800;">🛡️ 공공데이터포털 연동 & 자동 업데이트 안심 상태</h3>
         <button class="btn btn-sm" onclick="closeModal('apiModal')">✕ 닫기</button>
       </div>
-      <p style="font-size:0.84rem;color:var(--text-muted);margin-bottom:14px;">
-        공공데이터포털(data.go.kr) 마이페이지 ➔ <strong>[승인] 한국천문연구원_특일 정보</strong>의 일반 인증키(Encoding 또는 Decoding 아무거나)를 붙여넣으시면 자동으로 판별하여 실시간 연동합니다. (비워두셔도 내장 KASI 천문·역법 엔진으로 100% 동작합니다.)
-      </p>
-      <div class="form-group">
-        <label class="form-label">일반 인증키 (ServiceKey - Encoding / Decoding 모두 호환)</label>
-        <input type="text" id="apiServiceKeyInput" class="input" placeholder="공공데이터포털 일반 인증키를 입력하세요" />
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
-        <div class="form-group">
-          <label class="form-label">신청일</label>
-          <input type="text" id="apiAppliedDateInput" class="input" value="2026-05-14" />
+
+      <!-- 안심 상태 요약 카드 -->
+      <div style="background:rgba(16,185,129,0.1);border:1px solid rgba(16,185,129,0.35);border-radius:14px;padding:16px;margin-bottom:16px;">
+        <div style="display:flex;align-items:center;gap:8px;font-weight:800;font-size:1rem;color:#34d399;margin-bottom:10px;">
+          <span>🟢 걱정 없이 꾸준한 자동 업데이트가 정상 작동 중입니다</span>
         </div>
-        <div class="form-group">
-          <label class="form-label">만료예정일</label>
-          <input type="text" id="apiExpireDateInput" class="input" value="2028-05-14" />
+        <div style="display:grid;grid-template-columns:135px 1fr;row-gap:7px;font-size:0.85rem;">
+          <span style="color:var(--text-muted);">개인정보 보호</span>
+          <strong style="color:#f8fafc;">🔒 인증키 서버 내부 보안 격리 (화면·외부 절대 비노출)</strong>
+          <span style="color:var(--text-muted);">인증키 등록 상태</span>
+          <strong id="modalKeySourceText" style="color:#60a5fa;">확인 중...</strong>
+          <span style="color:var(--text-muted);">실시간 연동 상태</span>
+          <strong id="apiTestResultBox" style="color:#34d399;">확인 중...</strong>
+          <span style="color:var(--text-muted);">최근 업데이트</span>
+          <span id="modalLastSyncedText" style="color:#cbd5e1;">-</span>
+          <span style="color:var(--text-muted);">다음 자동 업데이트</span>
+          <span id="modalNextSyncText" style="color:#cbd5e1;">-</span>
+          <span style="color:var(--text-muted);">승인 / 만료예정일</span>
+          <span id="modalExpireSummaryText" style="color:#fbbf24;font-weight:700;">-</span>
+        </div>
+        <div style="margin-top:14px;display:flex;gap:8px;flex-wrap:wrap;">
+          <button class="btn btn-sm btn-green" onclick="verifyApiStatusNow()">🔍 지금 연결 상태 점검 & 즉시 업데이트 확인</button>
         </div>
       </div>
-      <div id="apiTestResultBox" style="font-size:0.84rem;margin:10px 0;color:#34d399;"></div>
-      <div style="display:flex;justify-content:flex-end;gap:10px;margin-top:14px;">
-        <button class="btn" onclick="closeModal('apiModal')">취소</button>
-        <button class="btn btn-primary" onclick="saveApiKeyConfig()">💾 저장 및 연동 테스트</button>
+
+      <!-- 접이식: 인증키 신규 입력 / 변경 (평소에는 닫혀 있으며 기존 키는 절대 표시하지 않음) -->
+      <details style="background:var(--bg-sub);border:1px solid var(--border);border-radius:12px;padding:12px 14px;">
+        <summary style="cursor:pointer;font-weight:700;font-size:0.88rem;color:#94a3b8;user-select:none;">
+          🔐 인증키(ServiceKey) 신규 입력 또는 변경하기 (클릭하여 열기 · 기존 키는 노출되지 않습니다)
+        </summary>
+        <div style="margin-top:12px;">
+          <p style="font-size:0.8rem;color:var(--text-muted);margin-bottom:10px;">
+            보안을 위해 이미 등록된 인증키는 화면에 표시되지 않습니다. 인증키를 새로 등록하거나 교체할 때만 아래 암호 입력칸에 붙여넣고 저장하세요. (빈 칸으로 두면 기존 인증키가 안전하게 그대로 유지됩니다.)
+          </p>
+          <div class="form-group">
+            <label class="form-label">새 일반 인증키 입력 (암호 마스킹 보호 · Encoding/Decoding 자동 호환)</label>
+            <input type="password" id="apiServiceKeyInput" class="input" value="" autocomplete="new-password" placeholder="•••••••••••• (변경할 때만 새 인증키를 붙여넣으세요)" />
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+            <div class="form-group">
+              <label class="form-label">신청일</label>
+              <input type="text" id="apiAppliedDateInput" class="input" value="2026-05-14" />
+            </div>
+            <div class="form-group">
+              <label class="form-label">만료예정일</label>
+              <input type="text" id="apiExpireDateInput" class="input" value="2028-05-14" />
+            </div>
+          </div>
+          <div style="display:flex;justify-content:flex-end;gap:8px;margin-top:8px;">
+            <button class="btn btn-sm btn-primary" onclick="saveApiKeyConfig()">💾 새 설정 보안 저장 및 연동 검증</button>
+          </div>
+        </div>
+      </details>
+
+      <div style="display:flex;justify-content:flex-end;margin-top:14px;">
+        <button class="btn" onclick="closeModal('apiModal')">닫기</button>
       </div>
     </div>
   </div>
@@ -1423,8 +1529,12 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
       const expChip = document.getElementById('expireChip');
       const dRem = cfg.days_remaining;
       expChip.textContent = `만료예정일: ${cfg.expire_date}` + (dRem !== null ? ` (D-${dRem})` : '');
-      document.getElementById('syncModeChip').textContent =
-        `총 ${st.total_events.toLocaleString()}건 수록 (${st.min_year}~${st.max_year}년)`;
+      const syncChip = document.getElementById('syncModeChip');
+      syncChip.className = 'chip approved';
+      syncChip.style.cursor = 'pointer';
+      syncChip.onclick = openApiModal;
+      syncChip.textContent =
+        `🟢 자동 업데이트 가동 중 (12시간 주기 · 총 ${st.total_events.toLocaleString()}건 · 🔒 인증키 보안보호)`;
       document.getElementById('manageApiStatusText').textContent = cfg.last_api_status;
 
       // 브리핑 카드
@@ -1790,14 +1900,37 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
       window.location.href = '/export/events.csv?' + qs.toString();
     }
 
+    function renderApiModalState(cfg) {
+      // 절대 인증키를 input에 넣지 않고 항상 빈 값으로 유지 (개인정보 100% 비노출)
+      document.getElementById('apiServiceKeyInput').value = '';
+      document.getElementById('apiAppliedDateInput').value = cfg.applied_date || '2026-05-14';
+      document.getElementById('apiExpireDateInput').value = cfg.expire_date || '2028-05-14';
+      document.getElementById('modalKeySourceText').textContent = cfg.key_source || '확인됨';
+      document.getElementById('apiTestResultBox').textContent = cfg.last_api_status || '정상 작동 중';
+      document.getElementById('modalLastSyncedText').textContent =
+        (cfg.last_synced_at || '방금 전') + ' (완료)';
+      document.getElementById('modalNextSyncText').textContent =
+        (cfg.next_auto_sync_at || '12시간 후') + ' (매 12시간 주기 자동 갱신 · 미래연도 자동 확장)';
+      const dRem = cfg.days_remaining !== null && cfg.days_remaining !== undefined ? ` (만료까지 D-${cfg.days_remaining}일 남음)` : '';
+      document.getElementById('modalExpireSummaryText').textContent =
+        `신청 ${cfg.applied_date} ~ 만료예정 ${cfg.expire_date}${dRem}`;
+    }
+
     async function openApiModal() {
       const res = await fetch('/api/kasi-config');
       const cfg = await res.json();
-      document.getElementById('apiServiceKeyInput').value = cfg.service_key || '';
-      document.getElementById('apiAppliedDateInput').value = cfg.applied_date || '2026-05-14';
-      document.getElementById('apiExpireDateInput').value = cfg.expire_date || '2028-05-14';
-      document.getElementById('apiTestResultBox').textContent = cfg.last_api_status || '';
+      renderApiModalState(cfg);
       document.getElementById('apiModal').classList.add('open');
+    }
+
+    async function verifyApiStatusNow() {
+      showToast('🔍 등록된 보안 설정으로 한국천문연구원 연동 및 자동업데이트 상태를 점검합니다...');
+      const res = await fetch('/api/kasi-verify', { method: 'POST' });
+      const data = await res.json();
+      renderApiModalState(data.config);
+      showToast('✅ 연동 및 자동 업데이트 상태 점검 완료!');
+      await loadDashboardStats();
+      await loadMonthGrid();
     }
 
     async function saveApiKeyConfig() {
@@ -1806,14 +1939,16 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
         applied_date: document.getElementById('apiAppliedDateInput').value.trim(),
         expire_date: document.getElementById('apiExpireDateInput').value.trim(),
       };
+      // 입력창 즉시 초기화 (화면에 남지 않도록 보호)
+      document.getElementById('apiServiceKeyInput').value = '';
       const res = await fetch('/api/kasi-config', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(body),
       });
       const data = await res.json();
-      document.getElementById('apiTestResultBox').textContent = data.test_result.message;
-      showToast('API 설정이 저장되었습니다.');
+      renderApiModalState(data.config);
+      showToast('🔒 보안 저장 및 자동 업데이트 연동 검증이 완료되었습니다!');
       await loadDashboardStats();
       await loadMonthGrid();
     }

@@ -16,6 +16,7 @@ from app.config import (
     DEFAULT_START_YEAR,
     OUTPUT_DIR,
     SHARED_DIR,
+    get_internal_service_key,
     load_api_config,
     save_api_config,
 )
@@ -220,7 +221,7 @@ class KoreaCalendarService:
 
             # 2. 공공데이터포털 한국천문연구원_특일 정보 OpenAPI 키가 있으면 실시간 병합
             api_cfg = load_api_config()
-            service_key = api_cfg.get("service_key", "")
+            service_key = get_internal_service_key()
             api_stats: Dict[str, Any] = {"ok": False, "fetched_count": 0, "mode": "KASI_ENGINE"}
 
             if service_key:
@@ -232,10 +233,12 @@ class KoreaCalendarService:
                 if api_stats.get("ok") and api_events:
                     base_events = self._merge_openapi_events(base_events, api_events)
                     save_api_config(
-                        service_key=service_key,
+                        service_key="",
                         applied_date=api_cfg.get("applied_date", "2026-05-14"),
                         expire_date=api_cfg.get("expire_date", "2028-05-14"),
-                        last_api_status=f"✅ 공공데이터포털 KASI OpenAPI 실시간 연동됨 ({api_stats.get('fetched_count', 0)}건 동기화)",
+                        last_api_status=f"✅ 공공데이터포털 한국천문연구원 OpenAPI 정상 연결됨 ({api_stats.get('fetched_count', 0)}건 실시간 검증 · 12시간 주기 자동 업데이트 작동 중)",
+                        last_api_ok=True,
+                        keep_existing_key_if_blank=True,
                     )
 
             # 3. 사용자 정의 커스텀 기념일 병합
@@ -685,6 +688,15 @@ class KoreaCalendarService:
             if e.get("year"):
                 years_set.add(e["year"])
 
+        next_sync_at = None
+        if self.last_synced_at and AUTO_SYNC_INTERVAL_MINUTES > 0:
+            try:
+                last_dt = datetime.strptime(self.last_synced_at, "%Y-%m-%d %H:%M:%S")
+                next_dt = last_dt + timedelta(minutes=AUTO_SYNC_INTERVAL_MINUTES)
+                next_sync_at = next_dt.strftime("%Y-%m-%d %H:%M:%S")
+            except Exception:
+                pass
+
         return {
             "total_events": len(evs),
             "holiday_count": holiday_count,
@@ -692,6 +704,8 @@ class KoreaCalendarService:
             "min_year": min(years_set) if years_set else DEFAULT_START_YEAR,
             "max_year": max(years_set) if years_set else DEFAULT_END_YEAR,
             "last_synced_at": self.last_synced_at,
+            "next_auto_sync_at": next_sync_at,
+            "auto_sync_interval_hours": round(AUTO_SYNC_INTERVAL_MINUTES / 60, 1),
             "last_sync_mode": self.last_sync_mode,
             "last_sync_duration_sec": self.last_sync_duration_sec,
             "shared_count": len(self.list_shared_calendars()),

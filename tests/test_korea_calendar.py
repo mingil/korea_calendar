@@ -114,6 +114,16 @@ def test_server_endpoints():
         data = r_stats.json()
         assert data["stats"]["total_events"] > 2000
         assert data["stats"]["api_config"]["expire_date"] == "2028-05-14"
+        # 개인정보(인증키)가 API 응답에 절대 노출되지 않는지 검증
+        assert "service_key" not in data["stats"]["api_config"]
+
+        r_cfg = client.get("/api/kasi-config")
+        assert r_cfg.status_code == 200
+        assert "service_key" not in r_cfg.json()
+
+        r_ver = client.post("/api/kasi-verify")
+        assert r_ver.status_code == 200
+        assert "service_key" not in r_ver.json()["config"]
 
         r_ics = client.get("/calendar/holidays.ics")
         assert r_ics.status_code == 200
