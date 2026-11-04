@@ -81,7 +81,7 @@ class CustomEventCreateRequest(BaseModel):
     description: str = ""
 
 
-@app.get("/health")
+@app.api_route("/health", methods=["GET", "HEAD"])
 def health_check() -> Dict[str, Any]:
     stats = service.get_stats()
     return {
@@ -255,8 +255,8 @@ def api_delete_shared(share_id: str) -> Dict[str, Any]:
     return {"status": "ok"}
 
 
-@app.get("/share/{share_id}.ics")
-@app.get("/share/{share_id}")
+@app.api_route("/share/{share_id}.ics", methods=["GET", "HEAD"])
+@app.api_route("/share/{share_id}", methods=["GET", "HEAD"])
 def download_shared_ics(share_id: str, download: bool = Query(default=False)) -> Response:
     clean_id = share_id.replace(".ics", "")
     items = service.list_shared_calendars()
@@ -314,7 +314,7 @@ def _build_ics_response(
     )
 
 
-@app.get("/calendar.ics")
+@app.api_route("/calendar.ics", methods=["GET", "HEAD"])
 def get_all_calendar_ics(
     emoji: bool = Query(default=True),
     lunar: bool = Query(default=True),
@@ -338,7 +338,7 @@ def get_all_calendar_ics(
     )
 
 
-@app.get("/calendar/{preset_id}.ics")
+@app.api_route("/calendar/{preset_id}.ics", methods=["GET", "HEAD"])
 def get_preset_or_custom_ics(
     preset_id: str,
     categories: Optional[str] = Query(default=None),
@@ -396,7 +396,7 @@ def get_preset_or_custom_ics(
     )
 
 
-@app.get("/export/events.csv")
+@app.api_route("/export/events.csv", methods=["GET", "HEAD"])
 def export_events_csv(
     categories: Optional[str] = Query(default=None),
     start_year: Optional[int] = Query(default=None),
@@ -422,7 +422,7 @@ def export_events_csv(
     )
 
 
-@app.get("/api/qr")
+@app.api_route("/api/qr", methods=["GET", "HEAD"])
 def generate_qr_svg(text: str = Query(..., min_length=1)) -> Response:
     """공유 링크 또는 구독 URL을 스마트폰으로 즉시 스캔할 수 있는 SVG QR코드로 변환합니다."""
     qr = qrcode.QRCode(version=None, box_size=8, border=2)
@@ -1457,10 +1457,12 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
     function renderPresetCards(presets) {
       const wrap = document.getElementById('presetCardsContainer');
       const origin = window.location.origin;
+      const webcalOrigin = origin.replace(/^https?:\/\//i, 'webcal://');
       wrap.innerHTML = '';
       Object.values(presets).forEach(p => {
         const subPath = p.id === 'all' ? '/calendar.ics' : `/calendar/${p.id}.ics`;
         const fullUrl = origin + subPath;
+        const webcalUrl = webcalOrigin + subPath;
         const dlUrl = fullUrl + '?download=true';
         const card = document.createElement('div');
         card.className = 'preset-card';
@@ -1476,6 +1478,7 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
           <div class="preset-actions">
             <a href="${dlUrl}" class="btn btn-sm btn-primary" download>📥 .ics 파일 받기</a>
             <button class="btn btn-sm" onclick="copyText('${fullUrl}', '캘린더 자동 구독 URL이 복사되었습니다!')">🔗 구독 URL 복사</button>
+            <a href="${webcalUrl}" class="btn btn-sm">📲 앱 바로구독</a>
             <button class="btn btn-sm" onclick="openQrModal('${p.title}', '${fullUrl}', '${dlUrl}')">📱 QR 공유</button>
           </div>
         `;
@@ -1536,16 +1539,18 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
         const div = document.createElement('div');
         div.className = 'cal-cell' + (!cell.in_month ? ' other-month' : '') + (cell.is_today ? ' today-cell' : '');
         const dayClass = cell.is_red_day ? 'red' : (cell.is_saturday ? 'sat' : '');
+        const cellPayload = encodeURIComponent(JSON.stringify(cell));
         let evHtml = '';
         cell.events.slice(0, 5).forEach(ev => {
           const payload = encodeURIComponent(JSON.stringify(ev));
-          evHtml += `<div class="ev-chip cat-${ev.category}" onclick="showEventModal('${payload}')" title="${ev.title}">${ev.emoji_title}</div>`;
+          evHtml += `<div class="ev-chip cat-${ev.category}" onclick="event.stopPropagation();showEventModal('${payload}')" title="${ev.title}">${ev.emoji_title}</div>`;
         });
         if (cell.events.length > 5) {
-          evHtml += `<div style="font-size:0.7rem;color:var(--text-muted);padding-left:4px;">+${cell.events.length - 5}건 더보기</div>`;
+          evHtml += `<div style="font-size:0.72rem;color:#60a5fa;padding-left:4px;cursor:pointer;font-weight:700;" onclick="event.stopPropagation();showDaySummaryModal('${cellPayload}')">+${cell.events.length - 5}건 모두 보기</div>`;
         }
+        div.onclick = () => showDaySummaryModal(cellPayload);
         div.innerHTML = `
-          <div class="cell-header">
+          <div class="cell-header" style="cursor:pointer;">
             <span class="day-num ${dayClass}">${cell.day}</span>
             <span class="lunar-mini">${cell.lunar_short} · ${cell.day_ganji}</span>
           </div>
@@ -1553,6 +1558,38 @@ DASHBOARD_HTML = r"""<!DOCTYPE html>
         `;
         container.appendChild(div);
       });
+    }
+
+    function showDaySummaryModal(encodedCell) {
+      const cell = JSON.parse(decodeURIComponent(encodedCell));
+      document.getElementById('modalEvTitle').textContent = `📅 ${cell.year}년 ${cell.month}월 ${cell.day}일 (${cell.weekday_kr}요일)`;
+      const bWrap = document.getElementById('modalEvBadges');
+      bWrap.innerHTML = `
+        <span class="chip">🌕 ${cell.lunar_short} (${cell.day_ganji})</span>
+        ${cell.is_red_day ? '<span class="chip" style="background:var(--red-soft);color:#f87171;">🔴 휴일/일요일</span>' : ''}
+        <button class="btn btn-sm btn-green" onclick="closeModal('eventDetailModal');openCustomModalForDate(${cell.month}, ${cell.day})">➕ 이 날짜에 내 기념일 추가</button>
+      `;
+      const bodyEl = document.getElementById('modalEvBody');
+      if (!cell.events || !cell.events.length) {
+        bodyEl.textContent = '이 날짜에 등록된 특일·절기·기념일이 없습니다.\n상단 [➕ 이 날짜에 내 기념일 추가] 버튼으로 가족 생일이나 개인 일정을 등록할 수 있습니다.';
+      } else {
+        bodyEl.innerHTML = cell.events.map(ev => `
+          <div style="padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.08);">
+            <div style="font-weight:800;font-size:1rem;color:${ev.isHoliday === 'Y' ? '#fca5a5' : '#f8fafc'};">
+              ${ev.emoji_title} <span style="font-size:0.75rem;color:#94a3b8;">[${ev.category_label}]</span>
+            </div>
+            <div style="font-size:0.84rem;color:#cbd5e1;margin-top:4px;white-space:pre-line;">${ev.description}</div>
+          </div>
+        `).join('');
+      }
+      document.getElementById('eventDetailModal').classList.add('open');
+    }
+
+    function openCustomModalForDate(m, d) {
+      document.getElementById('custMonth').value = m;
+      document.getElementById('custDay').value = d;
+      document.getElementById('custCalType').value = 'solar';
+      openCustomModal();
     }
 
     function showEventModal(encodedJson) {
