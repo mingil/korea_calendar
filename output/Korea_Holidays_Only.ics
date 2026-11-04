@@ -1,0 +1,2590 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Korea Special Day Calendar Hub//KASI SpcdeInfoService//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🔴 대한민국 공휴일·대체공휴일·국경일 전용 캘린더
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:kasi-20200101-9f44dafb2a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200101
+DTEND;VALUE=DATE:20200102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-01-01 (수요일)\n[음력/간지] 음력 2019년 12월 7일 (기해년 정축월 계묘일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2019년 12월 7일 (기해년 정축월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200124-83eb62f1f0@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200124
+DTEND;VALUE=DATE:20200125
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-01-24 (금요일)\n[음력/간지] 음력 2019년 12월 30일 (기해년 정축월 병인일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2019년 12월 30일 (기해년 정축월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200125-33df595a3f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-01-25 (토요일)\n[음력/간지] 음력 2020년 1월 1일 (경자년 무인월 정묘일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2020년 1월 1일 (경자년 무인월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200126-89bc807202@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200126
+DTEND;VALUE=DATE:20200127
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-01-26 (일요일)\n[음력/간지] 음력 2020년 1월 2일 (경자년 무인월 무진일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2020년 1월 2일 (경자년 무인월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200127-6e4cd4e720@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200127
+DTEND;VALUE=DATE:20200128
+SUMMARY:🔴 대체공휴일 (설날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-01-27 (월요일)\n[음력/간지] 음력 2020년 1월 3일 (경자년 무인월 기사일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 설날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2020년 1월 3일 (경자년 무인월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200301-99fae96523@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200301
+DTEND;VALUE=DATE:20200302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-03-01 (일요일)\n[음력/간지] 음력 2020년 2월 7일 (경자년 기묘월 계묘일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2020년 2월 7일 (경자년 기묘월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200302-304dd2f4b1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200302
+DTEND;VALUE=DATE:20200303
+SUMMARY:🔴 대체공휴일 (삼일절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-03-02 (월요일)\n[음력/간지] 음력 2020년 2월 8일 (경자년 기묘월 갑진일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 삼일절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2020년 2월 8일 (경자년 기묘월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200415-c11259ee3f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200415
+DTEND;VALUE=DATE:20200416
+SUMMARY:🗳️ 제21대 국회의원선거
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🗳️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-04-15 (수요일)\n[음력/간지] 음력 2020년 3월 23일 (경자년 경진월 무자일)\n\n[상세 안내]\n공직선거법 및 관공서의 공휴일에 관한 규정에 따른 법정공휴일(임기만료에 의한 국회의원선거일)\n• 음력/간지: 음력 2020년 3월 23일 (경자년 경진월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200430-308b9cb71a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200430
+DTEND;VALUE=DATE:20200501
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-04-30 (목요일)\n[음력/간지] 음력 2020년 4월 8일 (경자년 신사월 계묘일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2020년 4월 8일 (경자년 신사월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200505-dfc671eb1d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200505
+DTEND;VALUE=DATE:20200506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-05-05 (화요일)\n[음력/간지] 음력 2020년 4월 13일 (경자년 신사월 무신일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2020년 4월 13일 (경자년 신사월 무신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200606-2c55e997be@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200606
+DTEND;VALUE=DATE:20200607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-06-06 (토요일)\n[음력/간지] 음력 2020년 윤4월 15일 (경자년 윤신사월 경진일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2020년 윤4월 15일 (경자년 윤신사월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200717-3842e87cf8@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200717
+DTEND;VALUE=DATE:20200718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2020-07-17 (금요일)\n[음력/간지] 음력 2020년 5월 27일 (경자년 임오월 신유일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2020년 5월 27일 (경자년 임오월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200815-ddd038b79e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200815
+DTEND;VALUE=DATE:20200816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-08-15 (토요일)\n[음력/간지] 음력 2020년 6월 26일 (경자년 계미월 경인일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2020년 6월 26일 (경자년 계미월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200817-f6a13f1cc8@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200817
+DTEND;VALUE=DATE:20200818
+SUMMARY:🔴 대체공휴일 (광복절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-08-17 (월요일)\n[음력/간지] 음력 2020년 6월 28일 (경자년 계미월 임진일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 광복절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2020년 6월 28일 (경자년 계미월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20200930-8b2bec29e4@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20200930
+DTEND;VALUE=DATE:20201001
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-09-30 (수요일)\n[음력/간지] 음력 2020년 8월 14일 (경자년 을유월 병자일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2020년 8월 14일 (경자년 을유월 병자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20201001-6c855d8016@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20201001
+DTEND;VALUE=DATE:20201002
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-10-01 (목요일)\n[음력/간지] 음력 2020년 8월 15일 (경자년 을유월 정축일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2020년 8월 15일 (경자년 을유월 정축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20201002-475f44eeb9@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20201002
+DTEND;VALUE=DATE:20201003
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-10-02 (금요일)\n[음력/간지] 음력 2020년 8월 16일 (경자년 을유월 무인일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2020년 8월 16일 (경자년 을유월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20201003-5f86a8e928@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20201003
+DTEND;VALUE=DATE:20201004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-10-03 (토요일)\n[음력/간지] 음력 2020년 8월 17일 (경자년 을유월 기묘일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2020년 8월 17일 (경자년 을유월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20201005-4a276e902a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20201005
+DTEND;VALUE=DATE:20201006
+SUMMARY:🔴 대체공휴일 (개천절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-10-05 (월요일)\n[음력/간지] 음력 2020년 8월 19일 (경자년 을유월 신사일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 개천절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2020년 8월 19일 (경자년 을유월 신사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20201009-73808f652c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20201009
+DTEND;VALUE=DATE:20201010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-10-09 (금요일)\n[음력/간지] 음력 2020년 8월 23일 (경자년 을유월 을유일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2020년 8월 23일 (경자년 을유월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20201225-f95a33dc76@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20201225
+DTEND;VALUE=DATE:20201226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2020-12-25 (금요일)\n[음력/간지] 음력 2020년 11월 11일 (경자년 무자월 임인일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2020년 11월 11일 (경자년 무자월 임인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210101-892fb31447@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-01-01 (금요일)\n[음력/간지] 음력 2020년 11월 18일 (경자년 무자월 기유일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2020년 11월 18일 (경자년 무자월 기유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210211-047013fcfd@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210211
+DTEND;VALUE=DATE:20210212
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-02-11 (목요일)\n[음력/간지] 음력 2020년 12월 30일 (경자년 기축월 경인일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2020년 12월 30일 (경자년 기축월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210212-b1f06eb22e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210212
+DTEND;VALUE=DATE:20210213
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-02-12 (금요일)\n[음력/간지] 음력 2021년 1월 1일 (신축년 경인월 신묘일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2021년 1월 1일 (신축년 경인월 신묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210213-939da50e91@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210213
+DTEND;VALUE=DATE:20210214
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-02-13 (토요일)\n[음력/간지] 음력 2021년 1월 2일 (신축년 경인월 임진일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2021년 1월 2일 (신축년 경인월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210301-37bf65a005@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210301
+DTEND;VALUE=DATE:20210302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-03-01 (월요일)\n[음력/간지] 음력 2021년 1월 18일 (신축년 경인월 무신일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2021년 1월 18일 (신축년 경인월 무신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210505-4b7058ab82@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210505
+DTEND;VALUE=DATE:20210506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-05-05 (수요일)\n[음력/간지] 음력 2021년 3월 24일 (신축년 임진월 계축일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2021년 3월 24일 (신축년 임진월 계축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210519-d9c09b9b54@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210519
+DTEND;VALUE=DATE:20210520
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-05-19 (수요일)\n[음력/간지] 음력 2021년 4월 8일 (신축년 계사월 정묘일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2021년 4월 8일 (신축년 계사월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210606-95707d94db@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210606
+DTEND;VALUE=DATE:20210607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-06-06 (일요일)\n[음력/간지] 음력 2021년 4월 26일 (신축년 계사월 을유일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2021년 4월 26일 (신축년 계사월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210717-435c57a166@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210717
+DTEND;VALUE=DATE:20210718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2021-07-17 (토요일)\n[음력/간지] 음력 2021년 6월 8일 (신축년 을미월 병인일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2021년 6월 8일 (신축년 을미월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210815-7006fe7c5c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210815
+DTEND;VALUE=DATE:20210816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-08-15 (일요일)\n[음력/간지] 음력 2021년 7월 8일 (신축년 병신월 을미일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2021년 7월 8일 (신축년 병신월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210816-c9409b3e92@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210816
+DTEND;VALUE=DATE:20210817
+SUMMARY:🔴 대체공휴일 (광복절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-08-16 (월요일)\n[음력/간지] 음력 2021년 7월 9일 (신축년 병신월 병신일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 광복절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2021년 7월 9일 (신축년 병신월 병신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210920-d3220f7b29@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210920
+DTEND;VALUE=DATE:20210921
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-09-20 (월요일)\n[음력/간지] 음력 2021년 8월 14일 (신축년 정유월 신미일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2021년 8월 14일 (신축년 정유월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210921-387421ae99@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210921
+DTEND;VALUE=DATE:20210922
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-09-21 (화요일)\n[음력/간지] 음력 2021년 8월 15일 (신축년 정유월 임신일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2021년 8월 15일 (신축년 정유월 임신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20210922-61ca850595@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20210922
+DTEND;VALUE=DATE:20210923
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-09-22 (수요일)\n[음력/간지] 음력 2021년 8월 16일 (신축년 정유월 계유일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2021년 8월 16일 (신축년 정유월 계유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20211003-ecd4acab62@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20211003
+DTEND;VALUE=DATE:20211004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-10-03 (일요일)\n[음력/간지] 음력 2021년 8월 27일 (신축년 정유월 갑신일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2021년 8월 27일 (신축년 정유월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20211004-40b5c4456a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20211004
+DTEND;VALUE=DATE:20211005
+SUMMARY:🔴 대체공휴일 (개천절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-10-04 (월요일)\n[음력/간지] 음력 2021년 8월 28일 (신축년 정유월 을유일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 개천절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2021년 8월 28일 (신축년 정유월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20211009-693b2ded2b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20211009
+DTEND;VALUE=DATE:20211010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-10-09 (토요일)\n[음력/간지] 음력 2021년 9월 4일 (신축년 무술월 경인일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2021년 9월 4일 (신축년 무술월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20211011-709711db33@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20211011
+DTEND;VALUE=DATE:20211012
+SUMMARY:🔴 대체공휴일 (한글날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-10-11 (월요일)\n[음력/간지] 음력 2021년 9월 6일 (신축년 무술월 임진일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 한글날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2021년 9월 6일 (신축년 무술월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20211225-590f4915f1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20211225
+DTEND;VALUE=DATE:20211226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2021-12-25 (토요일)\n[음력/간지] 음력 2021년 11월 22일 (신축년 경자월 정미일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2021년 11월 22일 (신축년 경자월 정미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220101-451b704a67@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-01-01 (토요일)\n[음력/간지] 음력 2021년 11월 29일 (신축년 경자월 갑인일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2021년 11월 29일 (신축년 경자월 갑인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220131-4ad5a58fc5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220131
+DTEND;VALUE=DATE:20220201
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-01-31 (월요일)\n[음력/간지] 음력 2021년 12월 29일 (신축년 신축월 갑신일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2021년 12월 29일 (신축년 신축월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220201-5c47013a59@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-02-01 (화요일)\n[음력/간지] 음력 2022년 1월 1일 (임인년 임인월 을유일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2022년 1월 1일 (임인년 임인월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220202-aaa451b5d0@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220203
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-02-02 (수요일)\n[음력/간지] 음력 2022년 1월 2일 (임인년 임인월 병술일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2022년 1월 2일 (임인년 임인월 병술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220301-86fc4d44ad@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-03-01 (화요일)\n[음력/간지] 음력 2022년 1월 29일 (임인년 임인월 계축일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2022년 1월 29일 (임인년 임인월 계축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220309-ed7d56c00e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220309
+DTEND;VALUE=DATE:20220310
+SUMMARY:🗳️ 제20대 대통령선거
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🗳️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-03-09 (수요일)\n[음력/간지] 음력 2022년 2월 7일 (임인년 계묘월 신유일)\n\n[상세 안내]\n공직선거법 및 관공서의 공휴일에 관한 규정에 따른 법정공휴일(대통령선거일)\n• 음력/간지: 음력 2022년 2월 7일 (임인년 계묘월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220505-690493ebb3@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220505
+DTEND;VALUE=DATE:20220506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-05-05 (목요일)\n[음력/간지] 음력 2022년 4월 5일 (임인년 을사월 무오일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2022년 4월 5일 (임인년 을사월 무오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220508-fa72bc75af@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220508
+DTEND;VALUE=DATE:20220509
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-05-08 (일요일)\n[음력/간지] 음력 2022년 4월 8일 (임인년 을사월 신유일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2022년 4월 8일 (임인년 을사월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220601-e22ed284b2@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220602
+SUMMARY:🗳️ 제8회 전국동시지방선거
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🗳️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-06-01 (수요일)\n[음력/간지] 음력 2022년 5월 3일 (임인년 병오월 을유일)\n\n[상세 안내]\n공직선거법 및 관공서의 공휴일에 관한 규정에 따른 법정공휴일(전국동시지방선거일)\n• 음력/간지: 음력 2022년 5월 3일 (임인년 병오월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220606-7a3263762c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220606
+DTEND;VALUE=DATE:20220607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-06-06 (월요일)\n[음력/간지] 음력 2022년 5월 8일 (임인년 병오월 경인일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2022년 5월 8일 (임인년 병오월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220717-93a035057f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220717
+DTEND;VALUE=DATE:20220718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2022-07-17 (일요일)\n[음력/간지] 음력 2022년 6월 19일 (임인년 정미월 신미일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2022년 6월 19일 (임인년 정미월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220815-9c5057b8eb@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220815
+DTEND;VALUE=DATE:20220816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-08-15 (월요일)\n[음력/간지] 음력 2022년 7월 18일 (임인년 무신월 경자일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2022년 7월 18일 (임인년 무신월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220909-b020d54de9@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220909
+DTEND;VALUE=DATE:20220910
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-09-09 (금요일)\n[음력/간지] 음력 2022년 8월 14일 (임인년 기유월 을축일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2022년 8월 14일 (임인년 기유월 을축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220910-57c2072173@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220910
+DTEND;VALUE=DATE:20220911
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-09-10 (토요일)\n[음력/간지] 음력 2022년 8월 15일 (임인년 기유월 병인일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2022년 8월 15일 (임인년 기유월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220911-c59361c8af@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220911
+DTEND;VALUE=DATE:20220912
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-09-11 (일요일)\n[음력/간지] 음력 2022년 8월 16일 (임인년 기유월 정묘일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2022년 8월 16일 (임인년 기유월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20220912-39a1195c43@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20220912
+DTEND;VALUE=DATE:20220913
+SUMMARY:🔴 대체공휴일 (추석)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-09-12 (월요일)\n[음력/간지] 음력 2022년 8월 17일 (임인년 기유월 무진일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 추석이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2022년 8월 17일 (임인년 기유월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20221003-141391d54c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20221003
+DTEND;VALUE=DATE:20221004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-10-03 (월요일)\n[음력/간지] 음력 2022년 9월 8일 (임인년 경술월 기축일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2022년 9월 8일 (임인년 경술월 기축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20221009-d811b0f162@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20221009
+DTEND;VALUE=DATE:20221010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-10-09 (일요일)\n[음력/간지] 음력 2022년 9월 14일 (임인년 경술월 을미일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2022년 9월 14일 (임인년 경술월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20221010-7f6d41c992@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20221010
+DTEND;VALUE=DATE:20221011
+SUMMARY:🔴 대체공휴일 (한글날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-10-10 (월요일)\n[음력/간지] 음력 2022년 9월 15일 (임인년 경술월 병신일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 한글날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2022년 9월 15일 (임인년 경술월 병신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20221225-8394068a04@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20221225
+DTEND;VALUE=DATE:20221226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2022-12-25 (일요일)\n[음력/간지] 음력 2022년 12월 3일 (임인년 계축월 임자일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2022년 12월 3일 (임인년 계축월 임자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230101-30b8ab7484@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-01-01 (일요일)\n[음력/간지] 음력 2022년 12월 10일 (임인년 계축월 기미일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2022년 12월 10일 (임인년 계축월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230121-50dd0a1d3b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230121
+DTEND;VALUE=DATE:20230122
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-01-21 (토요일)\n[음력/간지] 음력 2022년 12월 30일 (임인년 계축월 기묘일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2022년 12월 30일 (임인년 계축월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230122-a201f7516c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230122
+DTEND;VALUE=DATE:20230123
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-01-22 (일요일)\n[음력/간지] 음력 2023년 1월 1일 (계묘년 갑인월 경진일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2023년 1월 1일 (계묘년 갑인월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230123-761d5be817@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230123
+DTEND;VALUE=DATE:20230124
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-01-23 (월요일)\n[음력/간지] 음력 2023년 1월 2일 (계묘년 갑인월 신사일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2023년 1월 2일 (계묘년 갑인월 신사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230124-82ad5ff4f6@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230124
+DTEND;VALUE=DATE:20230125
+SUMMARY:🔴 대체공휴일 (설날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-01-24 (화요일)\n[음력/간지] 음력 2023년 1월 3일 (계묘년 갑인월 임오일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 설날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2023년 1월 3일 (계묘년 갑인월 임오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230301-13611f12e1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230301
+DTEND;VALUE=DATE:20230302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-03-01 (수요일)\n[음력/간지] 음력 2023년 2월 10일 (계묘년 을묘월 무오일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2023년 2월 10일 (계묘년 을묘월 무오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230505-ead02b7eb1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230505
+DTEND;VALUE=DATE:20230506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-05-05 (금요일)\n[음력/간지] 음력 2023년 3월 16일 (계묘년 병진월 계해일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2023년 3월 16일 (계묘년 병진월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230527-2a9f3891cd@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230527
+DTEND;VALUE=DATE:20230528
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-05-27 (토요일)\n[음력/간지] 음력 2023년 4월 8일 (계묘년 정사월 을유일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2023년 4월 8일 (계묘년 정사월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230529-bc1911bbf2@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230529
+DTEND;VALUE=DATE:20230530
+SUMMARY:🔴 대체공휴일 (부처님오신날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-05-29 (월요일)\n[음력/간지] 음력 2023년 4월 10일 (계묘년 정사월 정해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 부처님오신날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2023년 4월 10일 (계묘년 정사월 정해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230606-0404dc3b9b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230606
+DTEND;VALUE=DATE:20230607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-06-06 (화요일)\n[음력/간지] 음력 2023년 4월 18일 (계묘년 정사월 을미일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2023년 4월 18일 (계묘년 정사월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230717-1467582484@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230717
+DTEND;VALUE=DATE:20230718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2023-07-17 (월요일)\n[음력/간지] 음력 2023년 5월 30일 (계묘년 무오월 병자일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2023년 5월 30일 (계묘년 무오월 병자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230815-c884ab3447@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230815
+DTEND;VALUE=DATE:20230816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-08-15 (화요일)\n[음력/간지] 음력 2023년 6월 29일 (계묘년 기미월 을사일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2023년 6월 29일 (계묘년 기미월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230928-01f8e0a75f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230928
+DTEND;VALUE=DATE:20230929
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-09-28 (목요일)\n[음력/간지] 음력 2023년 8월 14일 (계묘년 신유월 기축일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2023년 8월 14일 (계묘년 신유월 기축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230929-623afd0698@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230929
+DTEND;VALUE=DATE:20230930
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-09-29 (금요일)\n[음력/간지] 음력 2023년 8월 15일 (계묘년 신유월 경인일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2023년 8월 15일 (계묘년 신유월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20230930-c2c3ce7a23@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20230930
+DTEND;VALUE=DATE:20231001
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-09-30 (토요일)\n[음력/간지] 음력 2023년 8월 16일 (계묘년 신유월 신묘일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2023년 8월 16일 (계묘년 신유월 신묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20231002-83a5a9047b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20231002
+DTEND;VALUE=DATE:20231003
+SUMMARY:🔴 임시공휴일
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-10-02 (월요일)\n[음력/간지] 음력 2023년 8월 18일 (계묘년 신유월 계사일)\n\n[상세 안내]\n추석 연휴와 개천절 징검다리 연휴에 따른 정부 지정 임시공휴일\n• 음력/간지: 음력 2023년 8월 18일 (계묘년 신유월 계사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20231003-ae5cccd8d2@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20231003
+DTEND;VALUE=DATE:20231004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-10-03 (화요일)\n[음력/간지] 음력 2023년 8월 19일 (계묘년 신유월 갑오일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2023년 8월 19일 (계묘년 신유월 갑오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20231009-16b9f4277c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20231009
+DTEND;VALUE=DATE:20231010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-10-09 (월요일)\n[음력/간지] 음력 2023년 8월 25일 (계묘년 신유월 경자일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2023년 8월 25일 (계묘년 신유월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20231225-c2b6b7a387@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2023-12-25 (월요일)\n[음력/간지] 음력 2023년 11월 13일 (계묘년 갑자월 정사일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2023년 11월 13일 (계묘년 갑자월 정사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240101-a9493adf3d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-01-01 (월요일)\n[음력/간지] 음력 2023년 11월 20일 (계묘년 갑자월 갑자일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2023년 11월 20일 (계묘년 갑자월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240209-c222cc5edb@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240209
+DTEND;VALUE=DATE:20240210
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-02-09 (금요일)\n[음력/간지] 음력 2023년 12월 30일 (계묘년 을축월 계묘일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2023년 12월 30일 (계묘년 을축월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240210-aee60d5bae@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240211
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-02-10 (토요일)\n[음력/간지] 음력 2024년 1월 1일 (갑진년 병인월 갑진일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2024년 1월 1일 (갑진년 병인월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240211-ffafc5f70a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240211
+DTEND;VALUE=DATE:20240212
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-02-11 (일요일)\n[음력/간지] 음력 2024년 1월 2일 (갑진년 병인월 을사일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2024년 1월 2일 (갑진년 병인월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240212-c553a6a651@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240213
+SUMMARY:🔴 대체공휴일 (설날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-02-12 (월요일)\n[음력/간지] 음력 2024년 1월 3일 (갑진년 병인월 병오일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 설날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2024년 1월 3일 (갑진년 병인월 병오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240301-a6d7bcb2de@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-03-01 (금요일)\n[음력/간지] 음력 2024년 1월 21일 (갑진년 병인월 갑자일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2024년 1월 21일 (갑진년 병인월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240410-6a2fb92a61@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240410
+DTEND;VALUE=DATE:20240411
+SUMMARY:🗳️ 제22대 국회의원선거
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🗳️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-04-10 (수요일)\n[음력/간지] 음력 2024년 3월 2일 (갑진년 무진월 갑진일)\n\n[상세 안내]\n공직선거법 및 관공서의 공휴일에 관한 규정에 따른 법정공휴일(제22대 국회의원 총선거일)\n• 음력/간지: 음력 2024년 3월 2일 (갑진년 무진월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240505-98e14f639b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240505
+DTEND;VALUE=DATE:20240506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-05-05 (일요일)\n[음력/간지] 음력 2024년 3월 27일 (갑진년 무진월 기사일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2024년 3월 27일 (갑진년 무진월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240506-4e39d847c5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240506
+DTEND;VALUE=DATE:20240507
+SUMMARY:🔴 대체공휴일 (어린이날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-05-06 (월요일)\n[음력/간지] 음력 2024년 3월 28일 (갑진년 무진월 경오일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 어린이날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2024년 3월 28일 (갑진년 무진월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240515-78ee9626c6@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240515
+DTEND;VALUE=DATE:20240516
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-05-15 (수요일)\n[음력/간지] 음력 2024년 4월 8일 (갑진년 기사월 기묘일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2024년 4월 8일 (갑진년 기사월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240606-5139bdc56a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240606
+DTEND;VALUE=DATE:20240607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-06-06 (목요일)\n[음력/간지] 음력 2024년 5월 1일 (갑진년 경오월 신축일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2024년 5월 1일 (갑진년 경오월 신축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240717-a537771702@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240717
+DTEND;VALUE=DATE:20240718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2024-07-17 (수요일)\n[음력/간지] 음력 2024년 6월 12일 (갑진년 신미월 임오일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2024년 6월 12일 (갑진년 신미월 임오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240815-1c18a1b06f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240815
+DTEND;VALUE=DATE:20240816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-08-15 (목요일)\n[음력/간지] 음력 2024년 7월 12일 (갑진년 임신월 신해일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2024년 7월 12일 (갑진년 임신월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240916-ebedae4830@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240917
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-09-16 (월요일)\n[음력/간지] 음력 2024년 8월 14일 (갑진년 계유월 계미일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2024년 8월 14일 (갑진년 계유월 계미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240917-cd818cce14@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240918
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-09-17 (화요일)\n[음력/간지] 음력 2024년 8월 15일 (갑진년 계유월 갑신일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2024년 8월 15일 (갑진년 계유월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20240918-d0998bcf2d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20240918
+DTEND;VALUE=DATE:20240919
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-09-18 (수요일)\n[음력/간지] 음력 2024년 8월 16일 (갑진년 계유월 을유일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2024년 8월 16일 (갑진년 계유월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20241001-6b7b4ad3b2@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20241001
+DTEND;VALUE=DATE:20241002
+SUMMARY:🪖 국군의 날 (임시공휴일)
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪖 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-10-01 (화요일)\n[음력/간지] 음력 2024년 8월 29일 (갑진년 계유월 무술일)\n\n[상세 안내]\n건군 제76주년 국군의 날 정부 지정 임시공휴일\n• 음력/간지: 음력 2024년 8월 29일 (갑진년 계유월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20241003-60aaae7c2c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20241003
+DTEND;VALUE=DATE:20241004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-10-03 (목요일)\n[음력/간지] 음력 2024년 9월 1일 (갑진년 갑술월 경자일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2024년 9월 1일 (갑진년 갑술월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20241009-37ecdaa566@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20241009
+DTEND;VALUE=DATE:20241010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-10-09 (수요일)\n[음력/간지] 음력 2024년 9월 7일 (갑진년 갑술월 병오일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2024년 9월 7일 (갑진년 갑술월 병오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20241225-4e4f82c53d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2024-12-25 (수요일)\n[음력/간지] 음력 2024년 11월 25일 (갑진년 병자월 계해일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2024년 11월 25일 (갑진년 병자월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250101-0dac63d960@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-01-01 (수요일)\n[음력/간지] 음력 2024년 12월 2일 (갑진년 정축월 경오일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2024년 12월 2일 (갑진년 정축월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250127-595602b82a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+SUMMARY:🔴 설날 연휴 임시공휴일
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-01-27 (월요일)\n[음력/간지] 음력 2024년 12월 28일 (갑진년 정축월 병신일)\n\n[상세 안내]\n설 명절 연휴 기간 내수 진작 및 휴식 보장을 위한 정부 지정 임시공휴일\n• 음력/간지: 음력 2024년 12월 28일 (갑진년 정축월 병신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250128-eec2592b40@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-01-28 (화요일)\n[음력/간지] 음력 2024년 12월 29일 (갑진년 정축월 정유일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2024년 12월 29일 (갑진년 정축월 정유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250129-f21c4a3f60@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-01-29 (수요일)\n[음력/간지] 음력 2025년 1월 1일 (을사년 무인월 무술일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2025년 1월 1일 (을사년 무인월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250130-93f67f0dfd@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-01-30 (목요일)\n[음력/간지] 음력 2025년 1월 2일 (을사년 무인월 기해일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2025년 1월 2일 (을사년 무인월 기해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250301-ea9b677bd4@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-03-01 (토요일)\n[음력/간지] 음력 2025년 2월 2일 (을사년 기묘월 기사일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2025년 2월 2일 (을사년 기묘월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250303-b5f4b5227e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250304
+SUMMARY:🔴 대체공휴일 (삼일절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-03-03 (월요일)\n[음력/간지] 음력 2025년 2월 4일 (을사년 기묘월 신미일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 삼일절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2025년 2월 4일 (을사년 기묘월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250505-631f31a12b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-05-05 (월요일)\n[음력/간지] 음력 2025년 4월 8일 (을사년 신사월 갑술일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2025년 4월 8일 (을사년 신사월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250505-449482f9f4@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-05-05 (월요일)\n[음력/간지] 음력 2025년 4월 8일 (을사년 신사월 갑술일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2025년 4월 8일 (을사년 신사월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250506-5bb8a3840d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250506
+DTEND;VALUE=DATE:20250507
+SUMMARY:🔴 대체공휴일 (어린이날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-05-06 (화요일)\n[음력/간지] 음력 2025년 4월 9일 (을사년 신사월 을해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 어린이날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2025년 4월 9일 (을사년 신사월 을해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250507-ce6978363b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250507
+DTEND;VALUE=DATE:20250508
+SUMMARY:🔴 대체공휴일 (부처님오신날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-05-07 (수요일)\n[음력/간지] 음력 2025년 4월 10일 (을사년 신사월 병자일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 부처님오신날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2025년 4월 10일 (을사년 신사월 병자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250606-8a67916f5e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-06-06 (금요일)\n[음력/간지] 음력 2025년 5월 11일 (을사년 임오월 병오일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2025년 5월 11일 (을사년 임오월 병오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250717-0b9035465d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250717
+DTEND;VALUE=DATE:20250718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2025-07-17 (목요일)\n[음력/간지] 음력 2025년 6월 23일 (을사년 계미월 정해일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2025년 6월 23일 (을사년 계미월 정해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250815-da1c5ebdce@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-08-15 (금요일)\n[음력/간지] 음력 2025년 윤6월 22일 (을사년 윤계미월 병진일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2025년 윤6월 22일 (을사년 윤계미월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251003-17c86a4297@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-10-03 (금요일)\n[음력/간지] 음력 2025년 8월 12일 (을사년 을유월 을사일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2025년 8월 12일 (을사년 을유월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251005-b54366d5f5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-10-05 (일요일)\n[음력/간지] 음력 2025년 8월 14일 (을사년 을유월 정미일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2025년 8월 14일 (을사년 을유월 정미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251006-a18461c38b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-10-06 (월요일)\n[음력/간지] 음력 2025년 8월 15일 (을사년 을유월 무신일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2025년 8월 15일 (을사년 을유월 무신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251007-28aab8f927@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20251007
+DTEND;VALUE=DATE:20251008
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-10-07 (화요일)\n[음력/간지] 음력 2025년 8월 16일 (을사년 을유월 기유일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2025년 8월 16일 (을사년 을유월 기유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251008-7126d00460@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20251008
+DTEND;VALUE=DATE:20251009
+SUMMARY:🔴 대체공휴일 (추석)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-10-08 (수요일)\n[음력/간지] 음력 2025년 8월 17일 (을사년 을유월 경술일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 추석이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2025년 8월 17일 (을사년 을유월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251009-a67895bebd@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20251009
+DTEND;VALUE=DATE:20251010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-10-09 (목요일)\n[음력/간지] 음력 2025년 8월 18일 (을사년 을유월 신해일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2025년 8월 18일 (을사년 을유월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251225-1d277c6b18@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2025-12-25 (목요일)\n[음력/간지] 음력 2025년 11월 6일 (을사년 무자월 무진일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2025년 11월 6일 (을사년 무자월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260101-f367c664a4@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-01-01 (목요일)\n[음력/간지] 음력 2025년 11월 13일 (을사년 무자월 을해일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2025년 11월 13일 (을사년 무자월 을해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260216-a8097382f6@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-02-16 (월요일)\n[음력/간지] 음력 2025년 12월 29일 (을사년 기축월 신유일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2025년 12월 29일 (을사년 기축월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260217-d896a2bfbd@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-02-17 (화요일)\n[음력/간지] 음력 2026년 1월 1일 (병오년 경인월 임술일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2026년 1월 1일 (병오년 경인월 임술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260218-86b0286ad8@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-02-18 (수요일)\n[음력/간지] 음력 2026년 1월 2일 (병오년 경인월 계해일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2026년 1월 2일 (병오년 경인월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260301-f2bcf08d3e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-03-01 (일요일)\n[음력/간지] 음력 2026년 1월 13일 (병오년 경인월 갑술일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2026년 1월 13일 (병오년 경인월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260302-baaa7ce04b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:🔴 대체공휴일 (삼일절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-03-02 (월요일)\n[음력/간지] 음력 2026년 1월 14일 (병오년 경인월 을해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 삼일절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2026년 1월 14일 (병오년 경인월 을해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260505-51a773d221@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-05-05 (화요일)\n[음력/간지] 음력 2026년 3월 19일 (병오년 임진월 기묘일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2026년 3월 19일 (병오년 임진월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260524-f39fb861fc@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-05-24 (일요일)\n[음력/간지] 음력 2026년 4월 8일 (병오년 계사월 무술일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2026년 4월 8일 (병오년 계사월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260525-2a5b2ae223@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🔴 대체공휴일 (부처님오신날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-05-25 (월요일)\n[음력/간지] 음력 2026년 4월 9일 (병오년 계사월 기해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 부처님오신날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2026년 4월 9일 (병오년 계사월 기해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260603-0c928728db@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:🗳️ 제9회 전국동시지방선거
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🗳️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-06-03 (수요일)\n[음력/간지] 음력 2026년 4월 18일 (병오년 계사월 무신일)\n\n[상세 안내]\n공직선거법 및 관공서의 공휴일에 관한 규정에 따른 법정공휴일(제9회 전국동시지방선거일)\n• 음력/간지: 음력 2026년 4월 18일 (병오년 계사월 무신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260606-b63b249f5c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-06-06 (토요일)\n[음력/간지] 음력 2026년 4월 21일 (병오년 계사월 신해일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2026년 4월 21일 (병오년 계사월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260717-ee9a20b0a5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2026-07-17 (금요일)\n[음력/간지] 음력 2026년 6월 4일 (병오년 을미월 임진일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2026년 6월 4일 (병오년 을미월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260815-5bdb8277f8@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-08-15 (토요일)\n[음력/간지] 음력 2026년 7월 3일 (병오년 병신월 신유일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2026년 7월 3일 (병오년 병신월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260817-a4fa5a47d9@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:🔴 대체공휴일 (광복절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-08-17 (월요일)\n[음력/간지] 음력 2026년 7월 5일 (병오년 병신월 계해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 광복절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2026년 7월 5일 (병오년 병신월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260924-b8f0d75488@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-09-24 (목요일)\n[음력/간지] 음력 2026년 8월 14일 (병오년 정유월 신축일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2026년 8월 14일 (병오년 정유월 신축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260925-5509b0c79d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-09-25 (금요일)\n[음력/간지] 음력 2026년 8월 15일 (병오년 정유월 임인일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2026년 8월 15일 (병오년 정유월 임인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260926-f08cda4bcf@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-09-26 (토요일)\n[음력/간지] 음력 2026년 8월 16일 (병오년 정유월 계묘일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2026년 8월 16일 (병오년 정유월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261003-ac2d31f265@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-10-03 (토요일)\n[음력/간지] 음력 2026년 8월 23일 (병오년 정유월 경술일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2026년 8월 23일 (병오년 정유월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261005-81ca929c3b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🔴 대체공휴일 (개천절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-10-05 (월요일)\n[음력/간지] 음력 2026년 8월 25일 (병오년 정유월 임자일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 개천절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2026년 8월 25일 (병오년 정유월 임자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261009-b99afce6af@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-10-09 (금요일)\n[음력/간지] 음력 2026년 8월 29일 (병오년 정유월 병진일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2026년 8월 29일 (병오년 정유월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261225-f000d4029b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2026-12-25 (금요일)\n[음력/간지] 음력 2026년 11월 17일 (병오년 경자월 계유일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2026년 11월 17일 (병오년 경자월 계유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270101-47900d92ec@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-01-01 (금요일)\n[음력/간지] 음력 2026년 11월 24일 (병오년 경자월 경진일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2026년 11월 24일 (병오년 경자월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270206-00b1ec2150@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-02-06 (토요일)\n[음력/간지] 음력 2026년 12월 30일 (병오년 신축월 병진일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2026년 12월 30일 (병오년 신축월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270207-e0411cee6b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-02-07 (일요일)\n[음력/간지] 음력 2027년 1월 1일 (정미년 임인월 정사일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2027년 1월 1일 (정미년 임인월 정사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270208-a4bb226e57@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-02-08 (월요일)\n[음력/간지] 음력 2027년 1월 2일 (정미년 임인월 무오일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2027년 1월 2일 (정미년 임인월 무오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270209-91e384c479@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:🔴 대체공휴일 (설날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-02-09 (화요일)\n[음력/간지] 음력 2027년 1월 3일 (정미년 임인월 기미일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 설날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2027년 1월 3일 (정미년 임인월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270301-7899fd7193@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-03-01 (월요일)\n[음력/간지] 음력 2027년 1월 23일 (정미년 임인월 기묘일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2027년 1월 23일 (정미년 임인월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270505-df7a3afccb@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-05-05 (수요일)\n[음력/간지] 음력 2027년 3월 29일 (정미년 갑진월 갑신일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2027년 3월 29일 (정미년 갑진월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270513-1495b48c2a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-05-13 (목요일)\n[음력/간지] 음력 2027년 4월 8일 (정미년 을사월 임진일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2027년 4월 8일 (정미년 을사월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270606-6fc2f796a8@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-06-06 (일요일)\n[음력/간지] 음력 2027년 5월 2일 (정미년 병오월 병진일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2027년 5월 2일 (정미년 병오월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270717-126babef75@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2027-07-17 (토요일)\n[음력/간지] 음력 2027년 6월 14일 (정미년 정미월 정유일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2027년 6월 14일 (정미년 정미월 정유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270815-df0fb8253e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-08-15 (일요일)\n[음력/간지] 음력 2027년 7월 14일 (정미년 무신월 병인일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2027년 7월 14일 (정미년 무신월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270816-08a7e88bd9@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:🔴 대체공휴일 (광복절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-08-16 (월요일)\n[음력/간지] 음력 2027년 7월 15일 (정미년 무신월 정묘일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 광복절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2027년 7월 15일 (정미년 무신월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270914-73372239a3@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-09-14 (화요일)\n[음력/간지] 음력 2027년 8월 14일 (정미년 기유월 병신일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2027년 8월 14일 (정미년 기유월 병신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270915-44b0ce3d5c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-09-15 (수요일)\n[음력/간지] 음력 2027년 8월 15일 (정미년 기유월 정유일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2027년 8월 15일 (정미년 기유월 정유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270916-1013d4c5df@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-09-16 (목요일)\n[음력/간지] 음력 2027년 8월 16일 (정미년 기유월 무술일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2027년 8월 16일 (정미년 기유월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271003-57787fe56b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-10-03 (일요일)\n[음력/간지] 음력 2027년 9월 4일 (정미년 경술월 을묘일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2027년 9월 4일 (정미년 경술월 을묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271004-4bc2d71107@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:🔴 대체공휴일 (개천절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-10-04 (월요일)\n[음력/간지] 음력 2027년 9월 5일 (정미년 경술월 병진일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 개천절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2027년 9월 5일 (정미년 경술월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271009-36d6a9e70b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-10-09 (토요일)\n[음력/간지] 음력 2027년 9월 10일 (정미년 경술월 신유일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2027년 9월 10일 (정미년 경술월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271011-ff536861bc@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:🔴 대체공휴일 (한글날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-10-11 (월요일)\n[음력/간지] 음력 2027년 9월 12일 (정미년 경술월 계해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 한글날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2027년 9월 12일 (정미년 경술월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271225-648ba1fb02@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-12-25 (토요일)\n[음력/간지] 음력 2027년 11월 28일 (정미년 임자월 무인일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2027년 11월 28일 (정미년 임자월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271227-d14df1af5d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20271228
+SUMMARY:🔴 대체공휴일 (기독탄신일)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2027-12-27 (월요일)\n[음력/간지] 음력 2027년 11월 30일 (정미년 임자월 경진일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 기독탄신일이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2027년 11월 30일 (정미년 임자월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280101-c308e2343c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-01-01 (토요일)\n[음력/간지] 음력 2027년 12월 5일 (정미년 계축월 을유일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2027년 12월 5일 (정미년 계축월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280126-9fd1614bfa@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-01-26 (수요일)\n[음력/간지] 음력 2027년 12월 30일 (정미년 계축월 경술일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2027년 12월 30일 (정미년 계축월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280127-7b807845ce@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280127
+DTEND;VALUE=DATE:20280128
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-01-27 (목요일)\n[음력/간지] 음력 2028년 1월 1일 (무신년 갑인월 신해일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2028년 1월 1일 (무신년 갑인월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280128-33bbc9b532@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-01-28 (금요일)\n[음력/간지] 음력 2028년 1월 2일 (무신년 갑인월 임자일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2028년 1월 2일 (무신년 갑인월 임자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280301-49aeddd89d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-03-01 (수요일)\n[음력/간지] 음력 2028년 2월 6일 (무신년 을묘월 을유일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2028년 2월 6일 (무신년 을묘월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280412-df3c91b2eb@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280412
+DTEND;VALUE=DATE:20280413
+SUMMARY:🗳️ 제23대 국회의원선거
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🗳️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-04-12 (수요일)\n[음력/간지] 음력 2028년 3월 18일 (무신년 병진월 정묘일)\n\n[상세 안내]\n공직선거법 및 관공서의 공휴일에 관한 규정에 따른 법정공휴일(제23대 국회의원 총선거일)\n• 음력/간지: 음력 2028년 3월 18일 (무신년 병진월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280502-fd6d9e6e77@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280502
+DTEND;VALUE=DATE:20280503
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-05-02 (화요일)\n[음력/간지] 음력 2028년 4월 8일 (무신년 정사월 정해일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2028년 4월 8일 (무신년 정사월 정해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280505-cb410dca29@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-05-05 (금요일)\n[음력/간지] 음력 2028년 4월 11일 (무신년 정사월 경인일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2028년 4월 11일 (무신년 정사월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280606-6a58a5101d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280606
+DTEND;VALUE=DATE:20280607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-06-06 (화요일)\n[음력/간지] 음력 2028년 5월 14일 (무신년 무오월 임술일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2028년 5월 14일 (무신년 무오월 임술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280717-8468ebdf0a@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2028-07-17 (월요일)\n[음력/간지] 음력 2028년 윤5월 25일 (무신년 윤무오월 계묘일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2028년 윤5월 25일 (무신년 윤무오월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280815-b8b37a6010@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-08-15 (화요일)\n[음력/간지] 음력 2028년 6월 25일 (무신년 기미월 임신일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2028년 6월 25일 (무신년 기미월 임신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281002-b57b59f962@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281002
+DTEND;VALUE=DATE:20281003
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-10-02 (월요일)\n[음력/간지] 음력 2028년 8월 14일 (무신년 신유월 경신일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2028년 8월 14일 (무신년 신유월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281003-22f3357708@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-10-03 (화요일)\n[음력/간지] 음력 2028년 8월 15일 (무신년 신유월 신유일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2028년 8월 15일 (무신년 신유월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281003-eb274ca26b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-10-03 (화요일)\n[음력/간지] 음력 2028년 8월 15일 (무신년 신유월 신유일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2028년 8월 15일 (무신년 신유월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281004-9a05be7bd2@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281004
+DTEND;VALUE=DATE:20281005
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-10-04 (수요일)\n[음력/간지] 음력 2028년 8월 16일 (무신년 신유월 임술일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2028년 8월 16일 (무신년 신유월 임술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281005-e8c793cdae@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281005
+DTEND;VALUE=DATE:20281006
+SUMMARY:🔴 대체공휴일 (추석)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-10-05 (목요일)\n[음력/간지] 음력 2028년 8월 17일 (무신년 신유월 계해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 추석이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2028년 8월 17일 (무신년 신유월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281006-a6af97eb85@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281006
+DTEND;VALUE=DATE:20281007
+SUMMARY:🔴 대체공휴일 (개천절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-10-06 (금요일)\n[음력/간지] 음력 2028년 8월 18일 (무신년 신유월 갑자일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 개천절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2028년 8월 18일 (무신년 신유월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281009-cd785c611d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-10-09 (월요일)\n[음력/간지] 음력 2028년 8월 21일 (무신년 신유월 정묘일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2028년 8월 21일 (무신년 신유월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281225-23a2f3ec00@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2028-12-25 (월요일)\n[음력/간지] 음력 2028년 11월 10일 (무신년 갑자월 갑신일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2028년 11월 10일 (무신년 갑자월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290101-901b0bf227@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-01-01 (월요일)\n[음력/간지] 음력 2028년 11월 17일 (무신년 갑자월 신묘일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2028년 11월 17일 (무신년 갑자월 신묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290212-e91496d93c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290212
+DTEND;VALUE=DATE:20290213
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-02-12 (월요일)\n[음력/간지] 음력 2028년 12월 29일 (무신년 을축월 계유일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2028년 12월 29일 (무신년 을축월 계유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290213-2b3ab3b5bf@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-02-13 (화요일)\n[음력/간지] 음력 2029년 1월 1일 (기유년 병인월 갑술일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2029년 1월 1일 (기유년 병인월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290214-a0cf171773@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-02-14 (수요일)\n[음력/간지] 음력 2029년 1월 2일 (기유년 병인월 을해일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2029년 1월 2일 (기유년 병인월 을해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290301-c6275439e7@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290301
+DTEND;VALUE=DATE:20290302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-03-01 (목요일)\n[음력/간지] 음력 2029년 1월 17일 (기유년 병인월 경인일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2029년 1월 17일 (기유년 병인월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290505-ce80fec5bb@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290505
+DTEND;VALUE=DATE:20290506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-05-05 (토요일)\n[음력/간지] 음력 2029년 3월 22일 (기유년 무진월 을미일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2029년 3월 22일 (기유년 무진월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290507-594e7417ca@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290507
+DTEND;VALUE=DATE:20290508
+SUMMARY:🔴 대체공휴일 (어린이날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-05-07 (월요일)\n[음력/간지] 음력 2029년 3월 24일 (기유년 무진월 정유일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 어린이날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2029년 3월 24일 (기유년 무진월 정유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290520-0e170e621c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290520
+DTEND;VALUE=DATE:20290521
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-05-20 (일요일)\n[음력/간지] 음력 2029년 4월 8일 (기유년 기사월 경술일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2029년 4월 8일 (기유년 기사월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290521-d9a47831b3@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:🔴 대체공휴일 (부처님오신날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-05-21 (월요일)\n[음력/간지] 음력 2029년 4월 9일 (기유년 기사월 신해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 부처님오신날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2029년 4월 9일 (기유년 기사월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290606-e1d0a569f1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290606
+DTEND;VALUE=DATE:20290607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-06-06 (수요일)\n[음력/간지] 음력 2029년 4월 25일 (기유년 기사월 정묘일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2029년 4월 25일 (기유년 기사월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290717-55741b0fe1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290717
+DTEND;VALUE=DATE:20290718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2029-07-17 (화요일)\n[음력/간지] 음력 2029년 6월 6일 (기유년 신미월 무신일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2029년 6월 6일 (기유년 신미월 무신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290815-80b28cc2cb@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290815
+DTEND;VALUE=DATE:20290816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-08-15 (수요일)\n[음력/간지] 음력 2029년 7월 6일 (기유년 임신월 정축일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2029년 7월 6일 (기유년 임신월 정축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290921-fab9638a89@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290921
+DTEND;VALUE=DATE:20290922
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-09-21 (금요일)\n[음력/간지] 음력 2029년 8월 14일 (기유년 계유월 갑인일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2029년 8월 14일 (기유년 계유월 갑인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290922-af646645e5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-09-22 (토요일)\n[음력/간지] 음력 2029년 8월 15일 (기유년 계유월 을묘일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2029년 8월 15일 (기유년 계유월 을묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290923-5256825c3d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290923
+DTEND;VALUE=DATE:20290924
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-09-23 (일요일)\n[음력/간지] 음력 2029년 8월 16일 (기유년 계유월 병진일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2029년 8월 16일 (기유년 계유월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290924-f666ce3ae2@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20290924
+DTEND;VALUE=DATE:20290925
+SUMMARY:🔴 대체공휴일 (추석)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-09-24 (월요일)\n[음력/간지] 음력 2029년 8월 17일 (기유년 계유월 정사일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 추석이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2029년 8월 17일 (기유년 계유월 정사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291003-d254867db7@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20291003
+DTEND;VALUE=DATE:20291004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-10-03 (수요일)\n[음력/간지] 음력 2029년 8월 26일 (기유년 계유월 병인일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2029년 8월 26일 (기유년 계유월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291009-2635578301@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20291009
+DTEND;VALUE=DATE:20291010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-10-09 (화요일)\n[음력/간지] 음력 2029년 9월 2일 (기유년 갑술월 임신일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2029년 9월 2일 (기유년 갑술월 임신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291225-9140dacab3@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2029-12-25 (화요일)\n[음력/간지] 음력 2029년 11월 21일 (기유년 병자월 기축일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2029년 11월 21일 (기유년 병자월 기축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300101-c72142c382@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-01-01 (화요일)\n[음력/간지] 음력 2029년 11월 28일 (기유년 병자월 병신일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2029년 11월 28일 (기유년 병자월 병신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300202-f895ef4f3c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-02-02 (토요일)\n[음력/간지] 음력 2029년 12월 30일 (기유년 정축월 무진일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2029년 12월 30일 (기유년 정축월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300203-7f9c9b0a33@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300203
+DTEND;VALUE=DATE:20300204
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-02-03 (일요일)\n[음력/간지] 음력 2030년 1월 1일 (경술년 무인월 기사일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2030년 1월 1일 (경술년 무인월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300204-da09510a81@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-02-04 (월요일)\n[음력/간지] 음력 2030년 1월 2일 (경술년 무인월 경오일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2030년 1월 2일 (경술년 무인월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300205-2008b42bee@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300205
+DTEND;VALUE=DATE:20300206
+SUMMARY:🔴 대체공휴일 (설날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-02-05 (화요일)\n[음력/간지] 음력 2030년 1월 3일 (경술년 무인월 신미일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 설날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2030년 1월 3일 (경술년 무인월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300301-8f49108927@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300301
+DTEND;VALUE=DATE:20300302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-03-01 (금요일)\n[음력/간지] 음력 2030년 1월 27일 (경술년 무인월 을미일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2030년 1월 27일 (경술년 무인월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300505-6a7e674785@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300505
+DTEND;VALUE=DATE:20300506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-05-05 (일요일)\n[음력/간지] 음력 2030년 4월 4일 (경술년 신사월 경자일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2030년 4월 4일 (경술년 신사월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300506-95169773a1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300506
+DTEND;VALUE=DATE:20300507
+SUMMARY:🔴 대체공휴일 (어린이날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-05-06 (월요일)\n[음력/간지] 음력 2030년 4월 5일 (경술년 신사월 신축일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 어린이날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2030년 4월 5일 (경술년 신사월 신축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300509-42d02a422f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300509
+DTEND;VALUE=DATE:20300510
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-05-09 (목요일)\n[음력/간지] 음력 2030년 4월 8일 (경술년 신사월 갑진일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2030년 4월 8일 (경술년 신사월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300606-121ebe386b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300606
+DTEND;VALUE=DATE:20300607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-06-06 (목요일)\n[음력/간지] 음력 2030년 5월 6일 (경술년 임오월 임신일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2030년 5월 6일 (경술년 임오월 임신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300612-020012d3c2@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300612
+DTEND;VALUE=DATE:20300613
+SUMMARY:🗳️ 제10회 전국동시지방선거
+CATEGORIES:공휴일\,법정공휴일\,선거·임시공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🗳️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-06-12 (수요일)\n[음력/간지] 음력 2030년 5월 12일 (경술년 임오월 무인일)\n\n[상세 안내]\n공직선거법 및 관공서의 공휴일에 관한 규정에 따른 법정공휴일(제10회 전국동시지방선거일)\n• 음력/간지: 음력 2030년 5월 12일 (경술년 임오월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300717-f9698b4e32@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300717
+DTEND;VALUE=DATE:20300718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2030-07-17 (수요일)\n[음력/간지] 음력 2030년 6월 17일 (경술년 계미월 계축일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2030년 6월 17일 (경술년 계미월 계축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300815-9af6dedb69@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-08-15 (목요일)\n[음력/간지] 음력 2030년 7월 17일 (경술년 갑신월 임오일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2030년 7월 17일 (경술년 갑신월 임오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300911-8cfa3d90ed@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300911
+DTEND;VALUE=DATE:20300912
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-09-11 (수요일)\n[음력/간지] 음력 2030년 8월 14일 (경술년 을유월 기유일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2030년 8월 14일 (경술년 을유월 기유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300912-64aee293c5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300912
+DTEND;VALUE=DATE:20300913
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-09-12 (목요일)\n[음력/간지] 음력 2030년 8월 15일 (경술년 을유월 경술일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2030년 8월 15일 (경술년 을유월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20300913-892c99c2f8@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20300913
+DTEND;VALUE=DATE:20300914
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-09-13 (금요일)\n[음력/간지] 음력 2030년 8월 16일 (경술년 을유월 신해일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2030년 8월 16일 (경술년 을유월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20301003-cebbe61bd7@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20301003
+DTEND;VALUE=DATE:20301004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-10-03 (목요일)\n[음력/간지] 음력 2030년 9월 7일 (경술년 병술월 신미일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2030년 9월 7일 (경술년 병술월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20301009-09da715594@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20301009
+DTEND;VALUE=DATE:20301010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-10-09 (수요일)\n[음력/간지] 음력 2030년 9월 13일 (경술년 병술월 정축일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2030년 9월 13일 (경술년 병술월 정축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20301225-d24337f0d1@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2030-12-25 (수요일)\n[음력/간지] 음력 2030년 12월 1일 (경술년 기축월 갑오일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2030년 12월 1일 (경술년 기축월 갑오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310101-c461de787d@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-01-01 (수요일)\n[음력/간지] 음력 2030년 12월 8일 (경술년 기축월 신축일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2030년 12월 8일 (경술년 기축월 신축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310122-9b7c19c676@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310122
+DTEND;VALUE=DATE:20310123
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-01-22 (수요일)\n[음력/간지] 음력 2030년 12월 29일 (경술년 기축월 임술일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2030년 12월 29일 (경술년 기축월 임술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310123-b701cbb0f7@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310123
+DTEND;VALUE=DATE:20310124
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-01-23 (목요일)\n[음력/간지] 음력 2031년 1월 1일 (신해년 경인월 계해일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2031년 1월 1일 (신해년 경인월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310124-65a7fbd7a5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310124
+DTEND;VALUE=DATE:20310125
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-01-24 (금요일)\n[음력/간지] 음력 2031년 1월 2일 (신해년 경인월 갑자일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2031년 1월 2일 (신해년 경인월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310301-d41c420687@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310301
+DTEND;VALUE=DATE:20310302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-03-01 (토요일)\n[음력/간지] 음력 2031년 2월 8일 (신해년 신묘월 경자일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2031년 2월 8일 (신해년 신묘월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310303-8cfbc22a15@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310303
+DTEND;VALUE=DATE:20310304
+SUMMARY:🔴 대체공휴일 (삼일절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-03-03 (월요일)\n[음력/간지] 음력 2031년 2월 10일 (신해년 신묘월 임인일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 삼일절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2031년 2월 10일 (신해년 신묘월 임인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310505-779c875092@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310505
+DTEND;VALUE=DATE:20310506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-05-05 (월요일)\n[음력/간지] 음력 2031년 윤3월 14일 (신해년 윤임진월 을사일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2031년 윤3월 14일 (신해년 윤임진월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310528-d6385b6f0f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310528
+DTEND;VALUE=DATE:20310529
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-05-28 (수요일)\n[음력/간지] 음력 2031년 4월 8일 (신해년 계사월 무진일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2031년 4월 8일 (신해년 계사월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310606-d4d1cca8f5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310606
+DTEND;VALUE=DATE:20310607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-06-06 (금요일)\n[음력/간지] 음력 2031년 4월 17일 (신해년 계사월 정축일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2031년 4월 17일 (신해년 계사월 정축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310717-0f1b4482ea@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310717
+DTEND;VALUE=DATE:20310718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2031-07-17 (목요일)\n[음력/간지] 음력 2031년 5월 28일 (신해년 갑오월 무오일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2031년 5월 28일 (신해년 갑오월 무오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310815-4b50b13511@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310815
+DTEND;VALUE=DATE:20310816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-08-15 (금요일)\n[음력/간지] 음력 2031년 6월 28일 (신해년 을미월 정해일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2031년 6월 28일 (신해년 을미월 정해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20310930-e21b80aaec@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20310930
+DTEND;VALUE=DATE:20311001
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-09-30 (화요일)\n[음력/간지] 음력 2031년 8월 14일 (신해년 정유월 계유일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2031년 8월 14일 (신해년 정유월 계유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20311001-6343150234@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-10-01 (수요일)\n[음력/간지] 음력 2031년 8월 15일 (신해년 정유월 갑술일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2031년 8월 15일 (신해년 정유월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20311002-9e90ba46cf@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20311002
+DTEND;VALUE=DATE:20311003
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-10-02 (목요일)\n[음력/간지] 음력 2031년 8월 16일 (신해년 정유월 을해일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2031년 8월 16일 (신해년 정유월 을해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20311003-9482245f3b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20311003
+DTEND;VALUE=DATE:20311004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-10-03 (금요일)\n[음력/간지] 음력 2031년 8월 17일 (신해년 정유월 병자일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2031년 8월 17일 (신해년 정유월 병자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20311009-9be3e8511f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20311009
+DTEND;VALUE=DATE:20311010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-10-09 (목요일)\n[음력/간지] 음력 2031년 8월 23일 (신해년 정유월 임오일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2031년 8월 23일 (신해년 정유월 임오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20311225-f418c464e9@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2031-12-25 (목요일)\n[음력/간지] 음력 2031년 11월 12일 (신해년 경자월 기해일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2031년 11월 12일 (신해년 경자월 기해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320101-9e098bc460@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320101
+DTEND;VALUE=DATE:20320102
+SUMMARY:🌅 신정 (새해 첫날)
+CATEGORIES:공휴일\,법정공휴일\,신정\,새해\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌅 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-01-01 (목요일)\n[음력/간지] 음력 2031년 11월 19일 (신해년 경자월 병오일)\n\n[상세 안내]\n양력 1월 1일 새해 첫날(관공서의 공휴일에 관한 규정 제2조 제2호). 희망찬 새해의 시작을 축하하는 날입니다.\n• 음력/간지: 음력 2031년 11월 19일 (신해년 경자월 병오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320210-d3cf091d83@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320210
+DTEND;VALUE=DATE:20320211
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-02-10 (화요일)\n[음력/간지] 음력 2031년 12월 29일 (신해년 신축월 병술일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2031년 12월 29일 (신해년 신축월 병술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320211-57e8a9431c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320211
+DTEND;VALUE=DATE:20320212
+SUMMARY:🙇 설날
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-02-11 (수요일)\n[음력/간지] 음력 2032년 1월 1일 (임자년 임인월 정해일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2032년 1월 1일 (임자년 임인월 정해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320212-8c936ac2cc@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320212
+DTEND;VALUE=DATE:20320213
+SUMMARY:🙇 설날 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,설날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🙇 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-02-12 (목요일)\n[음력/간지] 음력 2032년 1월 2일 (임자년 임인월 무자일)\n\n[상세 안내]\n음력 정월 초하루(1월 1일)로 한 해의 첫날을 맞이하며 조상께 차례를 지내고 어른들께 세배를 올리며 떡국을 나누어 먹는 민족 최대의 명절입니다.\n• 음력/간지: 음력 2032년 1월 2일 (임자년 임인월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320301-1945860ddd@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320301
+DTEND;VALUE=DATE:20320302
+SUMMARY:🇰🇷 삼일절 (3·1절)
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-03-01 (월요일)\n[음력/간지] 음력 2032년 1월 20일 (임자년 임인월 병오일)\n\n[상세 안내]\n1919년 3월 1일 한민족이 일본의 식민통치에 항거하고 독립선언서를 발표하여 한국의 독립 의사를 세계 만방에 알린 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2032년 1월 20일 (임자년 임인월 병오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320505-df1cc19128@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320505
+DTEND;VALUE=DATE:20320506
+SUMMARY:🎈 어린이날
+CATEGORIES:공휴일\,법정공휴일\,가정의달\,어린이날\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎈 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-05-05 (수요일)\n[음력/간지] 음력 2032년 3월 26일 (임자년 갑진월 신해일)\n\n[상세 안내]\n어린이의 인격을 소중히 여기고 어린이의 행복을 도모하기 위하여 제정된 법정공휴일입니다.\n• 음력/간지: 음력 2032년 3월 26일 (임자년 갑진월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320516-36da3505d5@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320516
+DTEND;VALUE=DATE:20320517
+SUMMARY:🪷 부처님오신날 (석가탄신일)
+CATEGORIES:공휴일\,법정공휴일\,전통문화\,연등회\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🪷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-05-16 (일요일)\n[음력/간지] 음력 2032년 4월 8일 (임자년 을사월 임술일)\n\n[상세 안내]\n음력 4월 8일 석가모니 부처님의 탄신을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2032년 4월 8일 (임자년 을사월 임술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320517-e0ce4330dd@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320517
+DTEND;VALUE=DATE:20320518
+SUMMARY:🔴 대체공휴일 (부처님오신날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-05-17 (월요일)\n[음력/간지] 음력 2032년 4월 9일 (임자년 을사월 계해일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 부처님오신날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2032년 4월 9일 (임자년 을사월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320606-57b3561dc3@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320606
+DTEND;VALUE=DATE:20320607
+SUMMARY:🕯️ 현충일
+CATEGORIES:공휴일\,법정공휴일\,보훈\,조기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🕯️ 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-06-06 (일요일)\n[음력/간지] 음력 2032년 4월 29일 (임자년 을사월 계미일)\n\n[상세 안내]\n나라를 위하여 목숨을 바친 애국선열과 국군장병들의 충절을 추모하기 위하여 지정된 법정공휴일입니다.\n• 태극기 게양: 조기(弔旗) 게양 (깃면의 세로 너비만큼 내려서 달기)\n• 오전 10시 정각 전국 사이렌에 맞춰 1분간 묵념\n• 음력/간지: 음력 2032년 4월 29일 (임자년 을사월 계미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320717-aae2e29c8f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320717
+DTEND;VALUE=DATE:20320718
+SUMMARY:🇰🇷 제헌절
+CATEGORIES:국경일\,5대국경일\,법정기념일\,태극기게양
+DESCRIPTION:[분류] 🇰🇷 5대 국경일 (비공휴일)\n[양력] 2032-07-17 (토요일)\n[음력/간지] 음력 2032년 6월 11일 (임자년 정미월 갑자일)\n\n[상세 안내]\n1948년 7월 17일 대한민국 헌법 제정·공포를 경축하는 대한민국 5대 국경일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2032년 6월 11일 (임자년 정미월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320815-5a063a8f98@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320815
+DTEND;VALUE=DATE:20320816
+SUMMARY:🇰🇷 광복절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-08-15 (일요일)\n[음력/간지] 음력 2032년 7월 10일 (임자년 무신월 계사일)\n\n[상세 안내]\n1945년 8월 15일 우리나라가 일제로부터 주권을 회복한 날과 1948년 8월 15일 대한민국 정부 수립을 경축하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2032년 7월 10일 (임자년 무신월 계사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320816-c9381cf5ff@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320816
+DTEND;VALUE=DATE:20320817
+SUMMARY:🔴 대체공휴일 (광복절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-08-16 (월요일)\n[음력/간지] 음력 2032년 7월 11일 (임자년 무신월 갑오일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 광복절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2032년 7월 11일 (임자년 무신월 갑오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320918-fae3f485dc@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320918
+DTEND;VALUE=DATE:20320919
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-09-18 (토요일)\n[음력/간지] 음력 2032년 8월 14일 (임자년 기유월 정묘일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2032년 8월 14일 (임자년 기유월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320919-a2ce84e542@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320919
+DTEND;VALUE=DATE:20320920
+SUMMARY:🌕 추석 (한가위)
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-09-19 (일요일)\n[음력/간지] 음력 2032년 8월 15일 (임자년 기유월 무진일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2032년 8월 15일 (임자년 기유월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320920-baab6d18ce@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320920
+DTEND;VALUE=DATE:20320921
+SUMMARY:🌕 추석 연휴
+CATEGORIES:공휴일\,법정공휴일\,전통명절\,추석\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🌕 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-09-20 (월요일)\n[음력/간지] 음력 2032년 8월 16일 (임자년 기유월 기사일)\n\n[상세 안내]\n음력 8월 15일 한가위로\, 가을 수확을 감사하며 햅쌀로 빚은 송편을 나누어 먹고 보름달 아래 소원을 비는 대한민국 대표 명절입니다.\n• 음력/간지: 음력 2032년 8월 16일 (임자년 기유월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20320921-1a9f018c23@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20320921
+DTEND;VALUE=DATE:20320922
+SUMMARY:🔴 대체공휴일 (추석)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-09-21 (화요일)\n[음력/간지] 음력 2032년 8월 17일 (임자년 기유월 경오일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 추석이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2032년 8월 17일 (임자년 기유월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20321003-a6c007612c@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20321003
+DTEND;VALUE=DATE:20321004
+SUMMARY:🇰🇷 개천절
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-10-03 (일요일)\n[음력/간지] 음력 2032년 8월 29일 (임자년 기유월 임오일)\n\n[상세 안내]\n서기전 2333년 단군왕검께서 홍익인간(弘益人間)·이화세계(理化世界)의 이념으로 고조선을 건국하신 날을 기념하는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2032년 8월 29일 (임자년 기유월 임오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20321004-79f0026659@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20321004
+DTEND;VALUE=DATE:20321005
+SUMMARY:🔴 대체공휴일 (개천절)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-10-04 (월요일)\n[음력/간지] 음력 2032년 9월 1일 (임자년 경술월 계미일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 개천절이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2032년 9월 1일 (임자년 경술월 계미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20321009-4aaf1aa19f@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20321009
+DTEND;VALUE=DATE:20321010
+SUMMARY:🇰🇷 한글날
+CATEGORIES:공휴일\,5대국경일\,법정공휴일\,태극기게양\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🇰🇷 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-10-09 (토요일)\n[음력/간지] 음력 2032년 9월 6일 (임자년 경술월 무자일)\n\n[상세 안내]\n세종대왕께서 훈민정음(한글)을 창제하여 세상에 반포하신 것을 기념하고 한글의 우수성을 기리는 5대 국경일이자 법정공휴일입니다.\n• 태극기 게양: 깃봉과 깃면의 사이를 떼지 않고 달기\n• 음력/간지: 음력 2032년 9월 6일 (임자년 경술월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20321011-fdb892f492@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20321011
+DTEND;VALUE=DATE:20321012
+SUMMARY:🔴 대체공휴일 (한글날)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-10-11 (월요일)\n[음력/간지] 음력 2032년 9월 8일 (임자년 경술월 경인일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 한글날이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2032년 9월 8일 (임자년 경술월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20321225-cca4e3ec5b@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20321225
+DTEND;VALUE=DATE:20321226
+SUMMARY:🎄 기독탄신일 (성탄절)
+CATEGORIES:공휴일\,법정공휴일\,성탄절\,크리스마스\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🎄 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-12-25 (토요일)\n[음력/간지] 음력 2032년 11월 23일 (임자년 임자월 을사일)\n\n[상세 안내]\n예수 그리스도의 탄생을 기념하는 법정공휴일입니다(2023년부터 대체공휴일 적용 대상).\n• 음력/간지: 음력 2032년 11월 23일 (임자년 임자월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20321227-c3a4f7136e@korea.calendar
+DTSTAMP:20261104T075641Z
+DTSTART;VALUE=DATE:20321227
+DTEND;VALUE=DATE:20321228
+SUMMARY:🔴 대체공휴일 (기독탄신일)
+CATEGORIES:공휴일\,법정공휴일\,대체공휴일\,법정공휴일(빨간날)
+DESCRIPTION:[분류] 🔴 법정공휴일·대체공휴일 (공휴일(빨간날))\n[양력] 2032-12-27 (월요일)\n[음력/간지] 음력 2032년 11월 25일 (임자년 임자월 정미일)\n\n[상세 안내]\n「관공서의 공휴일에 관한 규정」 제3조 및 「공휴일에 관한 법률」에 따라 기독탄신일이(가) 주말 또는 다른 공휴일과 겹쳐 지정된 법정 대체공휴일입니다.\n• 음력/간지: 음력 2032년 11월 25일 (임자년 임자월 정미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

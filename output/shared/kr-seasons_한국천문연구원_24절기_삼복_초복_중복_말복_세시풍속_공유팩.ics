@@ -1,0 +1,2935 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Korea Special Day Calendar Hub//KASI SpcdeInfoService//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🌿 한국천문연구원 24절기 & 삼복(초복·중복·말복)·세시풍속 공유팩
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:kasi-20250105-040ed78255@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+SUMMARY:❄️ 소한 (24절기) (음 12.6)
+CATEGORIES:24절기\,천문역법\,소한
+DESCRIPTION:[분류] ❄️ 24절기 (비공휴일)\n[양력] 2025-01-05 (일요일)\n[음력/간지] 음력 2024년 12월 6일 (갑진년 정축월 갑술일)\n[절입/기준시각] 11:31 (KST)\n\n[상세 안내]\n작은 추위라는 뜻이나 우리나라에서는 일 년 중 가장 추운 시기입니다. (태양 황경 285°)\n• 한국표준시(KST) 절입 시각: 2025년 01월 05일 11시 31분\n• 음력/간지: 음력 2024년 12월 6일 (갑진년 정축월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:❄️ 소한 (24절기) (음 12.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250120-b1d563339c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250121
+SUMMARY:🧊 대한 (24절기) (음 12.21)
+CATEGORIES:24절기\,천문역법\,대한
+DESCRIPTION:[분류] 🧊 24절기 (비공휴일)\n[양력] 2025-01-20 (월요일)\n[음력/간지] 음력 2024년 12월 21일 (갑진년 정축월 기축일)\n[절입/기준시각] 04:54 (KST)\n\n[상세 안내]\n큰 추위라는 뜻으로 겨울의 마지막 절기입니다. '소한 얼음 대한에 녹는다'는 속담이 있습니다. (태양 황경 300°)\n• 한국표준시(KST) 절입 시각: 2025년 01월 20일 04시 54분\n• 음력/간지: 음력 2024년 12월 21일 (갑진년 정축월 기축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧊 대한 (24절기) (음 12.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250203-63908c2ca1@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:🌱 입춘 (24절기) (음 1.6)
+CATEGORIES:24절기\,천문역법\,입춘
+DESCRIPTION:[분류] 🌱 24절기 (비공휴일)\n[양력] 2025-02-03 (월요일)\n[음력/간지] 음력 2025년 1월 6일 (을사년 무인월 계묘일)\n[절입/기준시각] 23:08 (KST)\n\n[상세 안내]\n봄의 시작을 알리는 첫 번째 절기입니다. 대문에 '입춘대길 건양다경(立春大吉 建陽多慶)' 입춘첩을 붙입니다. (태양 황경 315°)\n• 한국표준시(KST) 절입 시각: 2025년 02월 03일 23시 08분\n• 음력/간지: 음력 2025년 1월 6일 (을사년 무인월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌱 입춘 (24절기) (음 1.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250212-ecd0175dae@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:🌕 정월대보름 (상원) (음 1.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌕 잡절·세시풍속 (비공휴일)\n[양력] 2025-02-12 (수요일)\n[음력/간지] 음력 2025년 1월 15일 (을사년 무인월 임자일)\n\n[상세 안내]\n음력 1월 15일 새해 첫 보름달이 뜨는 날입니다. 오곡밥과 묵은 나물을 해 먹고 부럼을 깨물며 귀밝이술을 마시고 달집태우기로 한 해의 건강과 풍년을 기원합니다.\n• 음력/간지: 음력 2025년 1월 15일 (을사년 무인월 임자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 정월대보름 (상원) (음 1.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250218-a88ee612a0@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:💧 우수 (24절기) (음 1.21)
+CATEGORIES:24절기\,천문역법\,우수
+DESCRIPTION:[분류] 💧 24절기 (비공휴일)\n[양력] 2025-02-18 (화요일)\n[음력/간지] 음력 2025년 1월 21일 (을사년 무인월 무오일)\n[절입/기준시각] 18:58 (KST)\n\n[상세 안내]\n눈이 녹아 비가 되고 얼음이 풀려 봄물이 오른다는 절기입니다. (태양 황경 330°)\n• 한국표준시(KST) 절입 시각: 2025년 02월 18일 18시 58분\n• 음력/간지: 음력 2025년 1월 21일 (을사년 무인월 무오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💧 우수 (24절기) (음 1.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250228-e0f79f71ee@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:🌾 머슴날 (영등날) (음 2.1)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2025-02-28 (금요일)\n[음력/간지] 음력 2025년 2월 1일 (을사년 기묘월 무진일)\n\n[상세 안내]\n음력 2월 1일로 바람의 신 영등할머니를 맞이하고 농사를 앞두고 일꾼들을 대접하며 풍년을 기원하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2025년 2월 1일 (을사년 기묘월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 머슴날 (영등날) (음 2.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250305-23a5d298e3@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250305
+DTEND;VALUE=DATE:20250306
+SUMMARY:🐸 경칩 (24절기) (음 2.6)
+CATEGORIES:24절기\,천문역법\,경칩
+DESCRIPTION:[분류] 🐸 24절기 (비공휴일)\n[양력] 2025-03-05 (수요일)\n[음력/간지] 음력 2025년 2월 6일 (을사년 기묘월 계유일)\n[절입/기준시각] 17:03 (KST)\n\n[상세 안내]\n만물이 겨울잠에서 깨어나는 시기입니다. 땅속의 개구리와 벌레들이 활동을 시작합니다. (태양 황경 345°)\n• 한국표준시(KST) 절입 시각: 2025년 03월 05일 17시 03분\n• 음력/간지: 음력 2025년 2월 6일 (을사년 기묘월 계유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐸 경칩 (24절기) (음 2.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250320-5a76fbeea8@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:🌸 춘분 (24절기) (음 2.21)
+CATEGORIES:24절기\,천문역법\,춘분
+DESCRIPTION:[분류] 🌸 24절기 (비공휴일)\n[양력] 2025-03-20 (목요일)\n[음력/간지] 음력 2025년 2월 21일 (을사년 기묘월 무자일)\n[절입/기준시각] 17:50 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 본격적인 봄이 시작되는 날입니다. (태양 황경 0°)\n• 한국표준시(KST) 절입 시각: 2025년 03월 20일 17시 50분\n• 음력/간지: 음력 2025년 2월 21일 (을사년 기묘월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌸 춘분 (24절기) (음 2.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250331-2ea6721e7e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250401
+SUMMARY:🦋 삼짇날 (상사일) (음 3.3)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🦋 잡절·세시풍속 (비공휴일)\n[양력] 2025-03-31 (월요일)\n[음력/간지] 음력 2025년 3월 3일 (을사년 경진월 기해일)\n\n[상세 안내]\n음력 3월 3일 숫자 3이 겹치는 강남 갔던 제비가 돌아오는 봄 명절입니다. 진달래꽃으로 화전(꽃달임)을 부쳐 먹으며 봄놀이를 즐깁니다.\n• 음력/간지: 음력 2025년 3월 3일 (을사년 경진월 기해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🦋 삼짇날 (상사일) (음 3.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250404-661453bd60@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:🌤️ 청명 (24절기) (음 3.7)
+CATEGORIES:24절기\,천문역법\,청명
+DESCRIPTION:[분류] 🌤️ 24절기 (비공휴일)\n[양력] 2025-04-04 (금요일)\n[음력/간지] 음력 2025년 3월 7일 (을사년 경진월 계묘일)\n[절입/기준시각] 21:42 (KST)\n\n[상세 안내]\n하늘이 차츰 맑아지고 봄농사를 준비하며 성묘나 나무 심기를 하는 절기입니다. (태양 황경 15°)\n• 한국표준시(KST) 절입 시각: 2025년 04월 04일 21시 42분\n• 음력/간지: 음력 2025년 3월 7일 (을사년 경진월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌤️ 청명 (24절기) (음 3.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250405-898f0eaa99@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250406
+SUMMARY:🌿 한식 (寒食) (음 3.8)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,4대명절\,성묘
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2025-04-05 (토요일)\n[음력/간지] 음력 2025년 3월 8일 (을사년 경진월 갑진일)\n\n[상세 안내]\n동지(冬至) 후 105일째 되는 날로\, 설날·단오·추석과 함께 우리 민족 4대 명절 중 하나로 꼽힙니다. 불을 피우지 않고 찬 음식을 먹으며 조상의 산소에 성묘하고 사초(잔디 입히기)를 하는 세시풍속이 있습니다.\n• 음력/간지: 음력 2025년 3월 8일 (을사년 경진월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 한식 (寒食) (음 3.8) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250420-1c0ace6cba@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:🌧️ 곡우 (24절기) (음 3.23)
+CATEGORIES:24절기\,천문역법\,곡우
+DESCRIPTION:[분류] 🌧️ 24절기 (비공휴일)\n[양력] 2025-04-20 (일요일)\n[음력/간지] 음력 2025년 3월 23일 (을사년 경진월 기미일)\n[절입/기준시각] 04:43 (KST)\n\n[상세 안내]\n봄비가 내려 백곡(온갖 곡식)을 기름지게 한다는 봄의 마지막 절기입니다. 우전차(첫 녹차)를 수확합니다. (태양 황경 30°)\n• 한국표준시(KST) 절입 시각: 2025년 04월 20일 04시 43분\n• 음력/간지: 음력 2025년 3월 23일 (을사년 경진월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌧️ 곡우 (24절기) (음 3.23) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250429-0945a2a3a4@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250429
+DTEND;VALUE=DATE:20250430
+SUMMARY:🌾 춘사일 (春社日) (음 4.2)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2025-04-29 (화요일)\n[음력/간지] 음력 2025년 4월 2일 (을사년 신사월 무진일)\n\n[상세 안내]\n춘분(春分) 후 다섯 번째 무일(戊日)로\, 봄에 토지신(사신)에게 한 해 농사의 풍년을 기원하며 제사를 지내던 전통 잡절입니다.\n• 음력/간지: 음력 2025년 4월 2일 (을사년 신사월 무진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 춘사일 (春社日) (음 4.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250505-89a9d72c1b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+SUMMARY:🌿 입하 (24절기) (음 4.8)
+CATEGORIES:24절기\,천문역법\,입하
+DESCRIPTION:[분류] 🌿 24절기 (비공휴일)\n[양력] 2025-05-05 (월요일)\n[음력/간지] 음력 2025년 4월 8일 (을사년 신사월 갑술일)\n[절입/기준시각] 14:50 (KST)\n\n[상세 안내]\n여름이 시작되었음을 알리는 절기입니다. 신록이 우거지고 개구리 울음소리가 들립니다. (태양 황경 45°)\n• 한국표준시(KST) 절입 시각: 2025년 05월 05일 14시 50분\n• 음력/간지: 음력 2025년 4월 8일 (을사년 신사월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 입하 (24절기) (음 4.8) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250521-21400fded6@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250522
+SUMMARY:🌾 소만 (24절기) (음 4.24)
+CATEGORIES:24절기\,천문역법\,소만
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2025-05-21 (수요일)\n[음력/간지] 음력 2025년 4월 24일 (을사년 신사월 경인일)\n[절입/기준시각] 03:43 (KST)\n\n[상세 안내]\n햇볕이 풍부하고 만물이 점차 생장하여 가득 찬다는 절기입니다. 모내기를 시작합니다. (태양 황경 60°)\n• 한국표준시(KST) 절입 시각: 2025년 05월 21일 03시 43분\n• 음력/간지: 음력 2025년 4월 24일 (을사년 신사월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 소만 (24절기) (음 4.24) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250531-13e669a767@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250531
+DTEND;VALUE=DATE:20250601
+SUMMARY:🌿 단오 (수릿날) (음 5.5)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2025-05-31 (토요일)\n[음력/간지] 음력 2025년 5월 5일 (을사년 임오월 경자일)\n\n[상세 안내]\n음력 5월 5일로 일 년 중 양기(陽氣)가 가장 왕성한 날이자 4대 명절 중 하나입니다. 창포물에 머리를 감고 수리취떡을 먹으며 그네뛰기와 씨름을 즐깁니다.\n• 음력/간지: 음력 2025년 5월 5일 (을사년 임오월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 단오 (수릿날) (음 5.5) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250605-d4d801ed6e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:🌾 망종 (24절기) (음 5.10)
+CATEGORIES:24절기\,천문역법\,망종
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2025-06-05 (목요일)\n[음력/간지] 음력 2025년 5월 10일 (을사년 임오월 을사일)\n[절입/기준시각] 18:51 (KST)\n\n[상세 안내]\n보리 등 수염이 있는 까끄라기 곡식의 종자를 뿌리고 보리베기와 모내기에 바쁜 절기입니다. (태양 황경 75°)\n• 한국표준시(KST) 절입 시각: 2025년 06월 05일 18시 51분\n• 음력/간지: 음력 2025년 5월 10일 (을사년 임오월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 망종 (24절기) (음 5.10) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250621-6ce5bf08eb@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:☀️ 하지 (24절기) (음 5.26)
+CATEGORIES:24절기\,천문역법\,하지
+DESCRIPTION:[분류] ☀️ 24절기 (비공휴일)\n[양력] 2025-06-21 (토요일)\n[음력/간지] 음력 2025년 5월 26일 (을사년 임오월 신유일)\n[절입/기준시각] 11:34 (KST)\n\n[상세 안내]\n일 년 중 낮의 길이가 가장 긴 날입니다. 남부지방의 모내기가 마무리되고 감자를 수확합니다. (태양 황경 90°)\n• 한국표준시(KST) 절입 시각: 2025년 06월 21일 11시 34분\n• 음력/간지: 음력 2025년 5월 26일 (을사년 임오월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ 하지 (24절기) (음 5.26) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250707-5801e514cb@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250708
+SUMMARY:🌡️ 소서 (24절기) (음 6.13)
+CATEGORIES:24절기\,천문역법\,소서
+DESCRIPTION:[분류] 🌡️ 24절기 (비공휴일)\n[양력] 2025-07-07 (월요일)\n[음력/간지] 음력 2025년 6월 13일 (을사년 계미월 정축일)\n[절입/기준시각] 05:04 (KST)\n\n[상세 안내]\n작은 더위라는 뜻으로 본격적인 무더위와 장마철이 시작되는 시기입니다. (태양 황경 105°)\n• 한국표준시(KST) 절입 시각: 2025년 07월 07일 05시 04분\n• 음력/간지: 음력 2025년 6월 13일 (을사년 계미월 정축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌡️ 소서 (24절기) (음 6.13) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250709-94d7876023@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250709
+DTEND;VALUE=DATE:20250710
+SUMMARY:🌊 유두 (流頭) (음 6.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌊 잡절·세시풍속 (비공휴일)\n[양력] 2025-07-09 (수요일)\n[음력/간지] 음력 2025년 6월 15일 (을사년 계미월 기묘일)\n\n[상세 안내]\n음력 6월 15일로 동쪽으로 흐르는 맑은 시냇물에 머리를 감으며 여름철 더위와 액운을 씻어내고 밀전병·수단(물만두)을 나누어 먹던 세시풍속일입니다.\n• 음력/간지: 음력 2025년 6월 15일 (을사년 계미월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌊 유두 (流頭) (음 6.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250720-3157f256b7@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250720
+DTEND;VALUE=DATE:20250721
+SUMMARY:🍲 초복 (初伏) (음 6.26)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍲 잡절·세시풍속 (비공휴일)\n[양력] 2025-07-20 (일요일)\n[음력/간지] 음력 2025년 6월 26일 (을사년 계미월 경인일)\n\n[상세 안내]\n삼복(三伏) 더위의 시작으로 하지(夏至)로부터 세 번째 경일(庚日)입니다. 여름철 기력을 보충하기 위해 삼계탕\, 수박 등 보양식을 챙겨 먹는 전통 잡절입니다.\n• 음력/간지: 음력 2025년 6월 26일 (을사년 계미월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍲 초복 (初伏) (음 6.26) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250722-45bcf0de4b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250723
+SUMMARY:🔥 대서 (24절기) (음 6.28)
+CATEGORIES:24절기\,천문역법\,대서
+DESCRIPTION:[분류] 🔥 24절기 (비공휴일)\n[양력] 2025-07-22 (화요일)\n[음력/간지] 음력 2025년 6월 28일 (을사년 계미월 임진일)\n[절입/기준시각] 22:27 (KST)\n\n[상세 안내]\n큰 더위라는 뜻으로 장마가 끝나고 염천(炎天)의 폭염이 가장 심한 한여름 절기입니다. (태양 황경 120°)\n• 한국표준시(KST) 절입 시각: 2025년 07월 22일 22시 27분\n• 음력/간지: 음력 2025년 6월 28일 (을사년 계미월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 대서 (24절기) (음 6.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250730-0d44554464@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250730
+DTEND;VALUE=DATE:20250731
+SUMMARY:🐓 중복 (中伏) (음 윤6.6)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🐓 잡절·세시풍속 (비공휴일)\n[양력] 2025-07-30 (수요일)\n[음력/간지] 음력 2025년 윤6월 6일 (을사년 윤계미월 경자일)\n\n[상세 안내]\n삼복(三伏) 가운데 두 번째 복날로 하지(夏至)로부터 네 번째 경일(庚日)입니다. 한여름 무더위를 이겨내기 위해 보양식을 나누는 전통 잡절입니다.\n• 음력/간지: 음력 2025년 윤6월 6일 (을사년 윤계미월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐓 중복 (中伏) (음 윤6.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250807-f53f320aed@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250807
+DTEND;VALUE=DATE:20250808
+SUMMARY:🍂 입추 (24절기) (음 윤6.14)
+CATEGORIES:24절기\,천문역법\,입추
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2025-08-07 (목요일)\n[음력/간지] 음력 2025년 윤6월 14일 (을사년 윤계미월 무신일)\n[절입/기준시각] 14:54 (KST)\n\n[상세 안내]\n가을의 시작을 알리는 절기입니다. 밤에는 선선한 바람이 불기 시작하고 김장용 무·배추를 심습니다. (태양 황경 135°)\n• 한국표준시(KST) 절입 시각: 2025년 08월 07일 14시 54분\n• 음력/간지: 음력 2025년 윤6월 14일 (을사년 윤계미월 무신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 입추 (24절기) (음 윤6.14) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250809-8546b2d5d7@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250810
+SUMMARY:🍉 말복 (末伏) (음 윤6.16)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍉 잡절·세시풍속 (비공휴일)\n[양력] 2025-08-09 (토요일)\n[음력/간지] 음력 2025년 윤6월 16일 (을사년 윤계미월 경술일)\n\n[상세 안내]\n삼복(三伏)의 마지막 복날로 입추(立秋)로부터 첫 번째 경일(庚日)입니다. 막바지 더위를 이겨내며 여름 건강을 챙기는 전통 잡절입니다.\n• 음력/간지: 음력 2025년 윤6월 16일 (을사년 윤계미월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍉 말복 (末伏) (음 윤6.16) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250823-29a597fd84@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:🌬️ 처서 (24절기) (음 7.1)
+CATEGORIES:24절기\,천문역법\,처서
+DESCRIPTION:[분류] 🌬️ 24절기 (비공휴일)\n[양력] 2025-08-23 (토요일)\n[음력/간지] 음력 2025년 7월 1일 (을사년 갑신월 갑자일)\n[절입/기준시각] 05:36 (KST)\n\n[상세 안내]\n더위가 그치고 선선한 가을을 맞이한다는 절기입니다. '처서가 지나면 모기도 입이 삐뚤어진다'는 속담이 있습니다. (태양 황경 150°)\n• 한국표준시(KST) 절입 시각: 2025년 08월 23일 05시 36분\n• 음력/간지: 음력 2025년 7월 1일 (을사년 갑신월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 처서 (24절기) (음 7.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250829-ab339bb061@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250830
+SUMMARY:🌌 칠석 (七夕) (음 7.7)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌌 잡절·세시풍속 (비공휴일)\n[양력] 2025-08-29 (금요일)\n[음력/간지] 음력 2025년 7월 7일 (을사년 갑신월 경오일)\n\n[상세 안내]\n음력 7월 7일 견우와 직녀가 일 년에 한 번 오작교에서 만나는 날입니다. 저녁에 칠성님께 무병장수와 바느질·학업 성취를 기원하고 밀국수와 밀전병을 먹습니다.\n• 음력/간지: 음력 2025년 7월 7일 (을사년 갑신월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌌 칠석 (七夕) (음 7.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250906-696631a52b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:🪷 백중 (망혼일·우란분절) (음 7.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🪷 잡절·세시풍속 (비공휴일)\n[양력] 2025-09-06 (토요일)\n[음력/간지] 음력 2025년 7월 15일 (을사년 갑신월 무인일)\n\n[상세 안내]\n음력 7월 15일로 여름 농사일을 마치고 호미를 씻어 두는 '호미씻이' 잔치를 열며 조상의 넋을 위로하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2025년 7월 15일 (을사년 갑신월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🪷 백중 (망혼일·우란분절) (음 7.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250907-cf3bee54b8@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250908
+SUMMARY:露 백로 (24절기) (음 7.16)
+CATEGORIES:24절기\,천문역법\,백로
+DESCRIPTION:[분류] 露 24절기 (비공휴일)\n[양력] 2025-09-07 (일요일)\n[음력/간지] 음력 2025년 7월 16일 (을사년 갑신월 기묘일)\n[절입/기준시각] 17:55 (KST)\n\n[상세 안내]\n밤 기온이 이슬점 이하로 내려가 풀잎에 하얀 이슬이 맺히는 완연한 가을 절기입니다. (태양 황경 165°)\n• 한국표준시(KST) 절입 시각: 2025년 09월 07일 17시 55분\n• 음력/간지: 음력 2025년 7월 16일 (을사년 갑신월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:露 백로 (24절기) (음 7.16) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20250923-710561b85e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+SUMMARY:🍁 추분 (24절기) (음 8.2)
+CATEGORIES:24절기\,천문역법\,추분
+DESCRIPTION:[분류] 🍁 24절기 (비공휴일)\n[양력] 2025-09-23 (화요일)\n[음력/간지] 음력 2025년 8월 2일 (을사년 을유월 을미일)\n[절입/기준시각] 03:23 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 이후로 밤이 길어지는 가을의 한가운데 절기입니다. (태양 황경 180°)\n• 한국표준시(KST) 절입 시각: 2025년 09월 23일 03시 23분\n• 음력/간지: 음력 2025년 8월 2일 (을사년 을유월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍁 추분 (24절기) (음 8.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251008-68c56199dd@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251008
+DTEND;VALUE=DATE:20251009
+SUMMARY:🌾 한로 (24절기) (음 8.17)
+CATEGORIES:24절기\,천문역법\,한로
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2025-10-08 (수요일)\n[음력/간지] 음력 2025년 8월 17일 (을사년 을유월 경술일)\n[절입/기준시각] 09:43 (KST)\n\n[상세 안내]\n찬 이슬이 맺히기 시작하며 기온이 더 내려가기 전에 추수를 서두르는 절기입니다. (태양 황경 195°)\n• 한국표준시(KST) 절입 시각: 2025년 10월 08일 09시 43분\n• 음력/간지: 음력 2025년 8월 17일 (을사년 을유월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 한로 (24절기) (음 8.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251023-277860cff9@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:🍂 상강 (24절기) (음 9.3)
+CATEGORIES:24절기\,천문역법\,상강
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2025-10-23 (목요일)\n[음력/간지] 음력 2025년 9월 3일 (을사년 병술월 을축일)\n[절입/기준시각] 12:53 (KST)\n\n[상세 안내]\n밤 기온이 급격히 낮아져 서리가 내리기 시작하고 단풍이 절정에 이르는 가을의 마지막 절기입니다. (태양 황경 210°)\n• 한국표준시(KST) 절입 시각: 2025년 10월 23일 12시 53분\n• 음력/간지: 음력 2025년 9월 3일 (을사년 병술월 을축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 상강 (24절기) (음 9.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251029-69d90f5bb9@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+SUMMARY:🌼 중양절 (중구일) (음 9.9)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌼 잡절·세시풍속 (비공휴일)\n[양력] 2025-10-29 (수요일)\n[음력/간지] 음력 2025년 9월 9일 (을사년 병술월 신미일)\n\n[상세 안내]\n음력 9월 9일 양(陽)의 숫자 9가 겹치는 가을 명절입니다. 국화전을 부쳐 먹고 국화주를 마시며 단풍놀이를 즐기는 세시풍속이 있습니다.\n• 음력/간지: 음력 2025년 9월 9일 (을사년 병술월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌼 중양절 (중구일) (음 9.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251105-a37e0b090f@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251105
+DTEND;VALUE=DATE:20251106
+SUMMARY:🌾 추사일 (秋社日) (음 9.16)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2025-11-05 (수요일)\n[음력/간지] 음력 2025년 9월 16일 (을사년 병술월 무인일)\n\n[상세 안내]\n추분(秋分) 후 다섯 번째 무일(戊日)로\, 가을 추수를 마치고 토지신에게 감사의 제사를 올리던 전통 잡절입니다.\n• 음력/간지: 음력 2025년 9월 16일 (을사년 병술월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 추사일 (秋社日) (음 9.16) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251107-ca4961f6e7@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:🧥 입동 (24절기) (음 9.18)
+CATEGORIES:24절기\,천문역법\,입동
+DESCRIPTION:[분류] 🧥 24절기 (비공휴일)\n[양력] 2025-11-07 (금요일)\n[음력/간지] 음력 2025년 9월 18일 (을사년 병술월 경진일)\n[절입/기준시각] 13:04 (KST)\n\n[상세 안내]\n겨울이 시작되는 절기로 김장을 담그며 월동 준비를 시작합니다. (태양 황경 225°)\n• 한국표준시(KST) 절입 시각: 2025년 11월 07일 13시 04분\n• 음력/간지: 음력 2025년 9월 18일 (을사년 병술월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧥 입동 (24절기) (음 9.18) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251122-50eac0ade2@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:🌨️ 소설 (24절기) (음 10.3)
+CATEGORIES:24절기\,천문역법\,소설
+DESCRIPTION:[분류] 🌨️ 24절기 (비공휴일)\n[양력] 2025-11-22 (토요일)\n[음력/간지] 음력 2025년 10월 3일 (을사년 정해월 을미일)\n[절입/기준시각] 10:36 (KST)\n\n[상세 안내]\n첫눈이 내리기 시작하고 살얼음이 얼며 겨울 추위가 찾아오는 절기입니다. (태양 황경 240°)\n• 한국표준시(KST) 절입 시각: 2025년 11월 22일 10시 36분\n• 음력/간지: 음력 2025년 10월 3일 (을사년 정해월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌨️ 소설 (24절기) (음 10.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251207-6fbc328365@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:⛄ 대설 (24절기) (음 10.18)
+CATEGORIES:24절기\,천문역법\,대설
+DESCRIPTION:[분류] ⛄ 24절기 (비공휴일)\n[양력] 2025-12-07 (일요일)\n[음력/간지] 음력 2025년 10월 18일 (을사년 정해월 경술일)\n[절입/기준시각] 06:02 (KST)\n\n[상세 안내]\n큰 눈이 많이 내린다는 절기로 농한기에 접어들며 이듬해 풍년을 기원합니다. (태양 황경 255°)\n• 한국표준시(KST) 절입 시각: 2025년 12월 07일 06시 02분\n• 음력/간지: 음력 2025년 10월 18일 (을사년 정해월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⛄ 대설 (24절기) (음 10.18) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251209-22b280898a@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+SUMMARY:🌬️ 손돌풍날 (음 10.20)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌬️ 잡절·세시풍속 (비공휴일)\n[양력] 2025-12-09 (화요일)\n[음력/간지] 음력 2025년 10월 20일 (을사년 정해월 임자일)\n\n[상세 안내]\n음력 10월 20일경 고려 시대 뱃사공 손돌의 전설에서 유래한 강추위와 거센 바람이 부는 시기입니다.\n• 음력/간지: 음력 2025년 10월 20일 (을사년 정해월 임자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 손돌풍날 (음 10.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20251222-5755782f42@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
+SUMMARY:🥣 동지 (24절기) (음 11.3)
+CATEGORIES:24절기\,천문역법\,동지
+DESCRIPTION:[분류] 🥣 24절기 (비공휴일)\n[양력] 2025-12-22 (월요일)\n[음력/간지] 음력 2025년 11월 3일 (을사년 무자월 을축일)\n[절입/기준시각] 00:01 (KST)\n\n[상세 안내]\n일 년 중 밤이 가장 길고 낮이 가장 짧은 날입니다. 액운을 쫓고 새해 건강을 기원하며 동지 팥죽을 나누어 먹습니다. (태양 황경 270°)\n• 한국표준시(KST) 절입 시각: 2025년 12월 22일 00시 01분\n• 음력/간지: 음력 2025년 11월 3일 (을사년 무자월 을축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🥣 동지 (24절기) (음 11.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260105-c519b41cba@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:❄️ 소한 (24절기) (음 11.17)
+CATEGORIES:24절기\,천문역법\,소한
+DESCRIPTION:[분류] ❄️ 24절기 (비공휴일)\n[양력] 2026-01-05 (월요일)\n[음력/간지] 음력 2025년 11월 17일 (을사년 무자월 기묘일)\n[절입/기준시각] 17:19 (KST)\n\n[상세 안내]\n작은 추위라는 뜻이나 우리나라에서는 일 년 중 가장 추운 시기입니다. (태양 황경 285°)\n• 한국표준시(KST) 절입 시각: 2026년 01월 05일 17시 19분\n• 음력/간지: 음력 2025년 11월 17일 (을사년 무자월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:❄️ 소한 (24절기) (음 11.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260120-0aacd7b029@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:🧊 대한 (24절기) (음 12.2)
+CATEGORIES:24절기\,천문역법\,대한
+DESCRIPTION:[분류] 🧊 24절기 (비공휴일)\n[양력] 2026-01-20 (화요일)\n[음력/간지] 음력 2025년 12월 2일 (을사년 기축월 갑오일)\n[절입/기준시각] 10:41 (KST)\n\n[상세 안내]\n큰 추위라는 뜻으로 겨울의 마지막 절기입니다. '소한 얼음 대한에 녹는다'는 속담이 있습니다. (태양 황경 300°)\n• 한국표준시(KST) 절입 시각: 2026년 01월 20일 10시 41분\n• 음력/간지: 음력 2025년 12월 2일 (을사년 기축월 갑오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧊 대한 (24절기) (음 12.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260204-acb6128b85@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:🌱 입춘 (24절기) (음 12.17)
+CATEGORIES:24절기\,천문역법\,입춘
+DESCRIPTION:[분류] 🌱 24절기 (비공휴일)\n[양력] 2026-02-04 (수요일)\n[음력/간지] 음력 2025년 12월 17일 (을사년 기축월 기유일)\n[절입/기준시각] 04:55 (KST)\n\n[상세 안내]\n봄의 시작을 알리는 첫 번째 절기입니다. 대문에 '입춘대길 건양다경(立春大吉 建陽多慶)' 입춘첩을 붙입니다. (태양 황경 315°)\n• 한국표준시(KST) 절입 시각: 2026년 02월 04일 04시 55분\n• 음력/간지: 음력 2025년 12월 17일 (을사년 기축월 기유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌱 입춘 (24절기) (음 12.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260219-668f8782ab@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:💧 우수 (24절기) (음 1.3)
+CATEGORIES:24절기\,천문역법\,우수
+DESCRIPTION:[분류] 💧 24절기 (비공휴일)\n[양력] 2026-02-19 (목요일)\n[음력/간지] 음력 2026년 1월 3일 (병오년 경인월 갑자일)\n[절입/기준시각] 00:46 (KST)\n\n[상세 안내]\n눈이 녹아 비가 되고 얼음이 풀려 봄물이 오른다는 절기입니다. (태양 황경 330°)\n• 한국표준시(KST) 절입 시각: 2026년 02월 19일 00시 46분\n• 음력/간지: 음력 2026년 1월 3일 (병오년 경인월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💧 우수 (24절기) (음 1.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260303-5cdd4e8c6c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:🌕 정월대보름 (상원) (음 1.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌕 잡절·세시풍속 (비공휴일)\n[양력] 2026-03-03 (화요일)\n[음력/간지] 음력 2026년 1월 15일 (병오년 경인월 병자일)\n\n[상세 안내]\n음력 1월 15일 새해 첫 보름달이 뜨는 날입니다. 오곡밥과 묵은 나물을 해 먹고 부럼을 깨물며 귀밝이술을 마시고 달집태우기로 한 해의 건강과 풍년을 기원합니다.\n• 음력/간지: 음력 2026년 1월 15일 (병오년 경인월 병자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 정월대보름 (상원) (음 1.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260305-4960422ed2@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:🐸 경칩 (24절기) (음 1.17)
+CATEGORIES:24절기\,천문역법\,경칩
+DESCRIPTION:[분류] 🐸 24절기 (비공휴일)\n[양력] 2026-03-05 (목요일)\n[음력/간지] 음력 2026년 1월 17일 (병오년 경인월 무인일)\n[절입/기준시각] 22:50 (KST)\n\n[상세 안내]\n만물이 겨울잠에서 깨어나는 시기입니다. 땅속의 개구리와 벌레들이 활동을 시작합니다. (태양 황경 345°)\n• 한국표준시(KST) 절입 시각: 2026년 03월 05일 22시 50분\n• 음력/간지: 음력 2026년 1월 17일 (병오년 경인월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐸 경칩 (24절기) (음 1.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260319-250a30fe50@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:🌾 머슴날 (영등날) (음 2.1)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2026-03-19 (목요일)\n[음력/간지] 음력 2026년 2월 1일 (병오년 신묘월 임진일)\n\n[상세 안내]\n음력 2월 1일로 바람의 신 영등할머니를 맞이하고 농사를 앞두고 일꾼들을 대접하며 풍년을 기원하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2026년 2월 1일 (병오년 신묘월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 머슴날 (영등날) (음 2.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260320-b5b805b43e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:🌸 춘분 (24절기) (음 2.2)
+CATEGORIES:24절기\,천문역법\,춘분
+DESCRIPTION:[분류] 🌸 24절기 (비공휴일)\n[양력] 2026-03-20 (금요일)\n[음력/간지] 음력 2026년 2월 2일 (병오년 신묘월 계사일)\n[절입/기준시각] 23:37 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 본격적인 봄이 시작되는 날입니다. (태양 황경 0°)\n• 한국표준시(KST) 절입 시각: 2026년 03월 20일 23시 37분\n• 음력/간지: 음력 2026년 2월 2일 (병오년 신묘월 계사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌸 춘분 (24절기) (음 2.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260405-c6b27b9340@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:🌤️ 청명 (24절기) (음 2.18)
+CATEGORIES:24절기\,천문역법\,청명
+DESCRIPTION:[분류] 🌤️ 24절기 (비공휴일)\n[양력] 2026-04-05 (일요일)\n[음력/간지] 음력 2026년 2월 18일 (병오년 신묘월 기유일)\n[절입/기준시각] 03:28 (KST)\n\n[상세 안내]\n하늘이 차츰 맑아지고 봄농사를 준비하며 성묘나 나무 심기를 하는 절기입니다. (태양 황경 15°)\n• 한국표준시(KST) 절입 시각: 2026년 04월 05일 03시 28분\n• 음력/간지: 음력 2026년 2월 18일 (병오년 신묘월 기유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌤️ 청명 (24절기) (음 2.18) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260406-4d6fc115f2@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:🌿 한식 (寒食) (음 2.19)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,4대명절\,성묘
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2026-04-06 (월요일)\n[음력/간지] 음력 2026년 2월 19일 (병오년 신묘월 경술일)\n\n[상세 안내]\n동지(冬至) 후 105일째 되는 날로\, 설날·단오·추석과 함께 우리 민족 4대 명절 중 하나로 꼽힙니다. 불을 피우지 않고 찬 음식을 먹으며 조상의 산소에 성묘하고 사초(잔디 입히기)를 하는 세시풍속이 있습니다.\n• 음력/간지: 음력 2026년 2월 19일 (병오년 신묘월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 한식 (寒食) (음 2.19) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260419-e5c9fc77f3@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:🦋 삼짇날 (상사일) (음 3.3)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🦋 잡절·세시풍속 (비공휴일)\n[양력] 2026-04-19 (일요일)\n[음력/간지] 음력 2026년 3월 3일 (병오년 임진월 계해일)\n\n[상세 안내]\n음력 3월 3일 숫자 3이 겹치는 강남 갔던 제비가 돌아오는 봄 명절입니다. 진달래꽃으로 화전(꽃달임)을 부쳐 먹으며 봄놀이를 즐깁니다.\n• 음력/간지: 음력 2026년 3월 3일 (병오년 임진월 계해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🦋 삼짇날 (상사일) (음 3.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260420-caba138c22@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:🌧️ 곡우 (24절기) (음 3.4)
+CATEGORIES:24절기\,천문역법\,곡우
+DESCRIPTION:[분류] 🌧️ 24절기 (비공휴일)\n[양력] 2026-04-20 (월요일)\n[음력/간지] 음력 2026년 3월 4일 (병오년 임진월 갑자일)\n[절입/기준시각] 10:29 (KST)\n\n[상세 안내]\n봄비가 내려 백곡(온갖 곡식)을 기름지게 한다는 봄의 마지막 절기입니다. 우전차(첫 녹차)를 수확합니다. (태양 황경 30°)\n• 한국표준시(KST) 절입 시각: 2026년 04월 20일 10시 29분\n• 음력/간지: 음력 2026년 3월 4일 (병오년 임진월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌧️ 곡우 (24절기) (음 3.4) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260504-e07f9b5393@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:🌾 춘사일 (春社日) (음 3.18)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2026-05-04 (월요일)\n[음력/간지] 음력 2026년 3월 18일 (병오년 임진월 무인일)\n\n[상세 안내]\n춘분(春分) 후 다섯 번째 무일(戊日)로\, 봄에 토지신(사신)에게 한 해 농사의 풍년을 기원하며 제사를 지내던 전통 잡절입니다.\n• 음력/간지: 음력 2026년 3월 18일 (병오년 임진월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 춘사일 (春社日) (음 3.18) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260505-be826554cc@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:🌿 입하 (24절기) (음 3.19)
+CATEGORIES:24절기\,천문역법\,입하
+DESCRIPTION:[분류] 🌿 24절기 (비공휴일)\n[양력] 2026-05-05 (화요일)\n[음력/간지] 음력 2026년 3월 19일 (병오년 임진월 기묘일)\n[절입/기준시각] 20:36 (KST)\n\n[상세 안내]\n여름이 시작되었음을 알리는 절기입니다. 신록이 우거지고 개구리 울음소리가 들립니다. (태양 황경 45°)\n• 한국표준시(KST) 절입 시각: 2026년 05월 05일 20시 36분\n• 음력/간지: 음력 2026년 3월 19일 (병오년 임진월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 입하 (24절기) (음 3.19) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260521-eb27879153@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:🌾 소만 (24절기) (음 4.5)
+CATEGORIES:24절기\,천문역법\,소만
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2026-05-21 (목요일)\n[음력/간지] 음력 2026년 4월 5일 (병오년 계사월 을미일)\n[절입/기준시각] 09:29 (KST)\n\n[상세 안내]\n햇볕이 풍부하고 만물이 점차 생장하여 가득 찬다는 절기입니다. 모내기를 시작합니다. (태양 황경 60°)\n• 한국표준시(KST) 절입 시각: 2026년 05월 21일 09시 29분\n• 음력/간지: 음력 2026년 4월 5일 (병오년 계사월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 소만 (24절기) (음 4.5) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260606-298ea02903@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:🌾 망종 (24절기) (음 4.21)
+CATEGORIES:24절기\,천문역법\,망종
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2026-06-06 (토요일)\n[음력/간지] 음력 2026년 4월 21일 (병오년 계사월 신해일)\n[절입/기준시각] 00:37 (KST)\n\n[상세 안내]\n보리 등 수염이 있는 까끄라기 곡식의 종자를 뿌리고 보리베기와 모내기에 바쁜 절기입니다. (태양 황경 75°)\n• 한국표준시(KST) 절입 시각: 2026년 06월 06일 00시 37분\n• 음력/간지: 음력 2026년 4월 21일 (병오년 계사월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 망종 (24절기) (음 4.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260619-8560038d57@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:🌿 단오 (수릿날) (음 5.5)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2026-06-19 (금요일)\n[음력/간지] 음력 2026년 5월 5일 (병오년 갑오월 갑자일)\n\n[상세 안내]\n음력 5월 5일로 일 년 중 양기(陽氣)가 가장 왕성한 날이자 4대 명절 중 하나입니다. 창포물에 머리를 감고 수리취떡을 먹으며 그네뛰기와 씨름을 즐깁니다.\n• 음력/간지: 음력 2026년 5월 5일 (병오년 갑오월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 단오 (수릿날) (음 5.5) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260621-fd8e605129@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:☀️ 하지 (24절기) (음 5.7)
+CATEGORIES:24절기\,천문역법\,하지
+DESCRIPTION:[분류] ☀️ 24절기 (비공휴일)\n[양력] 2026-06-21 (일요일)\n[음력/간지] 음력 2026년 5월 7일 (병오년 갑오월 병인일)\n[절입/기준시각] 17:20 (KST)\n\n[상세 안내]\n일 년 중 낮의 길이가 가장 긴 날입니다. 남부지방의 모내기가 마무리되고 감자를 수확합니다. (태양 황경 90°)\n• 한국표준시(KST) 절입 시각: 2026년 06월 21일 17시 20분\n• 음력/간지: 음력 2026년 5월 7일 (병오년 갑오월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ 하지 (24절기) (음 5.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260707-941d9b3823@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🌡️ 소서 (24절기) (음 5.23)
+CATEGORIES:24절기\,천문역법\,소서
+DESCRIPTION:[분류] 🌡️ 24절기 (비공휴일)\n[양력] 2026-07-07 (화요일)\n[음력/간지] 음력 2026년 5월 23일 (병오년 갑오월 임오일)\n[절입/기준시각] 10:49 (KST)\n\n[상세 안내]\n작은 더위라는 뜻으로 본격적인 무더위와 장마철이 시작되는 시기입니다. (태양 황경 105°)\n• 한국표준시(KST) 절입 시각: 2026년 07월 07일 10시 49분\n• 음력/간지: 음력 2026년 5월 23일 (병오년 갑오월 임오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌡️ 소서 (24절기) (음 5.23) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260715-bfe08a66c8@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:🍲 초복 (初伏) (음 6.2)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍲 잡절·세시풍속 (비공휴일)\n[양력] 2026-07-15 (수요일)\n[음력/간지] 음력 2026년 6월 2일 (병오년 을미월 경인일)\n\n[상세 안내]\n삼복(三伏) 더위의 시작으로 하지(夏至)로부터 세 번째 경일(庚日)입니다. 여름철 기력을 보충하기 위해 삼계탕\, 수박 등 보양식을 챙겨 먹는 전통 잡절입니다.\n• 음력/간지: 음력 2026년 6월 2일 (병오년 을미월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍲 초복 (初伏) (음 6.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260723-cc3af6fb2b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:🔥 대서 (24절기) (음 6.10)
+CATEGORIES:24절기\,천문역법\,대서
+DESCRIPTION:[분류] 🔥 24절기 (비공휴일)\n[양력] 2026-07-23 (목요일)\n[음력/간지] 음력 2026년 6월 10일 (병오년 을미월 무술일)\n[절입/기준시각] 04:13 (KST)\n\n[상세 안내]\n큰 더위라는 뜻으로 장마가 끝나고 염천(炎天)의 폭염이 가장 심한 한여름 절기입니다. (태양 황경 120°)\n• 한국표준시(KST) 절입 시각: 2026년 07월 23일 04시 13분\n• 음력/간지: 음력 2026년 6월 10일 (병오년 을미월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 대서 (24절기) (음 6.10) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260725-0c38489628@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:🐓 중복 (中伏) (음 6.12)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🐓 잡절·세시풍속 (비공휴일)\n[양력] 2026-07-25 (토요일)\n[음력/간지] 음력 2026년 6월 12일 (병오년 을미월 경자일)\n\n[상세 안내]\n삼복(三伏) 가운데 두 번째 복날로 하지(夏至)로부터 네 번째 경일(庚日)입니다. 한여름 무더위를 이겨내기 위해 보양식을 나누는 전통 잡절입니다.\n• 음력/간지: 음력 2026년 6월 12일 (병오년 을미월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐓 중복 (中伏) (음 6.12) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260728-a69ef20b4d@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:🌊 유두 (流頭) (음 6.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌊 잡절·세시풍속 (비공휴일)\n[양력] 2026-07-28 (화요일)\n[음력/간지] 음력 2026년 6월 15일 (병오년 을미월 계묘일)\n\n[상세 안내]\n음력 6월 15일로 동쪽으로 흐르는 맑은 시냇물에 머리를 감으며 여름철 더위와 액운을 씻어내고 밀전병·수단(물만두)을 나누어 먹던 세시풍속일입니다.\n• 음력/간지: 음력 2026년 6월 15일 (병오년 을미월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌊 유두 (流頭) (음 6.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260807-f1e3d8b113@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:🍂 입추 (24절기) (음 6.25)
+CATEGORIES:24절기\,천문역법\,입추
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2026-08-07 (금요일)\n[음력/간지] 음력 2026년 6월 25일 (병오년 을미월 계축일)\n[절입/기준시각] 20:40 (KST)\n\n[상세 안내]\n가을의 시작을 알리는 절기입니다. 밤에는 선선한 바람이 불기 시작하고 김장용 무·배추를 심습니다. (태양 황경 135°)\n• 한국표준시(KST) 절입 시각: 2026년 08월 07일 20시 40분\n• 음력/간지: 음력 2026년 6월 25일 (병오년 을미월 계축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 입추 (24절기) (음 6.25) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260814-6101ee7d12@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:🍉 말복 (末伏) (음 7.2)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍉 잡절·세시풍속 (비공휴일)\n[양력] 2026-08-14 (금요일)\n[음력/간지] 음력 2026년 7월 2일 (병오년 병신월 경신일)\n\n[상세 안내]\n삼복(三伏)의 마지막 복날로 입추(立秋)로부터 첫 번째 경일(庚日)입니다. 막바지 더위를 이겨내며 여름 건강을 챙기는 전통 잡절입니다.\n• 음력/간지: 음력 2026년 7월 2일 (병오년 병신월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍉 말복 (末伏) (음 7.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260819-b5d4200216@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:🌌 칠석 (七夕) (음 7.7)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌌 잡절·세시풍속 (비공휴일)\n[양력] 2026-08-19 (수요일)\n[음력/간지] 음력 2026년 7월 7일 (병오년 병신월 을축일)\n\n[상세 안내]\n음력 7월 7일 견우와 직녀가 일 년에 한 번 오작교에서 만나는 날입니다. 저녁에 칠성님께 무병장수와 바느질·학업 성취를 기원하고 밀국수와 밀전병을 먹습니다.\n• 음력/간지: 음력 2026년 7월 7일 (병오년 병신월 을축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌌 칠석 (七夕) (음 7.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260823-9561f0e7a5@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:🌬️ 처서 (24절기) (음 7.11)
+CATEGORIES:24절기\,천문역법\,처서
+DESCRIPTION:[분류] 🌬️ 24절기 (비공휴일)\n[양력] 2026-08-23 (일요일)\n[음력/간지] 음력 2026년 7월 11일 (병오년 병신월 기사일)\n[절입/기준시각] 11:22 (KST)\n\n[상세 안내]\n더위가 그치고 선선한 가을을 맞이한다는 절기입니다. '처서가 지나면 모기도 입이 삐뚤어진다'는 속담이 있습니다. (태양 황경 150°)\n• 한국표준시(KST) 절입 시각: 2026년 08월 23일 11시 22분\n• 음력/간지: 음력 2026년 7월 11일 (병오년 병신월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 처서 (24절기) (음 7.11) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260827-4da5a3ac7c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:🪷 백중 (망혼일·우란분절) (음 7.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🪷 잡절·세시풍속 (비공휴일)\n[양력] 2026-08-27 (목요일)\n[음력/간지] 음력 2026년 7월 15일 (병오년 병신월 계유일)\n\n[상세 안내]\n음력 7월 15일로 여름 농사일을 마치고 호미를 씻어 두는 '호미씻이' 잔치를 열며 조상의 넋을 위로하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2026년 7월 15일 (병오년 병신월 계유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🪷 백중 (망혼일·우란분절) (음 7.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260907-9b389f35aa@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:露 백로 (24절기) (음 7.26)
+CATEGORIES:24절기\,천문역법\,백로
+DESCRIPTION:[분류] 露 24절기 (비공휴일)\n[양력] 2026-09-07 (월요일)\n[음력/간지] 음력 2026년 7월 26일 (병오년 병신월 갑신일)\n[절입/기준시각] 23:41 (KST)\n\n[상세 안내]\n밤 기온이 이슬점 이하로 내려가 풀잎에 하얀 이슬이 맺히는 완연한 가을 절기입니다. (태양 황경 165°)\n• 한국표준시(KST) 절입 시각: 2026년 09월 07일 23시 41분\n• 음력/간지: 음력 2026년 7월 26일 (병오년 병신월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:露 백로 (24절기) (음 7.26) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20260923-adbd6e60db@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🍁 추분 (24절기) (음 8.13)
+CATEGORIES:24절기\,천문역법\,추분
+DESCRIPTION:[분류] 🍁 24절기 (비공휴일)\n[양력] 2026-09-23 (수요일)\n[음력/간지] 음력 2026년 8월 13일 (병오년 정유월 경자일)\n[절입/기준시각] 09:09 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 이후로 밤이 길어지는 가을의 한가운데 절기입니다. (태양 황경 180°)\n• 한국표준시(KST) 절입 시각: 2026년 09월 23일 09시 09분\n• 음력/간지: 음력 2026년 8월 13일 (병오년 정유월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍁 추분 (24절기) (음 8.13) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261008-a27430ca73@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🌾 한로 (24절기) (음 8.28)
+CATEGORIES:24절기\,천문역법\,한로
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2026-10-08 (목요일)\n[음력/간지] 음력 2026년 8월 28일 (병오년 정유월 을묘일)\n[절입/기준시각] 15:30 (KST)\n\n[상세 안내]\n찬 이슬이 맺히기 시작하며 기온이 더 내려가기 전에 추수를 서두르는 절기입니다. (태양 황경 195°)\n• 한국표준시(KST) 절입 시각: 2026년 10월 08일 15시 30분\n• 음력/간지: 음력 2026년 8월 28일 (병오년 정유월 을묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 한로 (24절기) (음 8.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261019-15487c4cbf@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🌼 중양절 (중구일) (음 9.9)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌼 잡절·세시풍속 (비공휴일)\n[양력] 2026-10-19 (월요일)\n[음력/간지] 음력 2026년 9월 9일 (병오년 무술월 병인일)\n\n[상세 안내]\n음력 9월 9일 양(陽)의 숫자 9가 겹치는 가을 명절입니다. 국화전을 부쳐 먹고 국화주를 마시며 단풍놀이를 즐기는 세시풍속이 있습니다.\n• 음력/간지: 음력 2026년 9월 9일 (병오년 무술월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌼 중양절 (중구일) (음 9.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261023-18d17709ef@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🍂 상강 (24절기) (음 9.13)
+CATEGORIES:24절기\,천문역법\,상강
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2026-10-23 (금요일)\n[음력/간지] 음력 2026년 9월 13일 (병오년 무술월 경오일)\n[절입/기준시각] 18:40 (KST)\n\n[상세 안내]\n밤 기온이 급격히 낮아져 서리가 내리기 시작하고 단풍이 절정에 이르는 가을의 마지막 절기입니다. (태양 황경 210°)\n• 한국표준시(KST) 절입 시각: 2026년 10월 23일 18시 40분\n• 음력/간지: 음력 2026년 9월 13일 (병오년 무술월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 상강 (24절기) (음 9.13) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261107-3d2cacfc3d@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🧥 입동 (24절기) (음 9.28)
+CATEGORIES:24절기\,천문역법\,입동
+DESCRIPTION:[분류] 🧥 24절기 (비공휴일)\n[양력] 2026-11-07 (토요일)\n[음력/간지] 음력 2026년 9월 28일 (병오년 무술월 을유일)\n[절입/기준시각] 18:51 (KST)\n\n[상세 안내]\n겨울이 시작되는 절기로 김장을 담그며 월동 준비를 시작합니다. (태양 황경 225°)\n• 한국표준시(KST) 절입 시각: 2026년 11월 07일 18시 51분\n• 음력/간지: 음력 2026년 9월 28일 (병오년 무술월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧥 입동 (24절기) (음 9.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261110-6190e9200f@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🌾 추사일 (秋社日) (음 10.2)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2026-11-10 (화요일)\n[음력/간지] 음력 2026년 10월 2일 (병오년 기해월 무자일)\n\n[상세 안내]\n추분(秋分) 후 다섯 번째 무일(戊日)로\, 가을 추수를 마치고 토지신에게 감사의 제사를 올리던 전통 잡절입니다.\n• 음력/간지: 음력 2026년 10월 2일 (병오년 기해월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 추사일 (秋社日) (음 10.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261122-deed049a4e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:🌨️ 소설 (24절기) (음 10.14)
+CATEGORIES:24절기\,천문역법\,소설
+DESCRIPTION:[분류] 🌨️ 24절기 (비공휴일)\n[양력] 2026-11-22 (일요일)\n[음력/간지] 음력 2026년 10월 14일 (병오년 기해월 경자일)\n[절입/기준시각] 16:23 (KST)\n\n[상세 안내]\n첫눈이 내리기 시작하고 살얼음이 얼며 겨울 추위가 찾아오는 절기입니다. (태양 황경 240°)\n• 한국표준시(KST) 절입 시각: 2026년 11월 22일 16시 23분\n• 음력/간지: 음력 2026년 10월 14일 (병오년 기해월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌨️ 소설 (24절기) (음 10.14) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261128-ba2394d1fb@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🌬️ 손돌풍날 (음 10.20)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌬️ 잡절·세시풍속 (비공휴일)\n[양력] 2026-11-28 (토요일)\n[음력/간지] 음력 2026년 10월 20일 (병오년 기해월 병오일)\n\n[상세 안내]\n음력 10월 20일경 고려 시대 뱃사공 손돌의 전설에서 유래한 강추위와 거센 바람이 부는 시기입니다.\n• 음력/간지: 음력 2026년 10월 20일 (병오년 기해월 병오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 손돌풍날 (음 10.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261207-1b0a4887cf@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:⛄ 대설 (24절기) (음 10.29)
+CATEGORIES:24절기\,천문역법\,대설
+DESCRIPTION:[분류] ⛄ 24절기 (비공휴일)\n[양력] 2026-12-07 (월요일)\n[음력/간지] 음력 2026년 10월 29일 (병오년 기해월 을묘일)\n[절입/기준시각] 11:49 (KST)\n\n[상세 안내]\n큰 눈이 많이 내린다는 절기로 농한기에 접어들며 이듬해 풍년을 기원합니다. (태양 황경 255°)\n• 한국표준시(KST) 절입 시각: 2026년 12월 07일 11시 49분\n• 음력/간지: 음력 2026년 10월 29일 (병오년 기해월 을묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⛄ 대설 (24절기) (음 10.29) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20261222-fd04326433@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:🥣 동지 (24절기) (음 11.14)
+CATEGORIES:24절기\,천문역법\,동지
+DESCRIPTION:[분류] 🥣 24절기 (비공휴일)\n[양력] 2026-12-22 (화요일)\n[음력/간지] 음력 2026년 11월 14일 (병오년 경자월 경오일)\n[절입/기준시각] 05:49 (KST)\n\n[상세 안내]\n일 년 중 밤이 가장 길고 낮이 가장 짧은 날입니다. 액운을 쫓고 새해 건강을 기원하며 동지 팥죽을 나누어 먹습니다. (태양 황경 270°)\n• 한국표준시(KST) 절입 시각: 2026년 12월 22일 05시 49분\n• 음력/간지: 음력 2026년 11월 14일 (병오년 경자월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🥣 동지 (24절기) (음 11.14) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270105-fd1457dee5@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:❄️ 소한 (24절기) (음 11.28)
+CATEGORIES:24절기\,천문역법\,소한
+DESCRIPTION:[분류] ❄️ 24절기 (비공휴일)\n[양력] 2027-01-05 (화요일)\n[음력/간지] 음력 2026년 11월 28일 (병오년 경자월 갑신일)\n[절입/기준시각] 23:06 (KST)\n\n[상세 안내]\n작은 추위라는 뜻이나 우리나라에서는 일 년 중 가장 추운 시기입니다. (태양 황경 285°)\n• 한국표준시(KST) 절입 시각: 2027년 01월 05일 23시 06분\n• 음력/간지: 음력 2026년 11월 28일 (병오년 경자월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:❄️ 소한 (24절기) (음 11.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270120-20577781e6@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🧊 대한 (24절기) (음 12.13)
+CATEGORIES:24절기\,천문역법\,대한
+DESCRIPTION:[분류] 🧊 24절기 (비공휴일)\n[양력] 2027-01-20 (수요일)\n[음력/간지] 음력 2026년 12월 13일 (병오년 신축월 기해일)\n[절입/기준시각] 16:29 (KST)\n\n[상세 안내]\n큰 추위라는 뜻으로 겨울의 마지막 절기입니다. '소한 얼음 대한에 녹는다'는 속담이 있습니다. (태양 황경 300°)\n• 한국표준시(KST) 절입 시각: 2027년 01월 20일 16시 29분\n• 음력/간지: 음력 2026년 12월 13일 (병오년 신축월 기해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧊 대한 (24절기) (음 12.13) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270204-effb07bb59@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:🌱 입춘 (24절기) (음 12.28)
+CATEGORIES:24절기\,천문역법\,입춘
+DESCRIPTION:[분류] 🌱 24절기 (비공휴일)\n[양력] 2027-02-04 (목요일)\n[음력/간지] 음력 2026년 12월 28일 (병오년 신축월 갑인일)\n[절입/기준시각] 10:43 (KST)\n\n[상세 안내]\n봄의 시작을 알리는 첫 번째 절기입니다. 대문에 '입춘대길 건양다경(立春大吉 建陽多慶)' 입춘첩을 붙입니다. (태양 황경 315°)\n• 한국표준시(KST) 절입 시각: 2027년 02월 04일 10시 43분\n• 음력/간지: 음력 2026년 12월 28일 (병오년 신축월 갑인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌱 입춘 (24절기) (음 12.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270219-39df086298@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:💧 우수 (24절기) (음 1.13)
+CATEGORIES:24절기\,천문역법\,우수
+DESCRIPTION:[분류] 💧 24절기 (비공휴일)\n[양력] 2027-02-19 (금요일)\n[음력/간지] 음력 2027년 1월 13일 (정미년 임인월 기사일)\n[절입/기준시각] 06:33 (KST)\n\n[상세 안내]\n눈이 녹아 비가 되고 얼음이 풀려 봄물이 오른다는 절기입니다. (태양 황경 330°)\n• 한국표준시(KST) 절입 시각: 2027년 02월 19일 06시 33분\n• 음력/간지: 음력 2027년 1월 13일 (정미년 임인월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💧 우수 (24절기) (음 1.13) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270221-e3fa7d06f9@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:🌕 정월대보름 (상원) (음 1.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌕 잡절·세시풍속 (비공휴일)\n[양력] 2027-02-21 (일요일)\n[음력/간지] 음력 2027년 1월 15일 (정미년 임인월 신미일)\n\n[상세 안내]\n음력 1월 15일 새해 첫 보름달이 뜨는 날입니다. 오곡밥과 묵은 나물을 해 먹고 부럼을 깨물며 귀밝이술을 마시고 달집태우기로 한 해의 건강과 풍년을 기원합니다.\n• 음력/간지: 음력 2027년 1월 15일 (정미년 임인월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 정월대보름 (상원) (음 1.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270306-44a8a59ddd@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🐸 경칩 (24절기) (음 1.28)
+CATEGORIES:24절기\,천문역법\,경칩
+DESCRIPTION:[분류] 🐸 24절기 (비공휴일)\n[양력] 2027-03-06 (토요일)\n[음력/간지] 음력 2027년 1월 28일 (정미년 임인월 갑신일)\n[절입/기준시각] 04:37 (KST)\n\n[상세 안내]\n만물이 겨울잠에서 깨어나는 시기입니다. 땅속의 개구리와 벌레들이 활동을 시작합니다. (태양 황경 345°)\n• 한국표준시(KST) 절입 시각: 2027년 03월 06일 04시 37분\n• 음력/간지: 음력 2027년 1월 28일 (정미년 임인월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐸 경칩 (24절기) (음 1.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270308-d3b064bfa3@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:🌾 머슴날 (영등날) (음 2.1)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2027-03-08 (월요일)\n[음력/간지] 음력 2027년 2월 1일 (정미년 계묘월 병술일)\n\n[상세 안내]\n음력 2월 1일로 바람의 신 영등할머니를 맞이하고 농사를 앞두고 일꾼들을 대접하며 풍년을 기원하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2027년 2월 1일 (정미년 계묘월 병술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 머슴날 (영등날) (음 2.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270321-a15582265b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:🌸 춘분 (24절기) (음 2.14)
+CATEGORIES:24절기\,천문역법\,춘분
+DESCRIPTION:[분류] 🌸 24절기 (비공휴일)\n[양력] 2027-03-21 (일요일)\n[음력/간지] 음력 2027년 2월 14일 (정미년 계묘월 기해일)\n[절입/기준시각] 05:24 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 본격적인 봄이 시작되는 날입니다. (태양 황경 0°)\n• 한국표준시(KST) 절입 시각: 2027년 03월 21일 05시 24분\n• 음력/간지: 음력 2027년 2월 14일 (정미년 계묘월 기해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌸 춘분 (24절기) (음 2.14) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270405-c82acfe5cc@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:🌤️ 청명 (24절기) (음 2.29)
+CATEGORIES:24절기\,천문역법\,청명
+DESCRIPTION:[분류] 🌤️ 24절기 (비공휴일)\n[양력] 2027-04-05 (월요일)\n[음력/간지] 음력 2027년 2월 29일 (정미년 계묘월 갑인일)\n[절입/기준시각] 09:15 (KST)\n\n[상세 안내]\n하늘이 차츰 맑아지고 봄농사를 준비하며 성묘나 나무 심기를 하는 절기입니다. (태양 황경 15°)\n• 한국표준시(KST) 절입 시각: 2027년 04월 05일 09시 15분\n• 음력/간지: 음력 2027년 2월 29일 (정미년 계묘월 갑인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌤️ 청명 (24절기) (음 2.29) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270406-ada38d8258@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:🌿 한식 (寒食) (음 2.30)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,4대명절\,성묘
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2027-04-06 (화요일)\n[음력/간지] 음력 2027년 2월 30일 (정미년 계묘월 을묘일)\n\n[상세 안내]\n동지(冬至) 후 105일째 되는 날로\, 설날·단오·추석과 함께 우리 민족 4대 명절 중 하나로 꼽힙니다. 불을 피우지 않고 찬 음식을 먹으며 조상의 산소에 성묘하고 사초(잔디 입히기)를 하는 세시풍속이 있습니다.\n• 음력/간지: 음력 2027년 2월 30일 (정미년 계묘월 을묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 한식 (寒食) (음 2.30) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270409-9f6ec434f8@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:🦋 삼짇날 (상사일) (음 3.3)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🦋 잡절·세시풍속 (비공휴일)\n[양력] 2027-04-09 (금요일)\n[음력/간지] 음력 2027년 3월 3일 (정미년 갑진월 무오일)\n\n[상세 안내]\n음력 3월 3일 숫자 3이 겹치는 강남 갔던 제비가 돌아오는 봄 명절입니다. 진달래꽃으로 화전(꽃달임)을 부쳐 먹으며 봄놀이를 즐깁니다.\n• 음력/간지: 음력 2027년 3월 3일 (정미년 갑진월 무오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🦋 삼짇날 (상사일) (음 3.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270420-ab5a9afe12@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:🌧️ 곡우 (24절기) (음 3.14)
+CATEGORIES:24절기\,천문역법\,곡우
+DESCRIPTION:[분류] 🌧️ 24절기 (비공휴일)\n[양력] 2027-04-20 (화요일)\n[음력/간지] 음력 2027년 3월 14일 (정미년 갑진월 기사일)\n[절입/기준시각] 16:16 (KST)\n\n[상세 안내]\n봄비가 내려 백곡(온갖 곡식)을 기름지게 한다는 봄의 마지막 절기입니다. 우전차(첫 녹차)를 수확합니다. (태양 황경 30°)\n• 한국표준시(KST) 절입 시각: 2027년 04월 20일 16시 16분\n• 음력/간지: 음력 2027년 3월 14일 (정미년 갑진월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌧️ 곡우 (24절기) (음 3.14) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270506-2510abf7ec@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:🌿 입하 (24절기) (음 4.1)
+CATEGORIES:24절기\,천문역법\,입하
+DESCRIPTION:[분류] 🌿 24절기 (비공휴일)\n[양력] 2027-05-06 (목요일)\n[음력/간지] 음력 2027년 4월 1일 (정미년 을사월 을유일)\n[절입/기준시각] 02:22 (KST)\n\n[상세 안내]\n여름이 시작되었음을 알리는 절기입니다. 신록이 우거지고 개구리 울음소리가 들립니다. (태양 황경 45°)\n• 한국표준시(KST) 절입 시각: 2027년 05월 06일 02시 22분\n• 음력/간지: 음력 2027년 4월 1일 (정미년 을사월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 입하 (24절기) (음 4.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270509-10d6ebc04e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:🌾 춘사일 (春社日) (음 4.4)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2027-05-09 (일요일)\n[음력/간지] 음력 2027년 4월 4일 (정미년 을사월 무자일)\n\n[상세 안내]\n춘분(春分) 후 다섯 번째 무일(戊日)로\, 봄에 토지신(사신)에게 한 해 농사의 풍년을 기원하며 제사를 지내던 전통 잡절입니다.\n• 음력/간지: 음력 2027년 4월 4일 (정미년 을사월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 춘사일 (春社日) (음 4.4) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270521-49e9264a10@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:🌾 소만 (24절기) (음 4.16)
+CATEGORIES:24절기\,천문역법\,소만
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2027-05-21 (금요일)\n[음력/간지] 음력 2027년 4월 16일 (정미년 을사월 경자일)\n[절입/기준시각] 15:15 (KST)\n\n[상세 안내]\n햇볕이 풍부하고 만물이 점차 생장하여 가득 찬다는 절기입니다. 모내기를 시작합니다. (태양 황경 60°)\n• 한국표준시(KST) 절입 시각: 2027년 05월 21일 15시 15분\n• 음력/간지: 음력 2027년 4월 16일 (정미년 을사월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 소만 (24절기) (음 4.16) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270606-4488340b49@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:🌾 망종 (24절기) (음 5.2)
+CATEGORIES:24절기\,천문역법\,망종
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2027-06-06 (일요일)\n[음력/간지] 음력 2027년 5월 2일 (정미년 병오월 병진일)\n[절입/기준시각] 06:23 (KST)\n\n[상세 안내]\n보리 등 수염이 있는 까끄라기 곡식의 종자를 뿌리고 보리베기와 모내기에 바쁜 절기입니다. (태양 황경 75°)\n• 한국표준시(KST) 절입 시각: 2027년 06월 06일 06시 23분\n• 음력/간지: 음력 2027년 5월 2일 (정미년 병오월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 망종 (24절기) (음 5.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270609-fb8c3aacf3@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:🌿 단오 (수릿날) (음 5.5)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2027-06-09 (수요일)\n[음력/간지] 음력 2027년 5월 5일 (정미년 병오월 기미일)\n\n[상세 안내]\n음력 5월 5일로 일 년 중 양기(陽氣)가 가장 왕성한 날이자 4대 명절 중 하나입니다. 창포물에 머리를 감고 수리취떡을 먹으며 그네뛰기와 씨름을 즐깁니다.\n• 음력/간지: 음력 2027년 5월 5일 (정미년 병오월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 단오 (수릿날) (음 5.5) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270621-ad4682d15b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:☀️ 하지 (24절기) (음 5.17)
+CATEGORIES:24절기\,천문역법\,하지
+DESCRIPTION:[분류] ☀️ 24절기 (비공휴일)\n[양력] 2027-06-21 (월요일)\n[음력/간지] 음력 2027년 5월 17일 (정미년 병오월 신미일)\n[절입/기준시각] 23:06 (KST)\n\n[상세 안내]\n일 년 중 낮의 길이가 가장 긴 날입니다. 남부지방의 모내기가 마무리되고 감자를 수확합니다. (태양 황경 90°)\n• 한국표준시(KST) 절입 시각: 2027년 06월 21일 23시 06분\n• 음력/간지: 음력 2027년 5월 17일 (정미년 병오월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ 하지 (24절기) (음 5.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270707-404d261e83@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:🌡️ 소서 (24절기) (음 6.4)
+CATEGORIES:24절기\,천문역법\,소서
+DESCRIPTION:[분류] 🌡️ 24절기 (비공휴일)\n[양력] 2027-07-07 (수요일)\n[음력/간지] 음력 2027년 6월 4일 (정미년 정미월 정해일)\n[절입/기준시각] 16:35 (KST)\n\n[상세 안내]\n작은 더위라는 뜻으로 본격적인 무더위와 장마철이 시작되는 시기입니다. (태양 황경 105°)\n• 한국표준시(KST) 절입 시각: 2027년 07월 07일 16시 35분\n• 음력/간지: 음력 2027년 6월 4일 (정미년 정미월 정해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌡️ 소서 (24절기) (음 6.4) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270718-a2dc8ddde0@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:🌊 유두 (流頭) (음 6.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌊 잡절·세시풍속 (비공휴일)\n[양력] 2027-07-18 (일요일)\n[음력/간지] 음력 2027년 6월 15일 (정미년 정미월 무술일)\n\n[상세 안내]\n음력 6월 15일로 동쪽으로 흐르는 맑은 시냇물에 머리를 감으며 여름철 더위와 액운을 씻어내고 밀전병·수단(물만두)을 나누어 먹던 세시풍속일입니다.\n• 음력/간지: 음력 2027년 6월 15일 (정미년 정미월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌊 유두 (流頭) (음 6.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270720-3300873e03@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:🍲 초복 (初伏) (음 6.17)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍲 잡절·세시풍속 (비공휴일)\n[양력] 2027-07-20 (화요일)\n[음력/간지] 음력 2027년 6월 17일 (정미년 정미월 경자일)\n\n[상세 안내]\n삼복(三伏) 더위의 시작으로 하지(夏至)로부터 세 번째 경일(庚日)입니다. 여름철 기력을 보충하기 위해 삼계탕\, 수박 등 보양식을 챙겨 먹는 전통 잡절입니다.\n• 음력/간지: 음력 2027년 6월 17일 (정미년 정미월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍲 초복 (初伏) (음 6.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270723-620575d9a7@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:🔥 대서 (24절기) (음 6.20)
+CATEGORIES:24절기\,천문역법\,대서
+DESCRIPTION:[분류] 🔥 24절기 (비공휴일)\n[양력] 2027-07-23 (금요일)\n[음력/간지] 음력 2027년 6월 20일 (정미년 정미월 계묘일)\n[절입/기준시각] 09:59 (KST)\n\n[상세 안내]\n큰 더위라는 뜻으로 장마가 끝나고 염천(炎天)의 폭염이 가장 심한 한여름 절기입니다. (태양 황경 120°)\n• 한국표준시(KST) 절입 시각: 2027년 07월 23일 09시 59분\n• 음력/간지: 음력 2027년 6월 20일 (정미년 정미월 계묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 대서 (24절기) (음 6.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270730-0ad7e06fa8@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:🐓 중복 (中伏) (음 6.27)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🐓 잡절·세시풍속 (비공휴일)\n[양력] 2027-07-30 (금요일)\n[음력/간지] 음력 2027년 6월 27일 (정미년 정미월 경술일)\n\n[상세 안내]\n삼복(三伏) 가운데 두 번째 복날로 하지(夏至)로부터 네 번째 경일(庚日)입니다. 한여름 무더위를 이겨내기 위해 보양식을 나누는 전통 잡절입니다.\n• 음력/간지: 음력 2027년 6월 27일 (정미년 정미월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐓 중복 (中伏) (음 6.27) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270808-ca882aba26@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:🍂 입추 (24절기) (음 7.7)
+CATEGORIES:24절기\,천문역법\,입추
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2027-08-08 (일요일)\n[음력/간지] 음력 2027년 7월 7일 (정미년 무신월 기미일)\n[절입/기준시각] 02:26 (KST)\n\n[상세 안내]\n가을의 시작을 알리는 절기입니다. 밤에는 선선한 바람이 불기 시작하고 김장용 무·배추를 심습니다. (태양 황경 135°)\n• 한국표준시(KST) 절입 시각: 2027년 08월 08일 02시 26분\n• 음력/간지: 음력 2027년 7월 7일 (정미년 무신월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 입추 (24절기) (음 7.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270808-4dfefbc948@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:🌌 칠석 (七夕) (음 7.7)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌌 잡절·세시풍속 (비공휴일)\n[양력] 2027-08-08 (일요일)\n[음력/간지] 음력 2027년 7월 7일 (정미년 무신월 기미일)\n\n[상세 안내]\n음력 7월 7일 견우와 직녀가 일 년에 한 번 오작교에서 만나는 날입니다. 저녁에 칠성님께 무병장수와 바느질·학업 성취를 기원하고 밀국수와 밀전병을 먹습니다.\n• 음력/간지: 음력 2027년 7월 7일 (정미년 무신월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌌 칠석 (七夕) (음 7.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270809-bce3efecba@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:🍉 말복 (末伏) (음 7.8)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍉 잡절·세시풍속 (비공휴일)\n[양력] 2027-08-09 (월요일)\n[음력/간지] 음력 2027년 7월 8일 (정미년 무신월 경신일)\n\n[상세 안내]\n삼복(三伏)의 마지막 복날로 입추(立秋)로부터 첫 번째 경일(庚日)입니다. 막바지 더위를 이겨내며 여름 건강을 챙기는 전통 잡절입니다.\n• 음력/간지: 음력 2027년 7월 8일 (정미년 무신월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍉 말복 (末伏) (음 7.8) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270816-1b2b90f3fe@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:🪷 백중 (망혼일·우란분절) (음 7.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🪷 잡절·세시풍속 (비공휴일)\n[양력] 2027-08-16 (월요일)\n[음력/간지] 음력 2027년 7월 15일 (정미년 무신월 정묘일)\n\n[상세 안내]\n음력 7월 15일로 여름 농사일을 마치고 호미를 씻어 두는 '호미씻이' 잔치를 열며 조상의 넋을 위로하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2027년 7월 15일 (정미년 무신월 정묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🪷 백중 (망혼일·우란분절) (음 7.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270823-23889d8cdd@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:🌬️ 처서 (24절기) (음 7.22)
+CATEGORIES:24절기\,천문역법\,처서
+DESCRIPTION:[분류] 🌬️ 24절기 (비공휴일)\n[양력] 2027-08-23 (월요일)\n[음력/간지] 음력 2027년 7월 22일 (정미년 무신월 갑술일)\n[절입/기준시각] 17:08 (KST)\n\n[상세 안내]\n더위가 그치고 선선한 가을을 맞이한다는 절기입니다. '처서가 지나면 모기도 입이 삐뚤어진다'는 속담이 있습니다. (태양 황경 150°)\n• 한국표준시(KST) 절입 시각: 2027년 08월 23일 17시 08분\n• 음력/간지: 음력 2027년 7월 22일 (정미년 무신월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 처서 (24절기) (음 7.22) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270908-c72b430ed7@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:露 백로 (24절기) (음 8.8)
+CATEGORIES:24절기\,천문역법\,백로
+DESCRIPTION:[분류] 露 24절기 (비공휴일)\n[양력] 2027-09-08 (수요일)\n[음력/간지] 음력 2027년 8월 8일 (정미년 기유월 경인일)\n[절입/기준시각] 05:28 (KST)\n\n[상세 안내]\n밤 기온이 이슬점 이하로 내려가 풀잎에 하얀 이슬이 맺히는 완연한 가을 절기입니다. (태양 황경 165°)\n• 한국표준시(KST) 절입 시각: 2027년 09월 08일 05시 28분\n• 음력/간지: 음력 2027년 8월 8일 (정미년 기유월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:露 백로 (24절기) (음 8.8) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20270923-872865e019@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:🍁 추분 (24절기) (음 8.23)
+CATEGORIES:24절기\,천문역법\,추분
+DESCRIPTION:[분류] 🍁 24절기 (비공휴일)\n[양력] 2027-09-23 (목요일)\n[음력/간지] 음력 2027년 8월 23일 (정미년 기유월 을사일)\n[절입/기준시각] 14:56 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 이후로 밤이 길어지는 가을의 한가운데 절기입니다. (태양 황경 180°)\n• 한국표준시(KST) 절입 시각: 2027년 09월 23일 14시 56분\n• 음력/간지: 음력 2027년 8월 23일 (정미년 기유월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍁 추분 (24절기) (음 8.23) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271008-d42de14ae7@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:🌾 한로 (24절기) (음 9.9)
+CATEGORIES:24절기\,천문역법\,한로
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2027-10-08 (금요일)\n[음력/간지] 음력 2027년 9월 9일 (정미년 경술월 경신일)\n[절입/기준시각] 21:17 (KST)\n\n[상세 안내]\n찬 이슬이 맺히기 시작하며 기온이 더 내려가기 전에 추수를 서두르는 절기입니다. (태양 황경 195°)\n• 한국표준시(KST) 절입 시각: 2027년 10월 08일 21시 17분\n• 음력/간지: 음력 2027년 9월 9일 (정미년 경술월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 한로 (24절기) (음 9.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271008-15d3eebdbd@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:🌼 중양절 (중구일) (음 9.9)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌼 잡절·세시풍속 (비공휴일)\n[양력] 2027-10-08 (금요일)\n[음력/간지] 음력 2027년 9월 9일 (정미년 경술월 경신일)\n\n[상세 안내]\n음력 9월 9일 양(陽)의 숫자 9가 겹치는 가을 명절입니다. 국화전을 부쳐 먹고 국화주를 마시며 단풍놀이를 즐기는 세시풍속이 있습니다.\n• 음력/간지: 음력 2027년 9월 9일 (정미년 경술월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌼 중양절 (중구일) (음 9.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271024-51ffa7c9ba@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:🍂 상강 (24절기) (음 9.25)
+CATEGORIES:24절기\,천문역법\,상강
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2027-10-24 (일요일)\n[음력/간지] 음력 2027년 9월 25일 (정미년 경술월 병자일)\n[절입/기준시각] 00:27 (KST)\n\n[상세 안내]\n밤 기온이 급격히 낮아져 서리가 내리기 시작하고 단풍이 절정에 이르는 가을의 마지막 절기입니다. (태양 황경 210°)\n• 한국표준시(KST) 절입 시각: 2027년 10월 24일 00시 27분\n• 음력/간지: 음력 2027년 9월 25일 (정미년 경술월 병자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 상강 (24절기) (음 9.25) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271105-c456c06b57@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:🌾 추사일 (秋社日) (음 10.8)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2027-11-05 (금요일)\n[음력/간지] 음력 2027년 10월 8일 (정미년 신해월 무자일)\n\n[상세 안내]\n추분(秋分) 후 다섯 번째 무일(戊日)로\, 가을 추수를 마치고 토지신에게 감사의 제사를 올리던 전통 잡절입니다.\n• 음력/간지: 음력 2027년 10월 8일 (정미년 신해월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 추사일 (秋社日) (음 10.8) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271108-038eb748ae@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+SUMMARY:🧥 입동 (24절기) (음 10.11)
+CATEGORIES:24절기\,천문역법\,입동
+DESCRIPTION:[분류] 🧥 24절기 (비공휴일)\n[양력] 2027-11-08 (월요일)\n[음력/간지] 음력 2027년 10월 11일 (정미년 신해월 신묘일)\n[절입/기준시각] 00:38 (KST)\n\n[상세 안내]\n겨울이 시작되는 절기로 김장을 담그며 월동 준비를 시작합니다. (태양 황경 225°)\n• 한국표준시(KST) 절입 시각: 2027년 11월 08일 00시 38분\n• 음력/간지: 음력 2027년 10월 11일 (정미년 신해월 신묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧥 입동 (24절기) (음 10.11) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271117-77fd5b2b50@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:🌬️ 손돌풍날 (음 10.20)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌬️ 잡절·세시풍속 (비공휴일)\n[양력] 2027-11-17 (수요일)\n[음력/간지] 음력 2027년 10월 20일 (정미년 신해월 경자일)\n\n[상세 안내]\n음력 10월 20일경 고려 시대 뱃사공 손돌의 전설에서 유래한 강추위와 거센 바람이 부는 시기입니다.\n• 음력/간지: 음력 2027년 10월 20일 (정미년 신해월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 손돌풍날 (음 10.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271122-ae64262ef0@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:🌨️ 소설 (24절기) (음 10.25)
+CATEGORIES:24절기\,천문역법\,소설
+DESCRIPTION:[분류] 🌨️ 24절기 (비공휴일)\n[양력] 2027-11-22 (월요일)\n[음력/간지] 음력 2027년 10월 25일 (정미년 신해월 을사일)\n[절입/기준시각] 22:11 (KST)\n\n[상세 안내]\n첫눈이 내리기 시작하고 살얼음이 얼며 겨울 추위가 찾아오는 절기입니다. (태양 황경 240°)\n• 한국표준시(KST) 절입 시각: 2027년 11월 22일 22시 11분\n• 음력/간지: 음력 2027년 10월 25일 (정미년 신해월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌨️ 소설 (24절기) (음 10.25) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271207-214417da12@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+SUMMARY:⛄ 대설 (24절기) (음 11.10)
+CATEGORIES:24절기\,천문역법\,대설
+DESCRIPTION:[분류] ⛄ 24절기 (비공휴일)\n[양력] 2027-12-07 (화요일)\n[음력/간지] 음력 2027년 11월 10일 (정미년 임자월 경신일)\n[절입/기준시각] 17:37 (KST)\n\n[상세 안내]\n큰 눈이 많이 내린다는 절기로 농한기에 접어들며 이듬해 풍년을 기원합니다. (태양 황경 255°)\n• 한국표준시(KST) 절입 시각: 2027년 12월 07일 17시 37분\n• 음력/간지: 음력 2027년 11월 10일 (정미년 임자월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⛄ 대설 (24절기) (음 11.10) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20271222-cb0b0e7873@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:🥣 동지 (24절기) (음 11.25)
+CATEGORIES:24절기\,천문역법\,동지
+DESCRIPTION:[분류] 🥣 24절기 (비공휴일)\n[양력] 2027-12-22 (수요일)\n[음력/간지] 음력 2027년 11월 25일 (정미년 임자월 을해일)\n[절입/기준시각] 11:37 (KST)\n\n[상세 안내]\n일 년 중 밤이 가장 길고 낮이 가장 짧은 날입니다. 액운을 쫓고 새해 건강을 기원하며 동지 팥죽을 나누어 먹습니다. (태양 황경 270°)\n• 한국표준시(KST) 절입 시각: 2027년 12월 22일 11시 37분\n• 음력/간지: 음력 2027년 11월 25일 (정미년 임자월 을해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🥣 동지 (24절기) (음 11.25) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280106-312b24fe8f@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:❄️ 소한 (24절기) (음 12.10)
+CATEGORIES:24절기\,천문역법\,소한
+DESCRIPTION:[분류] ❄️ 24절기 (비공휴일)\n[양력] 2028-01-06 (목요일)\n[음력/간지] 음력 2027년 12월 10일 (정미년 계축월 경인일)\n[절입/기준시각] 04:54 (KST)\n\n[상세 안내]\n작은 추위라는 뜻이나 우리나라에서는 일 년 중 가장 추운 시기입니다. (태양 황경 285°)\n• 한국표준시(KST) 절입 시각: 2028년 01월 06일 04시 54분\n• 음력/간지: 음력 2027년 12월 10일 (정미년 계축월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:❄️ 소한 (24절기) (음 12.10) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280120-f28db665a4@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:🧊 대한 (24절기) (음 12.24)
+CATEGORIES:24절기\,천문역법\,대한
+DESCRIPTION:[분류] 🧊 24절기 (비공휴일)\n[양력] 2028-01-20 (목요일)\n[음력/간지] 음력 2027년 12월 24일 (정미년 계축월 갑진일)\n[절입/기준시각] 22:17 (KST)\n\n[상세 안내]\n큰 추위라는 뜻으로 겨울의 마지막 절기입니다. '소한 얼음 대한에 녹는다'는 속담이 있습니다. (태양 황경 300°)\n• 한국표준시(KST) 절입 시각: 2028년 01월 20일 22시 17분\n• 음력/간지: 음력 2027년 12월 24일 (정미년 계축월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧊 대한 (24절기) (음 12.24) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280204-cb882bc1a0@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280204
+DTEND;VALUE=DATE:20280205
+SUMMARY:🌱 입춘 (24절기) (음 1.9)
+CATEGORIES:24절기\,천문역법\,입춘
+DESCRIPTION:[분류] 🌱 24절기 (비공휴일)\n[양력] 2028-02-04 (금요일)\n[음력/간지] 음력 2028년 1월 9일 (무신년 갑인월 기미일)\n[절입/기준시각] 16:31 (KST)\n\n[상세 안내]\n봄의 시작을 알리는 첫 번째 절기입니다. 대문에 '입춘대길 건양다경(立春大吉 建陽多慶)' 입춘첩을 붙입니다. (태양 황경 315°)\n• 한국표준시(KST) 절입 시각: 2028년 02월 04일 16시 31분\n• 음력/간지: 음력 2028년 1월 9일 (무신년 갑인월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌱 입춘 (24절기) (음 1.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280210-281ab8364e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:🌕 정월대보름 (상원) (음 1.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌕 잡절·세시풍속 (비공휴일)\n[양력] 2028-02-10 (목요일)\n[음력/간지] 음력 2028년 1월 15일 (무신년 갑인월 을축일)\n\n[상세 안내]\n음력 1월 15일 새해 첫 보름달이 뜨는 날입니다. 오곡밥과 묵은 나물을 해 먹고 부럼을 깨물며 귀밝이술을 마시고 달집태우기로 한 해의 건강과 풍년을 기원합니다.\n• 음력/간지: 음력 2028년 1월 15일 (무신년 갑인월 을축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 정월대보름 (상원) (음 1.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280219-b29b04d585@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280219
+DTEND;VALUE=DATE:20280220
+SUMMARY:💧 우수 (24절기) (음 1.24)
+CATEGORIES:24절기\,천문역법\,우수
+DESCRIPTION:[분류] 💧 24절기 (비공휴일)\n[양력] 2028-02-19 (토요일)\n[음력/간지] 음력 2028년 1월 24일 (무신년 갑인월 갑술일)\n[절입/기준시각] 12:21 (KST)\n\n[상세 안내]\n눈이 녹아 비가 되고 얼음이 풀려 봄물이 오른다는 절기입니다. (태양 황경 330°)\n• 한국표준시(KST) 절입 시각: 2028년 02월 19일 12시 21분\n• 음력/간지: 음력 2028년 1월 24일 (무신년 갑인월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💧 우수 (24절기) (음 1.24) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280225-9283f49e7c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
+SUMMARY:🌾 머슴날 (영등날) (음 2.1)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2028-02-25 (금요일)\n[음력/간지] 음력 2028년 2월 1일 (무신년 을묘월 경진일)\n\n[상세 안내]\n음력 2월 1일로 바람의 신 영등할머니를 맞이하고 농사를 앞두고 일꾼들을 대접하며 풍년을 기원하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2028년 2월 1일 (무신년 을묘월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 머슴날 (영등날) (음 2.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280305-7a4934e149@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280306
+SUMMARY:🐸 경칩 (24절기) (음 2.10)
+CATEGORIES:24절기\,천문역법\,경칩
+DESCRIPTION:[분류] 🐸 24절기 (비공휴일)\n[양력] 2028-03-05 (일요일)\n[음력/간지] 음력 2028년 2월 10일 (무신년 을묘월 기축일)\n[절입/기준시각] 10:25 (KST)\n\n[상세 안내]\n만물이 겨울잠에서 깨어나는 시기입니다. 땅속의 개구리와 벌레들이 활동을 시작합니다. (태양 황경 345°)\n• 한국표준시(KST) 절입 시각: 2028년 03월 05일 10시 25분\n• 음력/간지: 음력 2028년 2월 10일 (무신년 을묘월 기축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐸 경칩 (24절기) (음 2.10) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280320-5b4ca98c73@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:🌸 춘분 (24절기) (음 2.25)
+CATEGORIES:24절기\,천문역법\,춘분
+DESCRIPTION:[분류] 🌸 24절기 (비공휴일)\n[양력] 2028-03-20 (월요일)\n[음력/간지] 음력 2028년 2월 25일 (무신년 을묘월 갑진일)\n[절입/기준시각] 11:12 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 본격적인 봄이 시작되는 날입니다. (태양 황경 0°)\n• 한국표준시(KST) 절입 시각: 2028년 03월 20일 11시 12분\n• 음력/간지: 음력 2028년 2월 25일 (무신년 을묘월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌸 춘분 (24절기) (음 2.25) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280328-b49f50e371@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280328
+DTEND;VALUE=DATE:20280329
+SUMMARY:🦋 삼짇날 (상사일) (음 3.3)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🦋 잡절·세시풍속 (비공휴일)\n[양력] 2028-03-28 (화요일)\n[음력/간지] 음력 2028년 3월 3일 (무신년 병진월 임자일)\n\n[상세 안내]\n음력 3월 3일 숫자 3이 겹치는 강남 갔던 제비가 돌아오는 봄 명절입니다. 진달래꽃으로 화전(꽃달임)을 부쳐 먹으며 봄놀이를 즐깁니다.\n• 음력/간지: 음력 2028년 3월 3일 (무신년 병진월 임자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🦋 삼짇날 (상사일) (음 3.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280404-0c90f562b1@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:🌤️ 청명 (24절기) (음 3.10)
+CATEGORIES:24절기\,천문역법\,청명
+DESCRIPTION:[분류] 🌤️ 24절기 (비공휴일)\n[양력] 2028-04-04 (화요일)\n[음력/간지] 음력 2028년 3월 10일 (무신년 병진월 기미일)\n[절입/기준시각] 15:02 (KST)\n\n[상세 안내]\n하늘이 차츰 맑아지고 봄농사를 준비하며 성묘나 나무 심기를 하는 절기입니다. (태양 황경 15°)\n• 한국표준시(KST) 절입 시각: 2028년 04월 04일 15시 02분\n• 음력/간지: 음력 2028년 3월 10일 (무신년 병진월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌤️ 청명 (24절기) (음 3.10) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280405-200ea823e4@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280405
+DTEND;VALUE=DATE:20280406
+SUMMARY:🌿 한식 (寒食) (음 3.11)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,4대명절\,성묘
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2028-04-05 (수요일)\n[음력/간지] 음력 2028년 3월 11일 (무신년 병진월 경신일)\n\n[상세 안내]\n동지(冬至) 후 105일째 되는 날로\, 설날·단오·추석과 함께 우리 민족 4대 명절 중 하나로 꼽힙니다. 불을 피우지 않고 찬 음식을 먹으며 조상의 산소에 성묘하고 사초(잔디 입히기)를 하는 세시풍속이 있습니다.\n• 음력/간지: 음력 2028년 3월 11일 (무신년 병진월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 한식 (寒食) (음 3.11) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280419-f6caeb37b8@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280419
+DTEND;VALUE=DATE:20280420
+SUMMARY:🌧️ 곡우 (24절기) (음 3.25)
+CATEGORIES:24절기\,천문역법\,곡우
+DESCRIPTION:[분류] 🌧️ 24절기 (비공휴일)\n[양력] 2028-04-19 (수요일)\n[음력/간지] 음력 2028년 3월 25일 (무신년 병진월 갑술일)\n[절입/기준시각] 22:03 (KST)\n\n[상세 안내]\n봄비가 내려 백곡(온갖 곡식)을 기름지게 한다는 봄의 마지막 절기입니다. 우전차(첫 녹차)를 수확합니다. (태양 황경 30°)\n• 한국표준시(KST) 절입 시각: 2028년 04월 19일 22시 03분\n• 음력/간지: 음력 2028년 3월 25일 (무신년 병진월 갑술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌧️ 곡우 (24절기) (음 3.25) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280503-973a905a62@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280503
+DTEND;VALUE=DATE:20280504
+SUMMARY:🌾 춘사일 (春社日) (음 4.9)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2028-05-03 (수요일)\n[음력/간지] 음력 2028년 4월 9일 (무신년 정사월 무자일)\n\n[상세 안내]\n춘분(春分) 후 다섯 번째 무일(戊日)로\, 봄에 토지신(사신)에게 한 해 농사의 풍년을 기원하며 제사를 지내던 전통 잡절입니다.\n• 음력/간지: 음력 2028년 4월 9일 (무신년 정사월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 춘사일 (春社日) (음 4.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280505-5ae0b08980@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:🌿 입하 (24절기) (음 4.11)
+CATEGORIES:24절기\,천문역법\,입하
+DESCRIPTION:[분류] 🌿 24절기 (비공휴일)\n[양력] 2028-05-05 (금요일)\n[음력/간지] 음력 2028년 4월 11일 (무신년 정사월 경인일)\n[절입/기준시각] 08:09 (KST)\n\n[상세 안내]\n여름이 시작되었음을 알리는 절기입니다. 신록이 우거지고 개구리 울음소리가 들립니다. (태양 황경 45°)\n• 한국표준시(KST) 절입 시각: 2028년 05월 05일 08시 09분\n• 음력/간지: 음력 2028년 4월 11일 (무신년 정사월 경인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 입하 (24절기) (음 4.11) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280520-3138c387ca@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280520
+DTEND;VALUE=DATE:20280521
+SUMMARY:🌾 소만 (24절기) (음 4.26)
+CATEGORIES:24절기\,천문역법\,소만
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2028-05-20 (토요일)\n[음력/간지] 음력 2028년 4월 26일 (무신년 정사월 을사일)\n[절입/기준시각] 21:02 (KST)\n\n[상세 안내]\n햇볕이 풍부하고 만물이 점차 생장하여 가득 찬다는 절기입니다. 모내기를 시작합니다. (태양 황경 60°)\n• 한국표준시(KST) 절입 시각: 2028년 05월 20일 21시 02분\n• 음력/간지: 음력 2028년 4월 26일 (무신년 정사월 을사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 소만 (24절기) (음 4.26) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280528-d642b8bcdd@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280528
+DTEND;VALUE=DATE:20280529
+SUMMARY:🌿 단오 (수릿날) (음 5.5)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2028-05-28 (일요일)\n[음력/간지] 음력 2028년 5월 5일 (무신년 무오월 계축일)\n\n[상세 안내]\n음력 5월 5일로 일 년 중 양기(陽氣)가 가장 왕성한 날이자 4대 명절 중 하나입니다. 창포물에 머리를 감고 수리취떡을 먹으며 그네뛰기와 씨름을 즐깁니다.\n• 음력/간지: 음력 2028년 5월 5일 (무신년 무오월 계축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 단오 (수릿날) (음 5.5) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280605-ecdc28eaad@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:🌾 망종 (24절기) (음 5.13)
+CATEGORIES:24절기\,천문역법\,망종
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2028-06-05 (월요일)\n[음력/간지] 음력 2028년 5월 13일 (무신년 무오월 신유일)\n[절입/기준시각] 12:10 (KST)\n\n[상세 안내]\n보리 등 수염이 있는 까끄라기 곡식의 종자를 뿌리고 보리베기와 모내기에 바쁜 절기입니다. (태양 황경 75°)\n• 한국표준시(KST) 절입 시각: 2028년 06월 05일 12시 10분\n• 음력/간지: 음력 2028년 5월 13일 (무신년 무오월 신유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 망종 (24절기) (음 5.13) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280621-96f77742cf@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:☀️ 하지 (24절기) (음 5.29)
+CATEGORIES:24절기\,천문역법\,하지
+DESCRIPTION:[분류] ☀️ 24절기 (비공휴일)\n[양력] 2028-06-21 (수요일)\n[음력/간지] 음력 2028년 5월 29일 (무신년 무오월 정축일)\n[절입/기준시각] 04:53 (KST)\n\n[상세 안내]\n일 년 중 낮의 길이가 가장 긴 날입니다. 남부지방의 모내기가 마무리되고 감자를 수확합니다. (태양 황경 90°)\n• 한국표준시(KST) 절입 시각: 2028년 06월 21일 04시 53분\n• 음력/간지: 음력 2028년 5월 29일 (무신년 무오월 정축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ 하지 (24절기) (음 5.29) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280706-7faa8bdaed@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280706
+DTEND;VALUE=DATE:20280707
+SUMMARY:🌡️ 소서 (24절기) (음 윤5.14)
+CATEGORIES:24절기\,천문역법\,소서
+DESCRIPTION:[분류] 🌡️ 24절기 (비공휴일)\n[양력] 2028-07-06 (목요일)\n[음력/간지] 음력 2028년 윤5월 14일 (무신년 윤무오월 임진일)\n[절입/기준시각] 22:22 (KST)\n\n[상세 안내]\n작은 더위라는 뜻으로 본격적인 무더위와 장마철이 시작되는 시기입니다. (태양 황경 105°)\n• 한국표준시(KST) 절입 시각: 2028년 07월 06일 22시 22분\n• 음력/간지: 음력 2028년 윤5월 14일 (무신년 윤무오월 임진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌡️ 소서 (24절기) (음 윤5.14) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280714-83d508ed8c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280715
+SUMMARY:🍲 초복 (初伏) (음 윤5.22)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍲 잡절·세시풍속 (비공휴일)\n[양력] 2028-07-14 (금요일)\n[음력/간지] 음력 2028년 윤5월 22일 (무신년 윤무오월 경자일)\n\n[상세 안내]\n삼복(三伏) 더위의 시작으로 하지(夏至)로부터 세 번째 경일(庚日)입니다. 여름철 기력을 보충하기 위해 삼계탕\, 수박 등 보양식을 챙겨 먹는 전통 잡절입니다.\n• 음력/간지: 음력 2028년 윤5월 22일 (무신년 윤무오월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍲 초복 (初伏) (음 윤5.22) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280722-f46bfcdfa2@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:🔥 대서 (24절기) (음 6.1)
+CATEGORIES:24절기\,천문역법\,대서
+DESCRIPTION:[분류] 🔥 24절기 (비공휴일)\n[양력] 2028-07-22 (토요일)\n[음력/간지] 음력 2028년 6월 1일 (무신년 기미월 무신일)\n[절입/기준시각] 15:46 (KST)\n\n[상세 안내]\n큰 더위라는 뜻으로 장마가 끝나고 염천(炎天)의 폭염이 가장 심한 한여름 절기입니다. (태양 황경 120°)\n• 한국표준시(KST) 절입 시각: 2028년 07월 22일 15시 46분\n• 음력/간지: 음력 2028년 6월 1일 (무신년 기미월 무신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 대서 (24절기) (음 6.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280724-9f6eaae892@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280724
+DTEND;VALUE=DATE:20280725
+SUMMARY:🐓 중복 (中伏) (음 6.3)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🐓 잡절·세시풍속 (비공휴일)\n[양력] 2028-07-24 (월요일)\n[음력/간지] 음력 2028년 6월 3일 (무신년 기미월 경술일)\n\n[상세 안내]\n삼복(三伏) 가운데 두 번째 복날로 하지(夏至)로부터 네 번째 경일(庚日)입니다. 한여름 무더위를 이겨내기 위해 보양식을 나누는 전통 잡절입니다.\n• 음력/간지: 음력 2028년 6월 3일 (무신년 기미월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐓 중복 (中伏) (음 6.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280805-91d4ed5f08@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280805
+DTEND;VALUE=DATE:20280806
+SUMMARY:🌊 유두 (流頭) (음 6.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌊 잡절·세시풍속 (비공휴일)\n[양력] 2028-08-05 (토요일)\n[음력/간지] 음력 2028년 6월 15일 (무신년 기미월 임술일)\n\n[상세 안내]\n음력 6월 15일로 동쪽으로 흐르는 맑은 시냇물에 머리를 감으며 여름철 더위와 액운을 씻어내고 밀전병·수단(물만두)을 나누어 먹던 세시풍속일입니다.\n• 음력/간지: 음력 2028년 6월 15일 (무신년 기미월 임술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌊 유두 (流頭) (음 6.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280807-a3e13d4605@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280807
+DTEND;VALUE=DATE:20280808
+SUMMARY:🍂 입추 (24절기) (음 6.17)
+CATEGORIES:24절기\,천문역법\,입추
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2028-08-07 (월요일)\n[음력/간지] 음력 2028년 6월 17일 (무신년 기미월 갑자일)\n[절입/기준시각] 08:12 (KST)\n\n[상세 안내]\n가을의 시작을 알리는 절기입니다. 밤에는 선선한 바람이 불기 시작하고 김장용 무·배추를 심습니다. (태양 황경 135°)\n• 한국표준시(KST) 절입 시각: 2028년 08월 07일 08시 12분\n• 음력/간지: 음력 2028년 6월 17일 (무신년 기미월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 입추 (24절기) (음 6.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280813-1adad25b18@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280813
+DTEND;VALUE=DATE:20280814
+SUMMARY:🍉 말복 (末伏) (음 6.23)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍉 잡절·세시풍속 (비공휴일)\n[양력] 2028-08-13 (일요일)\n[음력/간지] 음력 2028년 6월 23일 (무신년 기미월 경오일)\n\n[상세 안내]\n삼복(三伏)의 마지막 복날로 입추(立秋)로부터 첫 번째 경일(庚日)입니다. 막바지 더위를 이겨내며 여름 건강을 챙기는 전통 잡절입니다.\n• 음력/간지: 음력 2028년 6월 23일 (무신년 기미월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍉 말복 (末伏) (음 6.23) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280822-bb0f8dbb9e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280822
+DTEND;VALUE=DATE:20280823
+SUMMARY:🌬️ 처서 (24절기) (음 7.3)
+CATEGORIES:24절기\,천문역법\,처서
+DESCRIPTION:[분류] 🌬️ 24절기 (비공휴일)\n[양력] 2028-08-22 (화요일)\n[음력/간지] 음력 2028년 7월 3일 (무신년 경신월 기묘일)\n[절입/기준시각] 22:55 (KST)\n\n[상세 안내]\n더위가 그치고 선선한 가을을 맞이한다는 절기입니다. '처서가 지나면 모기도 입이 삐뚤어진다'는 속담이 있습니다. (태양 황경 150°)\n• 한국표준시(KST) 절입 시각: 2028년 08월 22일 22시 55분\n• 음력/간지: 음력 2028년 7월 3일 (무신년 경신월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 처서 (24절기) (음 7.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280826-c9f15ad846@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280826
+DTEND;VALUE=DATE:20280827
+SUMMARY:🌌 칠석 (七夕) (음 7.7)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌌 잡절·세시풍속 (비공휴일)\n[양력] 2028-08-26 (토요일)\n[음력/간지] 음력 2028년 7월 7일 (무신년 경신월 계미일)\n\n[상세 안내]\n음력 7월 7일 견우와 직녀가 일 년에 한 번 오작교에서 만나는 날입니다. 저녁에 칠성님께 무병장수와 바느질·학업 성취를 기원하고 밀국수와 밀전병을 먹습니다.\n• 음력/간지: 음력 2028년 7월 7일 (무신년 경신월 계미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌌 칠석 (七夕) (음 7.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280903-a305bee50c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:🪷 백중 (망혼일·우란분절) (음 7.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🪷 잡절·세시풍속 (비공휴일)\n[양력] 2028-09-03 (일요일)\n[음력/간지] 음력 2028년 7월 15일 (무신년 경신월 신묘일)\n\n[상세 안내]\n음력 7월 15일로 여름 농사일을 마치고 호미를 씻어 두는 '호미씻이' 잔치를 열며 조상의 넋을 위로하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2028년 7월 15일 (무신년 경신월 신묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🪷 백중 (망혼일·우란분절) (음 7.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280907-c6e9681717@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20280908
+SUMMARY:露 백로 (24절기) (음 7.19)
+CATEGORIES:24절기\,천문역법\,백로
+DESCRIPTION:[분류] 露 24절기 (비공휴일)\n[양력] 2028-09-07 (목요일)\n[음력/간지] 음력 2028년 7월 19일 (무신년 경신월 을미일)\n[절입/기준시각] 11:15 (KST)\n\n[상세 안내]\n밤 기온이 이슬점 이하로 내려가 풀잎에 하얀 이슬이 맺히는 완연한 가을 절기입니다. (태양 황경 165°)\n• 한국표준시(KST) 절입 시각: 2028년 09월 07일 11시 15분\n• 음력/간지: 음력 2028년 7월 19일 (무신년 경신월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:露 백로 (24절기) (음 7.19) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20280922-e6414d8c66@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20280922
+DTEND;VALUE=DATE:20280923
+SUMMARY:🍁 추분 (24절기) (음 8.4)
+CATEGORIES:24절기\,천문역법\,추분
+DESCRIPTION:[분류] 🍁 24절기 (비공휴일)\n[양력] 2028-09-22 (금요일)\n[음력/간지] 음력 2028년 8월 4일 (무신년 신유월 경술일)\n[절입/기준시각] 20:43 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 이후로 밤이 길어지는 가을의 한가운데 절기입니다. (태양 황경 180°)\n• 한국표준시(KST) 절입 시각: 2028년 09월 22일 20시 43분\n• 음력/간지: 음력 2028년 8월 4일 (무신년 신유월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍁 추분 (24절기) (음 8.4) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281008-5ca97dfa0f@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281008
+DTEND;VALUE=DATE:20281009
+SUMMARY:🌾 한로 (24절기) (음 8.20)
+CATEGORIES:24절기\,천문역법\,한로
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2028-10-08 (일요일)\n[음력/간지] 음력 2028년 8월 20일 (무신년 신유월 병인일)\n[절입/기준시각] 03:04 (KST)\n\n[상세 안내]\n찬 이슬이 맺히기 시작하며 기온이 더 내려가기 전에 추수를 서두르는 절기입니다. (태양 황경 195°)\n• 한국표준시(KST) 절입 시각: 2028년 10월 08일 03시 04분\n• 음력/간지: 음력 2028년 8월 20일 (무신년 신유월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 한로 (24절기) (음 8.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281023-34cc30a682@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281023
+DTEND;VALUE=DATE:20281024
+SUMMARY:🍂 상강 (24절기) (음 9.6)
+CATEGORIES:24절기\,천문역법\,상강
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2028-10-23 (월요일)\n[음력/간지] 음력 2028년 9월 6일 (무신년 임술월 신사일)\n[절입/기준시각] 06:15 (KST)\n\n[상세 안내]\n밤 기온이 급격히 낮아져 서리가 내리기 시작하고 단풍이 절정에 이르는 가을의 마지막 절기입니다. (태양 황경 210°)\n• 한국표준시(KST) 절입 시각: 2028년 10월 23일 06시 15분\n• 음력/간지: 음력 2028년 9월 6일 (무신년 임술월 신사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 상강 (24절기) (음 9.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281026-48b08ea834@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281026
+DTEND;VALUE=DATE:20281027
+SUMMARY:🌼 중양절 (중구일) (음 9.9)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌼 잡절·세시풍속 (비공휴일)\n[양력] 2028-10-26 (목요일)\n[음력/간지] 음력 2028년 9월 9일 (무신년 임술월 갑신일)\n\n[상세 안내]\n음력 9월 9일 양(陽)의 숫자 9가 겹치는 가을 명절입니다. 국화전을 부쳐 먹고 국화주를 마시며 단풍놀이를 즐기는 세시풍속이 있습니다.\n• 음력/간지: 음력 2028년 9월 9일 (무신년 임술월 갑신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌼 중양절 (중구일) (음 9.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281107-a4c5496c96@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281107
+DTEND;VALUE=DATE:20281108
+SUMMARY:🧥 입동 (24절기) (음 9.21)
+CATEGORIES:24절기\,천문역법\,입동
+DESCRIPTION:[분류] 🧥 24절기 (비공휴일)\n[양력] 2028-11-07 (화요일)\n[음력/간지] 음력 2028년 9월 21일 (무신년 임술월 병신일)\n[절입/기준시각] 06:26 (KST)\n\n[상세 안내]\n겨울이 시작되는 절기로 김장을 담그며 월동 준비를 시작합니다. (태양 황경 225°)\n• 한국표준시(KST) 절입 시각: 2028년 11월 07일 06시 26분\n• 음력/간지: 음력 2028년 9월 21일 (무신년 임술월 병신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧥 입동 (24절기) (음 9.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281109-ff915d9691@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281109
+DTEND;VALUE=DATE:20281110
+SUMMARY:🌾 추사일 (秋社日) (음 9.23)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2028-11-09 (목요일)\n[음력/간지] 음력 2028년 9월 23일 (무신년 임술월 무술일)\n\n[상세 안내]\n추분(秋分) 후 다섯 번째 무일(戊日)로\, 가을 추수를 마치고 토지신에게 감사의 제사를 올리던 전통 잡절입니다.\n• 음력/간지: 음력 2028년 9월 23일 (무신년 임술월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 추사일 (秋社日) (음 9.23) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281122-ebb554d95c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281122
+DTEND;VALUE=DATE:20281123
+SUMMARY:🌨️ 소설 (24절기) (음 10.7)
+CATEGORIES:24절기\,천문역법\,소설
+DESCRIPTION:[분류] 🌨️ 24절기 (비공휴일)\n[양력] 2028-11-22 (수요일)\n[음력/간지] 음력 2028년 10월 7일 (무신년 계해월 신해일)\n[절입/기준시각] 03:59 (KST)\n\n[상세 안내]\n첫눈이 내리기 시작하고 살얼음이 얼며 겨울 추위가 찾아오는 절기입니다. (태양 황경 240°)\n• 한국표준시(KST) 절입 시각: 2028년 11월 22일 03시 59분\n• 음력/간지: 음력 2028년 10월 7일 (무신년 계해월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌨️ 소설 (24절기) (음 10.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281205-2ba51e832b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281205
+DTEND;VALUE=DATE:20281206
+SUMMARY:🌬️ 손돌풍날 (음 10.20)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌬️ 잡절·세시풍속 (비공휴일)\n[양력] 2028-12-05 (화요일)\n[음력/간지] 음력 2028년 10월 20일 (무신년 계해월 갑자일)\n\n[상세 안내]\n음력 10월 20일경 고려 시대 뱃사공 손돌의 전설에서 유래한 강추위와 거센 바람이 부는 시기입니다.\n• 음력/간지: 음력 2028년 10월 20일 (무신년 계해월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 손돌풍날 (음 10.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281206-7b433acd74@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281206
+DTEND;VALUE=DATE:20281207
+SUMMARY:⛄ 대설 (24절기) (음 10.21)
+CATEGORIES:24절기\,천문역법\,대설
+DESCRIPTION:[분류] ⛄ 24절기 (비공휴일)\n[양력] 2028-12-06 (수요일)\n[음력/간지] 음력 2028년 10월 21일 (무신년 계해월 을축일)\n[절입/기준시각] 23:26 (KST)\n\n[상세 안내]\n큰 눈이 많이 내린다는 절기로 농한기에 접어들며 이듬해 풍년을 기원합니다. (태양 황경 255°)\n• 한국표준시(KST) 절입 시각: 2028년 12월 06일 23시 26분\n• 음력/간지: 음력 2028년 10월 21일 (무신년 계해월 을축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⛄ 대설 (24절기) (음 10.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20281221-53edcbd6ce@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20281221
+DTEND;VALUE=DATE:20281222
+SUMMARY:🥣 동지 (24절기) (음 11.6)
+CATEGORIES:24절기\,천문역법\,동지
+DESCRIPTION:[분류] 🥣 24절기 (비공휴일)\n[양력] 2028-12-21 (목요일)\n[음력/간지] 음력 2028년 11월 6일 (무신년 갑자월 경진일)\n[절입/기준시각] 17:25 (KST)\n\n[상세 안내]\n일 년 중 밤이 가장 길고 낮이 가장 짧은 날입니다. 액운을 쫓고 새해 건강을 기원하며 동지 팥죽을 나누어 먹습니다. (태양 황경 270°)\n• 한국표준시(KST) 절입 시각: 2028년 12월 21일 17시 25분\n• 음력/간지: 음력 2028년 11월 6일 (무신년 갑자월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🥣 동지 (24절기) (음 11.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290105-a644f58a25@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290105
+DTEND;VALUE=DATE:20290106
+SUMMARY:❄️ 소한 (24절기) (음 11.21)
+CATEGORIES:24절기\,천문역법\,소한
+DESCRIPTION:[분류] ❄️ 24절기 (비공휴일)\n[양력] 2029-01-05 (금요일)\n[음력/간지] 음력 2028년 11월 21일 (무신년 갑자월 을미일)\n[절입/기준시각] 10:43 (KST)\n\n[상세 안내]\n작은 추위라는 뜻이나 우리나라에서는 일 년 중 가장 추운 시기입니다. (태양 황경 285°)\n• 한국표준시(KST) 절입 시각: 2029년 01월 05일 10시 43분\n• 음력/간지: 음력 2028년 11월 21일 (무신년 갑자월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:❄️ 소한 (24절기) (음 11.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290120-f5c76a4b67@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290120
+DTEND;VALUE=DATE:20290121
+SUMMARY:🧊 대한 (24절기) (음 12.6)
+CATEGORIES:24절기\,천문역법\,대한
+DESCRIPTION:[분류] 🧊 24절기 (비공휴일)\n[양력] 2029-01-20 (토요일)\n[음력/간지] 음력 2028년 12월 6일 (무신년 을축월 경술일)\n[절입/기준시각] 04:05 (KST)\n\n[상세 안내]\n큰 추위라는 뜻으로 겨울의 마지막 절기입니다. '소한 얼음 대한에 녹는다'는 속담이 있습니다. (태양 황경 300°)\n• 한국표준시(KST) 절입 시각: 2029년 01월 20일 04시 05분\n• 음력/간지: 음력 2028년 12월 6일 (무신년 을축월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧊 대한 (24절기) (음 12.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290203-97ea847b12@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290203
+DTEND;VALUE=DATE:20290204
+SUMMARY:🌱 입춘 (24절기) (음 12.20)
+CATEGORIES:24절기\,천문역법\,입춘
+DESCRIPTION:[분류] 🌱 24절기 (비공휴일)\n[양력] 2029-02-03 (토요일)\n[음력/간지] 음력 2028년 12월 20일 (무신년 을축월 갑자일)\n[절입/기준시각] 22:20 (KST)\n\n[상세 안내]\n봄의 시작을 알리는 첫 번째 절기입니다. 대문에 '입춘대길 건양다경(立春大吉 建陽多慶)' 입춘첩을 붙입니다. (태양 황경 315°)\n• 한국표준시(KST) 절입 시각: 2029년 02월 03일 22시 20분\n• 음력/간지: 음력 2028년 12월 20일 (무신년 을축월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌱 입춘 (24절기) (음 12.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290218-df5165dcd6@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290218
+DTEND;VALUE=DATE:20290219
+SUMMARY:💧 우수 (24절기) (음 1.6)
+CATEGORIES:24절기\,천문역법\,우수
+DESCRIPTION:[분류] 💧 24절기 (비공휴일)\n[양력] 2029-02-18 (일요일)\n[음력/간지] 음력 2029년 1월 6일 (기유년 병인월 기묘일)\n[절입/기준시각] 18:09 (KST)\n\n[상세 안내]\n눈이 녹아 비가 되고 얼음이 풀려 봄물이 오른다는 절기입니다. (태양 황경 330°)\n• 한국표준시(KST) 절입 시각: 2029년 02월 18일 18시 09분\n• 음력/간지: 음력 2029년 1월 6일 (기유년 병인월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💧 우수 (24절기) (음 1.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290227-f29151ae44@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290227
+DTEND;VALUE=DATE:20290228
+SUMMARY:🌕 정월대보름 (상원) (음 1.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌕 잡절·세시풍속 (비공휴일)\n[양력] 2029-02-27 (화요일)\n[음력/간지] 음력 2029년 1월 15일 (기유년 병인월 무자일)\n\n[상세 안내]\n음력 1월 15일 새해 첫 보름달이 뜨는 날입니다. 오곡밥과 묵은 나물을 해 먹고 부럼을 깨물며 귀밝이술을 마시고 달집태우기로 한 해의 건강과 풍년을 기원합니다.\n• 음력/간지: 음력 2029년 1월 15일 (기유년 병인월 무자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 정월대보름 (상원) (음 1.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290305-dba652e574@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290305
+DTEND;VALUE=DATE:20290306
+SUMMARY:🐸 경칩 (24절기) (음 1.21)
+CATEGORIES:24절기\,천문역법\,경칩
+DESCRIPTION:[분류] 🐸 24절기 (비공휴일)\n[양력] 2029-03-05 (월요일)\n[음력/간지] 음력 2029년 1월 21일 (기유년 병인월 갑오일)\n[절입/기준시각] 16:13 (KST)\n\n[상세 안내]\n만물이 겨울잠에서 깨어나는 시기입니다. 땅속의 개구리와 벌레들이 활동을 시작합니다. (태양 황경 345°)\n• 한국표준시(KST) 절입 시각: 2029년 03월 05일 16시 13분\n• 음력/간지: 음력 2029년 1월 21일 (기유년 병인월 갑오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐸 경칩 (24절기) (음 1.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290315-cf6bf4754c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:🌾 머슴날 (영등날) (음 2.1)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2029-03-15 (목요일)\n[음력/간지] 음력 2029년 2월 1일 (기유년 정묘월 갑진일)\n\n[상세 안내]\n음력 2월 1일로 바람의 신 영등할머니를 맞이하고 농사를 앞두고 일꾼들을 대접하며 풍년을 기원하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2029년 2월 1일 (기유년 정묘월 갑진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 머슴날 (영등날) (음 2.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290320-8762f4c65f@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:🌸 춘분 (24절기) (음 2.6)
+CATEGORIES:24절기\,천문역법\,춘분
+DESCRIPTION:[분류] 🌸 24절기 (비공휴일)\n[양력] 2029-03-20 (화요일)\n[음력/간지] 음력 2029년 2월 6일 (기유년 정묘월 기유일)\n[절입/기준시각] 17:00 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 본격적인 봄이 시작되는 날입니다. (태양 황경 0°)\n• 한국표준시(KST) 절입 시각: 2029년 03월 20일 17시 00분\n• 음력/간지: 음력 2029년 2월 6일 (기유년 정묘월 기유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌸 춘분 (24절기) (음 2.6) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290404-9cf368879e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290404
+DTEND;VALUE=DATE:20290405
+SUMMARY:🌤️ 청명 (24절기) (음 2.21)
+CATEGORIES:24절기\,천문역법\,청명
+DESCRIPTION:[분류] 🌤️ 24절기 (비공휴일)\n[양력] 2029-04-04 (수요일)\n[음력/간지] 음력 2029년 2월 21일 (기유년 정묘월 갑자일)\n[절입/기준시각] 20:50 (KST)\n\n[상세 안내]\n하늘이 차츰 맑아지고 봄농사를 준비하며 성묘나 나무 심기를 하는 절기입니다. (태양 황경 15°)\n• 한국표준시(KST) 절입 시각: 2029년 04월 04일 20시 50분\n• 음력/간지: 음력 2029년 2월 21일 (기유년 정묘월 갑자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌤️ 청명 (24절기) (음 2.21) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290405-e2603a76a6@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290405
+DTEND;VALUE=DATE:20290406
+SUMMARY:🌿 한식 (寒食) (음 2.22)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,4대명절\,성묘
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2029-04-05 (목요일)\n[음력/간지] 음력 2029년 2월 22일 (기유년 정묘월 을축일)\n\n[상세 안내]\n동지(冬至) 후 105일째 되는 날로\, 설날·단오·추석과 함께 우리 민족 4대 명절 중 하나로 꼽힙니다. 불을 피우지 않고 찬 음식을 먹으며 조상의 산소에 성묘하고 사초(잔디 입히기)를 하는 세시풍속이 있습니다.\n• 음력/간지: 음력 2029년 2월 22일 (기유년 정묘월 을축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 한식 (寒食) (음 2.22) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290416-590e856ba3@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+SUMMARY:🦋 삼짇날 (상사일) (음 3.3)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🦋 잡절·세시풍속 (비공휴일)\n[양력] 2029-04-16 (월요일)\n[음력/간지] 음력 2029년 3월 3일 (기유년 무진월 병자일)\n\n[상세 안내]\n음력 3월 3일 숫자 3이 겹치는 강남 갔던 제비가 돌아오는 봄 명절입니다. 진달래꽃으로 화전(꽃달임)을 부쳐 먹으며 봄놀이를 즐깁니다.\n• 음력/간지: 음력 2029년 3월 3일 (기유년 무진월 병자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🦋 삼짇날 (상사일) (음 3.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290420-ae6966cb27@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:🌧️ 곡우 (24절기) (음 3.7)
+CATEGORIES:24절기\,천문역법\,곡우
+DESCRIPTION:[분류] 🌧️ 24절기 (비공휴일)\n[양력] 2029-04-20 (금요일)\n[음력/간지] 음력 2029년 3월 7일 (기유년 무진월 경진일)\n[절입/기준시각] 03:51 (KST)\n\n[상세 안내]\n봄비가 내려 백곡(온갖 곡식)을 기름지게 한다는 봄의 마지막 절기입니다. 우전차(첫 녹차)를 수확합니다. (태양 황경 30°)\n• 한국표준시(KST) 절입 시각: 2029년 04월 20일 03시 51분\n• 음력/간지: 음력 2029년 3월 7일 (기유년 무진월 경진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌧️ 곡우 (24절기) (음 3.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290505-158da32651@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290505
+DTEND;VALUE=DATE:20290506
+SUMMARY:🌿 입하 (24절기) (음 3.22)
+CATEGORIES:24절기\,천문역법\,입하
+DESCRIPTION:[분류] 🌿 24절기 (비공휴일)\n[양력] 2029-05-05 (토요일)\n[음력/간지] 음력 2029년 3월 22일 (기유년 무진월 을미일)\n[절입/기준시각] 13:57 (KST)\n\n[상세 안내]\n여름이 시작되었음을 알리는 절기입니다. 신록이 우거지고 개구리 울음소리가 들립니다. (태양 황경 45°)\n• 한국표준시(KST) 절입 시각: 2029년 05월 05일 13시 57분\n• 음력/간지: 음력 2029년 3월 22일 (기유년 무진월 을미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 입하 (24절기) (음 3.22) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290508-7818945322@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290508
+DTEND;VALUE=DATE:20290509
+SUMMARY:🌾 춘사일 (春社日) (음 3.25)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2029-05-08 (화요일)\n[음력/간지] 음력 2029년 3월 25일 (기유년 무진월 무술일)\n\n[상세 안내]\n춘분(春分) 후 다섯 번째 무일(戊日)로\, 봄에 토지신(사신)에게 한 해 농사의 풍년을 기원하며 제사를 지내던 전통 잡절입니다.\n• 음력/간지: 음력 2029년 3월 25일 (기유년 무진월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 춘사일 (春社日) (음 3.25) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290521-2ba715c4d5@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:🌾 소만 (24절기) (음 4.9)
+CATEGORIES:24절기\,천문역법\,소만
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2029-05-21 (월요일)\n[음력/간지] 음력 2029년 4월 9일 (기유년 기사월 신해일)\n[절입/기준시각] 02:49 (KST)\n\n[상세 안내]\n햇볕이 풍부하고 만물이 점차 생장하여 가득 찬다는 절기입니다. 모내기를 시작합니다. (태양 황경 60°)\n• 한국표준시(KST) 절입 시각: 2029년 05월 21일 02시 49분\n• 음력/간지: 음력 2029년 4월 9일 (기유년 기사월 신해일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 소만 (24절기) (음 4.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290605-707973012a@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290605
+DTEND;VALUE=DATE:20290606
+SUMMARY:🌾 망종 (24절기) (음 4.24)
+CATEGORIES:24절기\,천문역법\,망종
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2029-06-05 (화요일)\n[음력/간지] 음력 2029년 4월 24일 (기유년 기사월 병인일)\n[절입/기준시각] 17:57 (KST)\n\n[상세 안내]\n보리 등 수염이 있는 까끄라기 곡식의 종자를 뿌리고 보리베기와 모내기에 바쁜 절기입니다. (태양 황경 75°)\n• 한국표준시(KST) 절입 시각: 2029년 06월 05일 17시 57분\n• 음력/간지: 음력 2029년 4월 24일 (기유년 기사월 병인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 망종 (24절기) (음 4.24) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290616-b834d188b0@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290616
+DTEND;VALUE=DATE:20290617
+SUMMARY:🌿 단오 (수릿날) (음 5.5)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌿 잡절·세시풍속 (비공휴일)\n[양력] 2029-06-16 (토요일)\n[음력/간지] 음력 2029년 5월 5일 (기유년 경오월 정축일)\n\n[상세 안내]\n음력 5월 5일로 일 년 중 양기(陽氣)가 가장 왕성한 날이자 4대 명절 중 하나입니다. 창포물에 머리를 감고 수리취떡을 먹으며 그네뛰기와 씨름을 즐깁니다.\n• 음력/간지: 음력 2029년 5월 5일 (기유년 경오월 정축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌿 단오 (수릿날) (음 5.5) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290621-87a76c4a25@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:☀️ 하지 (24절기) (음 5.10)
+CATEGORIES:24절기\,천문역법\,하지
+DESCRIPTION:[분류] ☀️ 24절기 (비공휴일)\n[양력] 2029-06-21 (목요일)\n[음력/간지] 음력 2029년 5월 10일 (기유년 경오월 임오일)\n[절입/기준시각] 10:40 (KST)\n\n[상세 안내]\n일 년 중 낮의 길이가 가장 긴 날입니다. 남부지방의 모내기가 마무리되고 감자를 수확합니다. (태양 황경 90°)\n• 한국표준시(KST) 절입 시각: 2029년 06월 21일 10시 40분\n• 음력/간지: 음력 2029년 5월 10일 (기유년 경오월 임오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ 하지 (24절기) (음 5.10) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290707-2b80a474ac@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290707
+DTEND;VALUE=DATE:20290708
+SUMMARY:🌡️ 소서 (24절기) (음 5.26)
+CATEGORIES:24절기\,천문역법\,소서
+DESCRIPTION:[분류] 🌡️ 24절기 (비공휴일)\n[양력] 2029-07-07 (토요일)\n[음력/간지] 음력 2029년 5월 26일 (기유년 경오월 무술일)\n[절입/기준시각] 04:09 (KST)\n\n[상세 안내]\n작은 더위라는 뜻으로 본격적인 무더위와 장마철이 시작되는 시기입니다. (태양 황경 105°)\n• 한국표준시(KST) 절입 시각: 2029년 07월 07일 04시 09분\n• 음력/간지: 음력 2029년 5월 26일 (기유년 경오월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌡️ 소서 (24절기) (음 5.26) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290719-0d44cf0fc1@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290719
+DTEND;VALUE=DATE:20290720
+SUMMARY:🍲 초복 (初伏) (음 6.8)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍲 잡절·세시풍속 (비공휴일)\n[양력] 2029-07-19 (목요일)\n[음력/간지] 음력 2029년 6월 8일 (기유년 신미월 경술일)\n\n[상세 안내]\n삼복(三伏) 더위의 시작으로 하지(夏至)로부터 세 번째 경일(庚日)입니다. 여름철 기력을 보충하기 위해 삼계탕\, 수박 등 보양식을 챙겨 먹는 전통 잡절입니다.\n• 음력/간지: 음력 2029년 6월 8일 (기유년 신미월 경술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍲 초복 (初伏) (음 6.8) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290722-edaec570b2@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290722
+DTEND;VALUE=DATE:20290723
+SUMMARY:🔥 대서 (24절기) (음 6.11)
+CATEGORIES:24절기\,천문역법\,대서
+DESCRIPTION:[분류] 🔥 24절기 (비공휴일)\n[양력] 2029-07-22 (일요일)\n[음력/간지] 음력 2029년 6월 11일 (기유년 신미월 계축일)\n[절입/기준시각] 21:33 (KST)\n\n[상세 안내]\n큰 더위라는 뜻으로 장마가 끝나고 염천(炎天)의 폭염이 가장 심한 한여름 절기입니다. (태양 황경 120°)\n• 한국표준시(KST) 절입 시각: 2029년 07월 22일 21시 33분\n• 음력/간지: 음력 2029년 6월 11일 (기유년 신미월 계축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 대서 (24절기) (음 6.11) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290726-c53193ef39@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290726
+DTEND;VALUE=DATE:20290727
+SUMMARY:🌊 유두 (流頭) (음 6.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌊 잡절·세시풍속 (비공휴일)\n[양력] 2029-07-26 (목요일)\n[음력/간지] 음력 2029년 6월 15일 (기유년 신미월 정사일)\n\n[상세 안내]\n음력 6월 15일로 동쪽으로 흐르는 맑은 시냇물에 머리를 감으며 여름철 더위와 액운을 씻어내고 밀전병·수단(물만두)을 나누어 먹던 세시풍속일입니다.\n• 음력/간지: 음력 2029년 6월 15일 (기유년 신미월 정사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌊 유두 (流頭) (음 6.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290729-02ed33665b@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290729
+DTEND;VALUE=DATE:20290730
+SUMMARY:🐓 중복 (中伏) (음 6.18)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🐓 잡절·세시풍속 (비공휴일)\n[양력] 2029-07-29 (일요일)\n[음력/간지] 음력 2029년 6월 18일 (기유년 신미월 경신일)\n\n[상세 안내]\n삼복(三伏) 가운데 두 번째 복날로 하지(夏至)로부터 네 번째 경일(庚日)입니다. 한여름 무더위를 이겨내기 위해 보양식을 나누는 전통 잡절입니다.\n• 음력/간지: 음력 2029년 6월 18일 (기유년 신미월 경신일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🐓 중복 (中伏) (음 6.18) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290807-7b95f8856c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290807
+DTEND;VALUE=DATE:20290808
+SUMMARY:🍂 입추 (24절기) (음 6.27)
+CATEGORIES:24절기\,천문역법\,입추
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2029-08-07 (화요일)\n[음력/간지] 음력 2029년 6월 27일 (기유년 신미월 기사일)\n[절입/기준시각] 14:00 (KST)\n\n[상세 안내]\n가을의 시작을 알리는 절기입니다. 밤에는 선선한 바람이 불기 시작하고 김장용 무·배추를 심습니다. (태양 황경 135°)\n• 한국표준시(KST) 절입 시각: 2029년 08월 07일 14시 00분\n• 음력/간지: 음력 2029년 6월 27일 (기유년 신미월 기사일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 입추 (24절기) (음 6.27) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290808-82e62d6d39@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290808
+DTEND;VALUE=DATE:20290809
+SUMMARY:🍉 말복 (末伏) (음 6.28)
+CATEGORIES:잡절·명절\,잡절\,삼복\,복날\,세시풍속
+DESCRIPTION:[분류] 🍉 잡절·세시풍속 (비공휴일)\n[양력] 2029-08-08 (수요일)\n[음력/간지] 음력 2029년 6월 28일 (기유년 신미월 경오일)\n\n[상세 안내]\n삼복(三伏)의 마지막 복날로 입추(立秋)로부터 첫 번째 경일(庚日)입니다. 막바지 더위를 이겨내며 여름 건강을 챙기는 전통 잡절입니다.\n• 음력/간지: 음력 2029년 6월 28일 (기유년 신미월 경오일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍉 말복 (末伏) (음 6.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290816-f1a6b1a69d@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290816
+DTEND;VALUE=DATE:20290817
+SUMMARY:🌌 칠석 (七夕) (음 7.7)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌌 잡절·세시풍속 (비공휴일)\n[양력] 2029-08-16 (목요일)\n[음력/간지] 음력 2029년 7월 7일 (기유년 임신월 무인일)\n\n[상세 안내]\n음력 7월 7일 견우와 직녀가 일 년에 한 번 오작교에서 만나는 날입니다. 저녁에 칠성님께 무병장수와 바느질·학업 성취를 기원하고 밀국수와 밀전병을 먹습니다.\n• 음력/간지: 음력 2029년 7월 7일 (기유년 임신월 무인일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌌 칠석 (七夕) (음 7.7) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290823-f6d108510e@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290823
+DTEND;VALUE=DATE:20290824
+SUMMARY:🌬️ 처서 (24절기) (음 7.14)
+CATEGORIES:24절기\,천문역법\,처서
+DESCRIPTION:[분류] 🌬️ 24절기 (비공휴일)\n[양력] 2029-08-23 (목요일)\n[음력/간지] 음력 2029년 7월 14일 (기유년 임신월 을유일)\n[절입/기준시각] 04:43 (KST)\n\n[상세 안내]\n더위가 그치고 선선한 가을을 맞이한다는 절기입니다. '처서가 지나면 모기도 입이 삐뚤어진다'는 속담이 있습니다. (태양 황경 150°)\n• 한국표준시(KST) 절입 시각: 2029년 08월 23일 04시 43분\n• 음력/간지: 음력 2029년 7월 14일 (기유년 임신월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 처서 (24절기) (음 7.14) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290824-76de6c4659@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290824
+DTEND;VALUE=DATE:20290825
+SUMMARY:🪷 백중 (망혼일·우란분절) (음 7.15)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🪷 잡절·세시풍속 (비공휴일)\n[양력] 2029-08-24 (금요일)\n[음력/간지] 음력 2029년 7월 15일 (기유년 임신월 병술일)\n\n[상세 안내]\n음력 7월 15일로 여름 농사일을 마치고 호미를 씻어 두는 '호미씻이' 잔치를 열며 조상의 넋을 위로하던 전통 세시풍속일입니다.\n• 음력/간지: 음력 2029년 7월 15일 (기유년 임신월 병술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🪷 백중 (망혼일·우란분절) (음 7.15) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290907-e6d35f60fe@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290907
+DTEND;VALUE=DATE:20290908
+SUMMARY:露 백로 (24절기) (음 7.29)
+CATEGORIES:24절기\,천문역법\,백로
+DESCRIPTION:[분류] 露 24절기 (비공휴일)\n[양력] 2029-09-07 (금요일)\n[음력/간지] 음력 2029년 7월 29일 (기유년 임신월 경자일)\n[절입/기준시각] 17:03 (KST)\n\n[상세 안내]\n밤 기온이 이슬점 이하로 내려가 풀잎에 하얀 이슬이 맺히는 완연한 가을 절기입니다. (태양 황경 165°)\n• 한국표준시(KST) 절입 시각: 2029년 09월 07일 17시 03분\n• 음력/간지: 음력 2029년 7월 29일 (기유년 임신월 경자일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:露 백로 (24절기) (음 7.29) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20290923-c995a92be2@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20290923
+DTEND;VALUE=DATE:20290924
+SUMMARY:🍁 추분 (24절기) (음 8.16)
+CATEGORIES:24절기\,천문역법\,추분
+DESCRIPTION:[분류] 🍁 24절기 (비공휴일)\n[양력] 2029-09-23 (일요일)\n[음력/간지] 음력 2029년 8월 16일 (기유년 계유월 병진일)\n[절입/기준시각] 02:31 (KST)\n\n[상세 안내]\n낮과 밤의 길이가 같아지며 이후로 밤이 길어지는 가을의 한가운데 절기입니다. (태양 황경 180°)\n• 한국표준시(KST) 절입 시각: 2029년 09월 23일 02시 31분\n• 음력/간지: 음력 2029년 8월 16일 (기유년 계유월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍁 추분 (24절기) (음 8.16) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291008-f6089e8368@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:🌾 한로 (24절기) (음 9.1)
+CATEGORIES:24절기\,천문역법\,한로
+DESCRIPTION:[분류] 🌾 24절기 (비공휴일)\n[양력] 2029-10-08 (월요일)\n[음력/간지] 음력 2029년 9월 1일 (기유년 갑술월 신미일)\n[절입/기준시각] 08:53 (KST)\n\n[상세 안내]\n찬 이슬이 맺히기 시작하며 기온이 더 내려가기 전에 추수를 서두르는 절기입니다. (태양 황경 195°)\n• 한국표준시(KST) 절입 시각: 2029년 10월 08일 08시 53분\n• 음력/간지: 음력 2029년 9월 1일 (기유년 갑술월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 한로 (24절기) (음 9.1) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291016-80548ee625@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291016
+DTEND;VALUE=DATE:20291017
+SUMMARY:🌼 중양절 (중구일) (음 9.9)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌼 잡절·세시풍속 (비공휴일)\n[양력] 2029-10-16 (화요일)\n[음력/간지] 음력 2029년 9월 9일 (기유년 갑술월 기묘일)\n\n[상세 안내]\n음력 9월 9일 양(陽)의 숫자 9가 겹치는 가을 명절입니다. 국화전을 부쳐 먹고 국화주를 마시며 단풍놀이를 즐기는 세시풍속이 있습니다.\n• 음력/간지: 음력 2029년 9월 9일 (기유년 갑술월 기묘일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌼 중양절 (중구일) (음 9.9) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291023-0b67c11ab3@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291023
+DTEND;VALUE=DATE:20291024
+SUMMARY:🍂 상강 (24절기) (음 9.16)
+CATEGORIES:24절기\,천문역법\,상강
+DESCRIPTION:[분류] 🍂 24절기 (비공휴일)\n[양력] 2029-10-23 (화요일)\n[음력/간지] 음력 2029년 9월 16일 (기유년 갑술월 병술일)\n[절입/기준시각] 12:04 (KST)\n\n[상세 안내]\n밤 기온이 급격히 낮아져 서리가 내리기 시작하고 단풍이 절정에 이르는 가을의 마지막 절기입니다. (태양 황경 210°)\n• 한국표준시(KST) 절입 시각: 2029년 10월 23일 12시 04분\n• 음력/간지: 음력 2029년 9월 16일 (기유년 갑술월 병술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍂 상강 (24절기) (음 9.16) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291104-38b66d0e76@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291104
+DTEND;VALUE=DATE:20291105
+SUMMARY:🌾 추사일 (秋社日) (음 9.28)
+CATEGORIES:잡절·명절\,잡절\,세시풍속
+DESCRIPTION:[분류] 🌾 잡절·세시풍속 (비공휴일)\n[양력] 2029-11-04 (일요일)\n[음력/간지] 음력 2029년 9월 28일 (기유년 갑술월 무술일)\n\n[상세 안내]\n추분(秋分) 후 다섯 번째 무일(戊日)로\, 가을 추수를 마치고 토지신에게 감사의 제사를 올리던 전통 잡절입니다.\n• 음력/간지: 음력 2029년 9월 28일 (기유년 갑술월 무술일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌾 추사일 (秋社日) (음 9.28) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291107-74accfffdd@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291107
+DTEND;VALUE=DATE:20291108
+SUMMARY:🧥 입동 (24절기) (음 10.2)
+CATEGORIES:24절기\,천문역법\,입동
+DESCRIPTION:[분류] 🧥 24절기 (비공휴일)\n[양력] 2029-11-07 (수요일)\n[음력/간지] 음력 2029년 10월 2일 (기유년 을해월 신축일)\n[절입/기준시각] 12:15 (KST)\n\n[상세 안내]\n겨울이 시작되는 절기로 김장을 담그며 월동 준비를 시작합니다. (태양 황경 225°)\n• 한국표준시(KST) 절입 시각: 2029년 11월 07일 12시 15분\n• 음력/간지: 음력 2029년 10월 2일 (기유년 을해월 신축일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧥 입동 (24절기) (음 10.2) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291122-e284b6ac3d@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291122
+DTEND;VALUE=DATE:20291123
+SUMMARY:🌨️ 소설 (24절기) (음 10.17)
+CATEGORIES:24절기\,천문역법\,소설
+DESCRIPTION:[분류] 🌨️ 24절기 (비공휴일)\n[양력] 2029-11-22 (목요일)\n[음력/간지] 음력 2029년 10월 17일 (기유년 을해월 병진일)\n[절입/기준시각] 09:48 (KST)\n\n[상세 안내]\n첫눈이 내리기 시작하고 살얼음이 얼며 겨울 추위가 찾아오는 절기입니다. (태양 황경 240°)\n• 한국표준시(KST) 절입 시각: 2029년 11월 22일 09시 48분\n• 음력/간지: 음력 2029년 10월 17일 (기유년 을해월 병진일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌨️ 소설 (24절기) (음 10.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291125-bee3f79543@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291125
+DTEND;VALUE=DATE:20291126
+SUMMARY:🌬️ 손돌풍날 (음 10.20)
+CATEGORIES:잡절·명절\,잡절\,세시풍속\,음력명절
+DESCRIPTION:[분류] 🌬️ 잡절·세시풍속 (비공휴일)\n[양력] 2029-11-25 (일요일)\n[음력/간지] 음력 2029년 10월 20일 (기유년 을해월 기미일)\n\n[상세 안내]\n음력 10월 20일경 고려 시대 뱃사공 손돌의 전설에서 유래한 강추위와 거센 바람이 부는 시기입니다.\n• 음력/간지: 음력 2029년 10월 20일 (기유년 을해월 기미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌬️ 손돌풍날 (음 10.20) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291207-dddb5a588c@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291207
+DTEND;VALUE=DATE:20291208
+SUMMARY:⛄ 대설 (24절기) (음 11.3)
+CATEGORIES:24절기\,천문역법\,대설
+DESCRIPTION:[분류] ⛄ 24절기 (비공휴일)\n[양력] 2029-12-07 (금요일)\n[음력/간지] 음력 2029년 11월 3일 (기유년 병자월 신미일)\n[절입/기준시각] 05:15 (KST)\n\n[상세 안내]\n큰 눈이 많이 내린다는 절기로 농한기에 접어들며 이듬해 풍년을 기원합니다. (태양 황경 255°)\n• 한국표준시(KST) 절입 시각: 2029년 12월 07일 05시 15분\n• 음력/간지: 음력 2029년 11월 3일 (기유년 병자월 신미일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⛄ 대설 (24절기) (음 11.3) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kasi-20291221-07cbe2fe67@korea.calendar
+DTSTAMP:20261104T075512Z
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:🥣 동지 (24절기) (음 11.17)
+CATEGORIES:24절기\,천문역법\,동지
+DESCRIPTION:[분류] 🥣 24절기 (비공휴일)\n[양력] 2029-12-21 (금요일)\n[음력/간지] 음력 2029년 11월 17일 (기유년 병자월 을유일)\n[절입/기준시각] 23:15 (KST)\n\n[상세 안내]\n일 년 중 밤이 가장 길고 낮이 가장 짧은 날입니다. 액운을 쫓고 새해 건강을 기원하며 동지 팥죽을 나누어 먹습니다. (태양 황경 270°)\n• 한국표준시(KST) 절입 시각: 2029년 12월 21일 23시 15분\n• 음력/간지: 음력 2029년 11월 17일 (기유년 병자월 을유일)\n• 데이터 출처: 과학기술정보통신부 한국천문연구원(KASI) 특일 정보
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🥣 동지 (24절기) (음 11.17) 안내
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

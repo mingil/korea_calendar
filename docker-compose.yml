@@ -1,0 +1,38 @@
+services:
+  korea-calendar:
+    image: kimmingil/korea_calendar:latest
+    container_name: korea_calendar
+    restart: unless-stopped
+    init: true
+    user: "1026:100"
+    ports:
+      # 시놀로지 NAS 포트 충돌 방지:
+      # - 8500: NAS 호스트 redis-server 점유
+      # - 38500: antigravity-cli-ide 웹 프리뷰
+      # - 38501: ai_model_radar
+      # - 38502: karm_calendar
+      # -> 38503 포트를 대한민국 특일·절기·기념일 캘린더 허브 전용 포트로 할당
+      - "38503:8500"
+    environment:
+      - TZ=Asia/Seoul
+      - KOREA_CAL_HOST=0.0.0.0
+      - KOREA_CAL_PORT=8500
+      - KOREA_CAL_AUTO_SYNC_MINUTES=720
+      - KOREA_CAL_START_YEAR=2020
+      - KOREA_CAL_END_YEAR=2032
+      # 공공데이터포털 한국천문연구원_특일 정보 일반 인증키 (웹 대시보드에서도 실시간 입력/저장 가능)
+      - DATA_GO_KR_SERVICE_KEY=${DATA_GO_KR_SERVICE_KEY:-}
+    volumes:
+      - ./output:/app/output
+      - ./data:/app/data
+      - ./logs:/app/logs
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1:8500/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+    deploy:
+      resources:
+        limits:
+          memory: 256M

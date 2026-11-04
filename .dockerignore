@@ -1,0 +1,8 @@
+.git
+.github
+__pycache__
+.pytest_cache
+.env
+logs/*.log
+data/api_config.json
+output/Korea_All_Calendar_20*.ics

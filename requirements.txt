@@ -1,0 +1,7 @@
+fastapi>=0.110.0
+uvicorn>=0.29.0
+requests>=2.31.0
+python-dotenv>=1.0.1
+korean-lunar-calendar>=0.3.1
+qrcode>=7.4.2
+pydantic>=2.0.0

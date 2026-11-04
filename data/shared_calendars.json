@@ -1,0 +1,68 @@
+[
+  {
+    "id": "kr-reddays",
+    "name": "🇰🇷 대한민국 공휴일·대체공휴일 공유팩 (2025~2029년)",
+    "filename": "kr-reddays_대한민국_공휴일_대체공휴일_공유팩_2025_2029년.ics",
+    "note": "가족·직장 동료에게 바로 공유하기 좋은 빨간날+국경일+하루 전 알림 달력",
+    "categories": [
+      "holiday",
+      "national"
+    ],
+    "start_year": 2025,
+    "end_year": 2029,
+    "holiday_only": false,
+    "include_emoji": true,
+    "include_lunar_in_title": true,
+    "holiday_prefix": true,
+    "alarm_mode": "day_before_9am",
+    "event_count": 101,
+    "size_kb": 102.1,
+    "created_at": "2026-11-04 16:55:12",
+    "download_path": "/share/kr-reddays.ics"
+  },
+  {
+    "id": "kr-seasons",
+    "name": "🌿 한국천문연구원 24절기 & 삼복(초복·중복·말복)·세시풍속 공유팩",
+    "filename": "kr-seasons_한국천문연구원_24절기_삼복_초복_중복_말복_세시풍속_공유팩.ics",
+    "note": "입춘~동지 24절기(절입시각 포함)와 삼복더위 복날, 한식, 단오, 대보름 안내 달력",
+    "categories": [
+      "solar_term",
+      "sundry"
+    ],
+    "start_year": 2025,
+    "end_year": 2029,
+    "holiday_only": false,
+    "include_emoji": true,
+    "include_lunar_in_title": true,
+    "holiday_prefix": false,
+    "alarm_mode": "same_day_9am",
+    "event_count": 195,
+    "size_kb": 182.9,
+    "created_at": "2026-11-04 16:55:12",
+    "download_path": "/share/kr-seasons.ics"
+  },
+  {
+    "id": "kr-allinone",
+    "name": "🏛️ 대한민국 모든 행사·국경일·기념일·절기 마스터 공유팩",
+    "filename": "kr-allinone_대한민국_모든_행사_국경일_기념일_절기_마스터_공유팩.ics",
+    "note": "대한민국 관련 모든 법정기념일·국경일·공휴일·24절기·잡절이 총망라된 마스터 파일",
+    "categories": [
+      "holiday",
+      "national",
+      "anniversary",
+      "solar_term",
+      "sundry"
+    ],
+    "start_year": 2025,
+    "end_year": 2028,
+    "holiday_only": false,
+    "include_emoji": true,
+    "include_lunar_in_title": true,
+    "holiday_prefix": false,
+    "alarm_mode": "none",
+    "event_count": 630,
+    "size_kb": 491.0,
+    "created_at": "2026-11-04 16:55:12",
+    "download_path": "/share/kr-allinone.ics"
+  }
+]
